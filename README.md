@@ -3,7 +3,7 @@ This is a dataset where each file is associated to a term (in english). Each fil
 
 # Vector representations
 
-Each text snippet was embedded into document vector representations computed with Doc2Vec distributional semantics model. Different dimensions for these vectors were computed: 10, 20, 30, 40, 50, 100 and 300. Vectors are in plain text format at `~/vectors_Hxxx`
+Each text snippet was embedded into document vector representations computed with Doc2Vec distributional semantics model. Different dimensions for these vectors were computed: 10, 20, 30, 40, 50, 100 and 300. Vectors are in plain text format at `~/vectors_Hxxx`.
 
 For all dimensions, the Doc2vec model was trained with the Wikipedia corpus whose contents range up to 2012. The training was performed in such a way the vocabulary of the model considers 2e6 articles for a first training. Afterwards the model was re-trained with 1.6e6 additional articles with no new vocabulary (3.6e6 articles in total).
 
