@@ -11,6 +11,6 @@ For all dimensions, the Doc2vec model was trained with the Wikipedia corpus whos
 
 It is pending adding semantic similarity labeling among snippets. This similarity is planned to be measured with respect to different semantic domains for each snippet (not uniquely a pairwise similarity, as in the case of existent SemEval datasets). Such a labeling is thought to be provided by using our semantic similarity annotation tool: https://github.com/iarroyof/define-semantic-annotation (any contribution is welcome.)
 
-## Remark. 
+## Remark
 
-Not all text snippets contain definitions. Some of them are uniquely snippets containing definitional patterns (in the sense of the simplest regexs).
+Not all text snippets contain definitions. Some of them are uniquely snippets containing definitional patterns (in the sense of the simplest regexs), which do not introduces concepts (semantically speaking) in aproximately 30% of the cases.
