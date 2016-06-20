@@ -1,5 +1,5 @@
 # Describe_corpus
-This is a dataset where each file is associated to a term (in english). Each file in turn contains text snippets (one by row) for the associated term. The mentioned snippets were extracted by using the information extraction system called Describe. Mentioned systems specializes in extracting sentences meeting syntactic patterns which are common in definitions of terms. Thus the general sentence form we can see in the snippets of the corpus is that of definitional sentences (i.e. definitons of terms). We have 5911 snippets in total.
+This is a dataset where each file is associated to a term (in english). Each file in turn contains text snippets (one by row) for the associated term. The mentioned snippets were extracted by using the information extraction system called Describe. Mentioned systems specializes in extracting sentences meeting syntactic patterns which are common in definitions of terms. Thus the general sentence form we can see in the snippets of the corpus is that of definitional sentences (i.e. definitons of terms). We have 5911 snippets in total. This number is limited by the number of snippets Describe returns for a given search input, i.e. only terms which retrieved number of snippets is greater or equal to 70 were considered.
 
 # Vector representations
 
