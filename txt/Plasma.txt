@@ -1,0 +1,122 @@
+,"A plasma is a gas that has been energized to the point that some of the electrons break free from, but travel with, their nucleus. Gases can become plasmas in..."
+,"Therefore, a plasma is a bunch of electrons and ions. Plasma Ball. The plasma ball is a miniature Tesla coil. Inside the ball is a coil of wires that have a very high..."
+,"A plasma is a quasineutral, electrically conductive fluid. In the simplest case, it is composed of electrons and a single species of positive ions, but it may also..."
+,"A useful definition is as follows: A plasma is a quasineutral gas, of charged a neutral particles, which exhibit collective behavior. He further goes..."
+,A plasma is a hot ionized gas consisting of approximately equal numbers of positively charged ions and negatively charged electrons. The characteristics of...
+,"A plasma is a gas in which an important fraction of the atoms is ionized, so that the electrons and ions are separately free. When does this ionization occur?"
+,"A plasma is a gas which is heated to an extremely high temperature and ionized so that it becomes electrically conductive. Similar to GTAW (Tig), the plasma arc..."
+,"A plasma is a gas that is significantly ionized (through heating or photoionization) and thus is composed of electrons and ions, and that has a low enough..."
+,"have so much energy that when they collide, the electrons get knocked off. Therefore, a plasma is a bunch of electrons and ions (atoms missing their electrons)."
+,"Put in other words, the plasma is a greedy conductor of electricity. Suppose it has just enough free electrons to get a current started. The current..."
+,A plasma is a gas of charged and neutral particles. But not all ionized gases are plasmas. In order for an ionized gas to be a plasma the gas commonly satisfies...
+,Plasma: A plasma is a gas that is composed of free-floating ions (atoms stripped of some electrons - positively charged) and free electrons (negatively charged).
+,"Simply stated, a plasma is a gas containing charged particles like electrons and ions. The application of the initial voltage through the power supply creates a..."
+,"Plasma: A plasma is a material which has been heated to a temperature where molecules are not stable. In a plasma state, a substance is a mixture of neutral..."
+,"A plasma is a ionized gas composed of roughly equal numbers of electrons and ions (quasi-neutral). To keep things simple, we will be..."
+,A plasma is a (usually gas-like phase composed of ions of the material. I don't know of a special name given to the condensation of a plasma...
+,"A useful definition is as follows: A plasma is a quasineutral gas, of charged a neutral particles, which exhibit collective behavior. (Ref)."
+,A more precise definition: a plasma is a quasi- neutral gas of charged and neutral particles which exhibits collective behavior. Examples: Sun...
+,"A plasma is a (partially) ionized gas. In the plasmas we deal with, free electrons collide with neutral atoms/molecules and, through a dissociative process, they..."
+,"A plasma is a partially ionized gas consisting of positively charged particles (cations), negatively charged particles (electrons and anions), and neutrals."
+,"A plasma is a state of matter like a solid, liquid or gas. Adding heat to material causes the molecules in it to vibrate or move more quickly. When a solid is heated,..."
+,"For a bedroom, a plasma is a good choice. TVs in a bedroom are mostly watched at night so the glare and lower luminosity of a plasma will not be a problem."
+,"A plasma is a fluid, like a liquid or gas, but because of the charged particles present in a plasma, it responds to and generates electro-magnetic forces. There are..."
+,"A plasma is a state of matter in which a noticeable part of the atoms are ionised. (e.g. He ) He. +. + e). Even more informally: A plasma is a hot, light-emitting gas."
+,"A plasma is a very funny beast. At first blush, a plasma is similar to a gas: it is compressible, it flows, and it will even obey the ideal gas law to..."
+,"A plasma is a gas consisting of ions and electrons. An ion is an atom with a positive or negative electrical charge. It is possible to transition between these states,..."
+,"A plasma is a very hot gas, hot enough to conduct electricity. It better not touch the walls around it! If it does, it will pass some of its heat to those..."
+,"First, what is a plasma? A plasma is a gas of electrically charged particles that behave collectively. Usually, that means protons and electrons in..."
+,"A plasma is a very hot gas, where some or all of the atoms are separated into ions & electrons. As the negative and positive charges are free to move, plasma is..."
+,A plasma is a sample of matter in which many of the electrons wander around freely among the nuclei of the atoms.
+,A plasma is defined as a quasineutral gas of charged and neutral particles which exhibits collective behavior [3]. Plasma can be classified into non-thermal and...
+,"In the bland lexicon beloved of physicists, a plasma is defined as an ""ionized gas."" The idea is to distinguish it from the ordinary or ""neutral"" gases of various..."
+,"In the bland lexicon beloved of physicists, a plasma is defined as an ""ionized gas."" The idea is to distinguish it from the ordinary or ""neutral"" gases of various..."
+,"A plasma is defined as a gas that contains neutral atoms, charged atoms and free electrons. Plasmas are able to generate electro-magnetic forces. See Also:..."
+,A plasma is defined as a quasineutral gas of charged and neutral par*cles which exhibits collec*ve behaviour. For an ionized gas to behave like a plasma a...
+,the quark-gluon plasma (QGP). The plasma is defined as being a state of matter for which the density of partons (quarks and gluons) is so great...
+,"A plasma is defined as a gas that contains neutral atoms, charged atoms and free electrons. Plasmas are able to generate electro-magnetic forces. See Also:..."
+,"A plasma is defined as (1+5) ""an ionized gas (as in the atmosphere of stars) containing about equal numbers of positive ions and electrons and differing from an..."
+,A plasma is defined as a gas of charged particles in which the potential energy of a typical particle due to its nearest neighbours is much smaller than its kinetic.
+,"The plasma is defined as the ratio between the plasma pressure and the magnetic pressure. [Chen, 1983]. It is derived from a simple static solution where."
+,"a plasma is defined as: an electrically neutral, highly ionized gas composed of ions, electrons, and neutral particles. it is a phase of matter distinct from solids,..."
+,A plasma is defined as an ionised gas It is often descnbed as the fourth state of matter. Plasma Enhanced Chemical Vapour Deposition. [30] facilitates the.
+,"A plasma is an electrically conductive gas containing charged particles. When atoms of a gas are excited to high energy levels, the atoms loose hold of some of..."
+,"If the gas used is oxygen, the plasma is an effective, economical, environmentally safe method for critical cleaning. The VUV energy is very effective in the..."
+,A plasma is an ionized gas. Plasma is called the fourth state of matter. Much of the mass of the universe is in the plasma state. 'Plasma' was coined by...
+,"IV. Plasma state of matter. A plasma is an ionised gas that is in state of electrical quasi-neutrality, the behaviour of which is governed by collective effects due to..."
+,A plasma is an ionized gas consisting of ions and free electrons distributed over a region in space. The effect of the aerosol operations can lead to no other...
+,"A plasma is an ionized gas. However, not all ionized gases are plasmas. In order for an ionized region of a flame to be plasma, it must contain enough charged..."
+,"A plasma is an ionized gas, where some electrons have escaped from their atoms and roam freely about the cloud. If it's very cold or very dense..."
+,"A plasma is an ensemble of particles electrons e, ions i and neutrals n with different positions r and velocities v which move under the influence of external."
+,"I.e., a plasma is an ionized gas, or a partially-ionized gas."" Implies that the potential energy of a particle with its nearest neighboring particles is weak compared..."
+,A plasma is an ionized gas consisting of ions (atoms with some of their electrons removed) and free electrons. Hot plasmas are found throughout the universe: in...
+,to create an extremely strong electric field and thus attain high particle energies in very short distances. A plasma is an electrically neutral gas.
+,"Atoms consist of a nucleus containing protons, neutrons, and electrons that orbit the nucleus. A plasma is an ionized gas. What is Plasma? It is easier to create."
+,"A plasma is an ionized, glowing gas. The pressure on the Red Planet is only about one percent of that at sea level on Earth, allowing the plasma to expand more..."
+,"A plasma is an ionized gas, consisting of not only neutral gas molecules but also free electrons and charged ions. Though often thought of as..."
+,"A plasma is an extremely complex medium, characterized by phenomena that occur on a extremely wide range of temporal and spatial scales, which are all..."
+,"In general, a plasma is an ionized gas (excited electrically, thermally or from electromagnetic irradiation) containing electrons, ions, radicals and atoms."
+,"ICP-AES utilizes plasma as the atomization and excitation source[20]. A plasma is an electrically neutral, highly ionized gas that consists of."
+,A plasma is an ideal medium for particle acceleration since. ~1! plasmas can support very high longitudinal electric fields. ~several hundreds of gigavolts are...
+,"A plasma is an ionized gas and represents a fourth state of matter (as in solids, liquids, gases and plasmas). In space, plasmas are very..."
+,"A plasma is an ionized gas containing equal numbers of positive and negative charges, and usually a different num- ber of non-ionized neutral molecules."
+,"A plasma is an ionized gas consisting of ions and electrons, and it is the material of which the space between our planets is composed. The Institute of Space..."
+,"A plasma is an ionized gas, a gas into which sufficient energy is provided to free electrons from atoms or molecules and to allow both species,..."
+,The plasma is an ionized gas that when accelerated produces a thrust. The CAT cannot match the thrust provided by the NASA or ISRO's space...
+,"Abstract. From the fluid model, the plasma is an isotropic medium. First, it is obtained that the microwave field in a cylindrical cavity filled with plasma, where the..."
+,"In physics and chemistry, a plasma is an ionized gas, and is usually considered to be a distinct phase of matter. ""Ionized"" in this case means that at least one..."
+,The plasma is an extremely hot state of matter consisting of charged heavy hydrogen nuclei and free electrons swirling around at very high velocities. This level...
+,A plasma is an ionised gas in which the nearest neighbour interactions between the electrically-charged constituents (negatively-charged electrons and...
+,"A plasma is an electrically conducting high temperature-- at high temperatures the electrons in outer shells can get ""kicked out""...we say the gas is ionized...that..."
+,A plasma is any gas in which a significant percentage of the atoms or molecules are ionized. Fractional ionization in plasmas used for deposition and related...
+,"Strictly speaking, a plasma is any form of matter that contains an appreciable fraction (>1%) of electrons and positive ions in addition to neutral atoms, radical..."
+,"""A plasma is any state of matter which contains enough free, charged particles for its dynamical behavior to be dominated by electromagnetic forces."" G. Parks..."
+,"A plasma is any ionized gas, that is, any gas with ions and electrons. Magnetic Reconnection: Magnetic reconnection is the breaking and reconnecting of..."
+,"A plasma is any substance that contains charged particles: negatively charged electrons, positively charged ions, or dust particles that have an excess of either..."
+,"A plasma is any smooth liquid in which there are suspended particles...In a combustion chamber, plasma has abundant free ions and electrons and therefore..."
+,A plasma is any quasi-neutral gas whether fully or only partially ionized that exhibits the collective behaviour described above [7]. As much as 99%.
+,"Strictly speaking, a plasma is any form of matter that contains an appreciable fraction. (>1%) of electrons and positive ions in addition to neutral atoms, radicals..."
+,"A plasma is any gas in which a significant percentage of the atoms or molecules are ionized, resulting in reactive ions, electrons, radicals and..."
+,A plasma is characterized by collective effects. 1.1 Debye shielding. Consider a test particle with a positive charge (11*. In a vacuum it would...
+,The plasma is characterized by simultaneous imaging Thomson scattering measurements from both the electron and ion scattering features. The electron...
+,"Produced by a thermionic discharge, the plasma is characterized by a low electron temperature and a low density. Plasma confinement is provided by an axial..."
+,is 1. The subspace x < 0 is occupied by a magnetoactive plasma with the magnetic field having the oZ direction. The plasma is characterized by the tensor. FI.
+,The plasma is characterized by calorimetric energy balances and the powders by on-line aerosol measurement techniques and conventional materials analysis.
+,"The plasma is characterized by a uniform electron temperature T and a parabolic density distribution No, (1 - ar2/a2), where No, is the central line density, a the..."
+,"In plasma fluid theory, a plasma is characterized by a few local parameters--such as the particle density, the kinetic temperature, and the flow velocity--the time..."
+,"The plasma is characterized by both electrical probes and optical emission spectroscopy, obtaining electron density, electron mean energy, atomic hydrogen..."
+,"The plasma is characterized by a permittivity tensor; and only the TiLI incident held is considered, as the anisotropy does not affect an incident TE wave."
+,"c is the shock velocity. The plasma is characterized by the electron temperature Te, ion temperature Ti, and the temperature Tn of neutrals. The stepwise shock..."
+,"In the advanced tokamak scenarios, the plasma is characterized by an internal transport barrier. (ITB), a region of improved confinement of heat and particles..."
+,The plasma is characterized by its emission spectra and excitation temperature temporal profiles. The temperature profiles of the plasma are calculated by the...
+,"charge. There are ions with different charges in such plasmas. Moreover, the plasma is characterized by high velocity of plasma flow [3]. The MP is immersed in."
+,"In the simplest case, the plasma is characterized by an ion charge number Z, and mass Zith, and the laser pulse by its peak power Wm, half-width xu."
+,The plasma is characterized by measuring the self bias potential and the saturation ion current as a function of pressure and incident power. The etching results...
+,"In literature, a plasma is characterized by the value of the plasma parameter . = (Ze)2 a kT. ,. (1) where a = n1/3 is of the order of the interparticle average."
+,"The plasma is characterized by electron and ion densities ne and ni, hydrodynamic velocities ve and vi, and electron pressure pe. The ion temperature is."
+,A plasma is characterized by the presence of positive. (and sometimes also negative) ions and charged electrons in a neutral background gas.13 Plasmas can...
+,"Although, the plasma is characterized by a relatively low beta, p < 0.6%, with auxiliary heating of only 0.5 MW of NBI power, it was found that the BAAE can be..."
+,"The plasma is characterized by its susceptibility tensor leading to the dispersion relation D(w , E) = O. Asymptotic formulae are derived which state that only..."
+,The plasma is characterized by an average major radius ^Raxis& and an average plasma ra- dius ^a&. Separate toroidal field coils are not required and poloidal...
+,"The plasma is characterized by the steadystate plasma current. Ip, the steady-state line-averaged density ne, and the toroidal field ET. (The term line-average..."
+,"netism in the cosmos. A plasma is characterized by partial ioni- zation of its particles, making it strongly responsive to electro- magnetic forces. Plasma-physical..."
+,"Plasma is the pale yellow liquid portion of your blood that can be easily replaced by the body. It consists mainly of water and proteins, which help your body..."
+,"Plasma is the most common form of visible matter in the universe. The four fundamental states of matter. Clockwise from top left, they are solid, liquid, plasma..."
+,"Plasma is the liquid portion of the blood. Blood cells like red blood cells float in the plasma. Also dissolved in plasma are electrolytes, nutrients and vitamins..."
+,"Plasma is the fourth state of matter. To undergo nuclear fusion, the fuel must be heated to the point that it becomes plasma. Learn the basics of plasmas here!"
+,"Plasma is the liquid part of blood that transports dissolved substances like vitamins, amino acids, mineral salts and glucose around the body and defends it..."
+,"Plasma is the pale yellow liquid part of whole blood, in which the cellular elements are suspended. It is enriched in proteins that help fight infection and aid the..."
+,"Plasma is the clear, straw-colored liquid portion of blood that remains after red blood cells, white blood cells, platelets and other cellular components are..."
+,Plasma is the liquid portion of the blood that serves as a carrier for the red and white cells. It is made up mostly of water and dissolved proteins including...
+,Plasma is the only major fluid compartment that exists as a real fluid collection all in one location. It differs from ISF in its much higher protein content and its high...
+,"Plasma is the liquid part of your blood. It carries blood cells, hormones, enzymes, and nutrients to your body. TTP is treated with plasma therapy. This includes:."
+,"If you have a wide seating area, plasma is the way to go. One other side-effect of most RPTV screens is a speckle/sparkle effect, almost like tiny..."
+,"Plasma is the liquid portion of your blood that furnishes it with the right proteins for clotting and is used to help hemophiliacs, among other patients. It is the most..."
+,"Plasma is a cloud of protons, neutrons and electrons where all the electrons have come loose from their respective molecules and atoms, giving the plasma the..."
+,What is plasma in plasma TVs? Plasma is a gas made up of free-flowing ions and electrons. See what is plasma when you add an electrical current.
+,"Plasma is a state of matter. Everything in the Universe is made of stuff called matter. All matter is made of atoms , and it can exist in different states."
+,"Plasma is a clear, yellowish fluid (the color of straw). Plasma can sometimes appear milky after a very fatty meal or when people have a high level of lipids in..."
+,Plasma is a partially ionized gas mixture capable of numerous surface modification processes. Nordson MARCH is the global leader in plasma technology.
+,"Plasma is a yellowish liquid that is mostly water. But it also carries important nutrients, hormones, and proteins throughout the body. Nutrients are chemicals from..."
+,"In short, plasma is a partially ionized gas and therefore the ability of the negative charges to move about makes it very responsive to electromagnetic fields."
+,"Plasma is a yellow, liquid substance that is part of the roughly 12 pints of blood you have in your body. Through a process called plasmapheresis, you can..."

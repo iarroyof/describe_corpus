@@ -1,0 +1,109 @@
+,The Context is a technical feature introduced with version 1.5 of PrestaShop. ... The Context is a registry for PHP variables that were previously...
+,A context is a variable name -> variable value mapping that is passed to a template. A template renders a context by replacing the variable holes with values...
+,A context is a name -> value mapping (similar to a Python dictionary) that is passed to a template. A template renders a context by replacing the variable holes...
+,The context is a user context; any database operations MUST be performed with the domain of the user. SCARD_SCOPE_TERMINAL 0x00000001. The context...
+,"Contexts. A context is a description of the current situation on an abstract level, derived from the cues that are available. The context is described by a set of..."
+,A Context is a logical entity on an MG that is an association between a collection of Terminations. A NULL context contains all non-associated terminations.
+,"The context is a set of information pieces that are accessed or built to give a meaning at a message. Thus, explanation is a means to share the context that is ..."
+,The context is a 2-way interactive SMS service. I've seen revenue-share models on premium smses/short-codes. And revenue-share models on platforms like...
+,A Context is a Constraint or Condition which when true means you are able to 'do ' the action. E.g. Reading is something you do - an action.
+,"A context is a class that represents a session with the database and allows me to read and write data. I haven't created a context yet, so I'll..."
+,The context is a special object that handles variable lookups and controls template behavior. It is the interface between your application logic and your templates...
+,"For Kaplan, a context is a quadruple of an agent, location, time and world; intuitively, these are the speaker of an utterance, the time and..."
+,"A context is a universe where messages exist and do not * interact with other context's messages. The context * includes the definition of a grid, and each..."
+,The context is a game. Put the baseball bat in a baseball game and the bat looks useful. Put the baseball bat in a poker game and the bat looks...
+,"worlds. In the case of beliefs, the context is a set of worlds whereas in the case of propositions the context is a single world. We say that P is believed by an agent..."
+,"A context is defined as a consistent set of propositional assumptions about which something can be said. Such a set forms a theory of some topic, e.g., a theory..."
+,"In CGs, a context is defined as a concept whose referent field contains nested conceptual graphs. Since every context is also a concept, it can have a type label ,..."
+,"In COM+, a context is defined as set of run-time properties associated with one or more COM objects that are used to provide services for those objects. In COM+..."
+,A Context is defined as a Start Pattern and an optional End Pattern. Patterns must be valid Regular Expressions. The End Pattern may be omitted if Ends at EOL...
+,"the context is defined as: period it is set in. genre. suggested performance style. any social, cultural and historical connection. the evaluation reflects on..."
+,A context is defined as a combination of an arbitrary number of context attribute- value pairs. We only consider cases where outliers can only be...
+,"The context is defined as a set of entities and their status. One entity can be a person, a place or an object relevant for any type of interaction between user and ..."
+,intervals. This paper presents a model to handle various contexts and situations in information logistics. A context is defined as a collection of values usually.
+,the common set of global control states. A context is defined as a computation in which all transitions act on the same stack. In [QR05] it is shown how to compute ...
+,"The context is defined as all of the parent items that contain the item. For each target node, the mapping table provides a list of valid mapping..."
+,"study [1], the context is defined as ''any information that can be used to characterize the situation of an entity. Moreover, an entity can be a person, place or."
+,"A context is defined as a collection of local mental models, namely mental models which represent only part of a situation. We argue that most reasoning tasks..."
+,The context is defined as all preceding symbols of the symbol that is being encoded. Every context that occurs is stored as a path in the context trees.
+,The context is defined as a C struct: #include typedef struct { mpd_ssize_t prec; // precision mpd_ssize_t emax; // max positive exp mpd_ssize_t...
+,"The context is defined as people watching the show, their sentiment related to watching the show and the comparison between each show."
+,One key aspect in any AmI-based system is the use of context-aware technolo- gies. The context is defined as any information used to characterize the situation.
+,"A context is defined as a triple. , where and are sets and . The elements of are regarded as objects and the elements of as features or attributes that the objects ..."
+,observation of human activity. A context is defined as a network of situations. A situation network is interpreted as a specification for a federation of processes to.
+,A Context is defined as a location or activity. Simple tell your Mac what you want it do in each context by setting up a few basic rules and then...
+,A Context is defined as a class. The act of instantiating the class and calling it's # call method is known as triggering. Having the class method...
+,"Thus, the context is defined as the overall pattern of activation that dynamically and continuously changes in response to the environment. Each DUAL-agent..."
+,A context is an ordered sequence of properties that define an environment for the objects resident inside it. Contexts get created during the activation process for...
+,The Context is an object which provides accees to application runtime environment. In most cases when you need to obtain objects from...
+,"A Context is an instance of ContextHandler that aggregates other handlers with common resources for handling HTTP requests (such as resource base, class..."
+,"Class Summary. Context, A context is an answer to the question ""when"". ContextEvent, An instance of this class describes changes to an instance of IContext ."
+,"In V8, a context is an execution environment that allows separate, unrelated, JavaScript applications to run in a single instance of V8. You must..."
+,"The context is an existing commercial office building in Phoenix, AZ. The intent is to encourage creative approaches to energy efficiency..."
+,"The intuition that a context provides here is: a context is an abstract identifier that refers to implicit and tacit assumptions in a domain, and that maps a term to its..."
+,"The context is an island in Croatia which avoided the ravages of drought by using recovered rainwater. The sentence is: ""La relve est en..."
+,"What are Contexts? A Context is an area of similar responsibility within the code and/or UI. Contexts in Your Modules, In your module, contexts are represented..."
+,"The context is an account of what is described as a gradual falling out between the Obamas and Caroline Kennedy, who had been a fervent..."
+,A context is an area in Moodle where roles can be assigned to users. A role can be assigned within different contexts. A context could be the entire Moodle site.
+,"A Context is an area of similar responsibility within the code and/or UI. They appear as top-level navigation objects within the main menu, and should all cover a..."
+,"The context is an eclectic mix of both old and new housing stock typical of this suburb. The fundamental design intent was to create a contemporary, liveable..."
+,The context is an acknowledgment by the US and Britain that the Assad regime is relatively robust and unlikely to collapse any time soon (see...
+,"A context is an independent instance within the createcontext Open-Xchange system and holds users, groups and resources and all their objects. Data from one..."
+,'The context is an Art' This master piece that guarantee to be an sculpture art and has been build several major cities around the globe.
+,A context is an object capable of playing one piece of input media at a time on a set of output devices. The input can contain both audio and...
+,The context is an extended study of an E business module at the University of Warwick in which the use of communication technology is pivotal. The module...
+,"The workflow has changed to a concept called context. A context is an environment you are currently working on. Now Zentyal Cloud has two kinds of contexts,..."
+,"A Context is an area of the network that is homogenous in some regard. Principally naming, addressing, routing and transport. Two purposes: Locational: serve..."
+,"The context is any mixed linear model, and the approach does not require that there be equal numbers of observations in the case of multivariate data."
+,"that is relevant to future security-related actions. A context is any instantaneous, de- tectable, and relevant property of the environment, the system, or users, such ..."
+,"A context is any auxiliary information that might accompany a search, and might include information that is factual, estimated or inferred. Natural examples of..."
+,"der specific contexts. A context is any auxiliary information that might accompany a search, and might include information that is factual, es- timated or inferred."
+,"A context is any instantaneous, detectable, and relevant property of the environment, the system, or users, such as time, location, light intensity, available ..."
+,"A context is any information that can be used to characterize the situation of an entity. An entity is a person, place, or object that is considered relevant to the..."
+,"Thus, the context is any food from supermarkets, and the nature of the food and its preparation is left unspecified. The nature of the health effect is, presumably,..."
+,"The context is any type of investigation be it grievance, discipline, staff related or student related. To set the context a number of questions are..."
+,"A context is any thread that can execute on a processor, including user programs, system threads, interrupts, and the kernel's idle thread. A typical work flow for..."
+,"According to Dey [3], the context is any information that can be used to characterize the situation of. Manuscript received February 16, 2012; revised March 27,..."
+,"The context is any combination of window, title, icon, root, frame, iconmgr, their first letters (iconmgr abbreviation is m), or all, separated by a vertical bar."
+,"A context is any situation, scenario, or activity that gives students the opportunity to interact or communicate using the target language."
+,"The context is any observational study. This includes data from an RCT where initial treatment assignments are made, but patients fall into..."
+,A context is any object that can respond to the message at:. A Dictionary object is one example and an instance of the Object class in the active object-model is...
+,"Hi, A context is any JDOM object (Document, Element, Comment, etc.) to be used as base for resolving the XPath expression. If your XPath..."
+,"A context is any identifiable configuration of envi- ronmental, mission-related, and agent-related fea- tures that has predictive power for behavior. He proposes a..."
+,"Similarly, the context is any combination of window, title, icon, root, frame, iconmgr, their first letters (iconmgr abbreviation is m), or all, separated by a vertical bar."
+,"The context is any information through which the status of entities can be explained. In this explanation, an entity is an individual, a location or any object related..."
+,"A context is any situation, scenario, or activity that gives students the opportunity to interact or communicate using the target language. A context elaboration is..."
+,"A context is any instantaneous, detectable, and relevant property of the environment, the system, or users, such as location, available bandwidth and a user's..."
+,"(iii) A context is any finite set of variables having pairwise distinct names (we do not allow, say, xN and xNN in the same context). (iv) Let t, f, a1, a2 be any..."
+,"Similarly, the context is any combination of window, title, icon, root, frame, iconmgr, their first letters (iconmgr abbreviation is m), or all, separated by a vertical bar."
+,"A context is any kind of constraint which may or may not involve the subject and/ or the action and/or the object. Organization, subject, object, action and context."
+,"The context is characterized by the coexistence of a slightly developed urban sector and an impoverished rural sector, high mortality due to Aids, and increasing..."
+,"The context is characterized by complex projects that are implemented in dynamic environments and consist of multiple firms in various roles, with each firm and..."
+,"The context is characterized by the interactions of a multitude of distributed decision makers (regulators, prosumers, retailers, system operators, ..), that interact in..."
+,"The context is characterized by a culture that is clear about prevailing values and beliefs. There is absence of feedback concerning individual, team, and system..."
+,"The context is characterized by resource constraints, high workload, traditional health beliefs, and the difficulty of referring patients to the next level of care."
+,"The context is characterized by complex projects that are implemented in dynamic environments and consist of multiple firms in various roles,..."
+,The context is characterized by a migration of people without income to the surrounding countryside and pressures on forests due to cuts related to the energy...
+,"The context is characterized by contested scientific results regarding crucial issues such as the impact of geothermal exploitation, the conservation of water..."
+,The context is characterized by a migration of people without income to the surrounding countryside and pressures on forests due to cuts related to the energy...
+,"vitogaz. context. the context is characterized by: demographic and urban growth (>6% growth per year in cities) leading to an increased demand for charcoal,..."
+,The context is characterized by moderate to high building heights to promote a dense urban character. Lower scale structures are typically...
+,"In fact, the context is characterized by a combination of practices that the environmental action plan aims to modify; new organizational relationships and."
+,"The context is characterized by the aim of the study and the environment ( different agents implicated, their relationship etc.) in which the study is carried out etc."
+,"The context is characterized by the appearance of eHealth. systems such as for health information, supply-chain management, and electronic medical records..."
+,The context is characterized by a rapid change in policies and in the economy where the margin of choice for farmers is relatively limited. The study was...
+,defining navigation contexts. a context is characterized by. a query for selecting its elements. an ordering for accessing its elements. an optional parameter.
+,"The context is characterized by rapid political, social and structural changes (are rapid or abrupt historic changes following an extended period of crisis). The aim..."
+,"The context is characterized by a certain continuity in the presence of concepts and modes of argumentation. Yet even though these can be traced, the meaning ..."
+,The context is characterized by a culture that is unclear about values and beliefs. The context is characterized by a culture that is clear about...
+,"As clarified above, a context is characterized by a set of attributes related to system components, each of them per- taining to a particular aspect of the system ,..."
+,"The context is characterized by a quantity of amphora discards, including examples of Dressel Form 2-4 (P66, et al.) and one example of Pelichet Form 47 ..."
+,"Some argue that entrepreneurship is merely leadership in a special context, a context defined as the discovery, evaluation, and exploitation of an opportunity to."
+,"value or real numbers). for example, the context defined as. (time8)and( time16)and(isrunning=true) be- comes active if the user is running between 8 am..."
+,"elements for others? 2.3. The context defined as a resource or a constraint for action. As early as 1987, Suchman suggested that the situation of an action could ..."
+,"of research and underpinning theories. Contexts are thus enacted as detailed below. First, the context known as 'disclosure of researcher'."
+,"A context identified as a hearth by excavators may actually be a pit filled with the residue of several cooking procedures dumped together, some of which did not..."
+,"broad, a context understood as such is thus still limited to traditionally under- stood sources of the law. Such an approach is consistent with the scope of."
+,"Context is a trigger for relapse to alcohol. Zironi I, Burattini C, Aicardi G, Janak PH . Department of Human and General Physiology, University of Bologna, Via..."
+,"Context Is a Layer and Not a Category. by Raj on November 27, 2012 1 Comment. Yes, I know I haven't blogged in a while, I've been heads-down at the office..."
+,"Context is a powerful way to organize functions. And no doubt this model will eventually makes its way into smartphone software, where the..."

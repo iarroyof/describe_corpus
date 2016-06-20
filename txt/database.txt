@@ -1,0 +1,95 @@
+,"In the most basic terms, a database is defined as ""a collection of related data organized for convenient access, generally via a computer system."" When you think..."
+,"A phone book is also a database usually organized alphabetically by surname. In computing, a database is defined as a structured collection of records or data."
+,A database is defined as an organised collection of data items which may be accessed by a database management system. The database may consist of...
+,"A database is defined as ""a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by..."
+,"A database is defined as 'a. collection of independent works, data or other materials arranged in a. systematic or methodical way and individually accessible by."
+,"A database is defined as a collection of independent works, data or other materials which: (a) are arranged in a systematic or methodical way; and (b) are..."
+,... in sociological-related journals. A database is not limited to indexes. A database is defined as a collection of information regardless of what that information is.
+,A database is defined as a collection of relations (or tables). Each of these relaions has a fixed set of attributes and stores data in the form of tuples (or rows) .
+,The database is defined as a set of tables with rows and columns defining fields that comprise the stored information. SQL uses an. English language like syntax ...
+,"A database is defined as a collection of information that is organised so that the required information can be quickly retrieved, amended if necessary, and then..."
+,"A database is defined as an organized collection of information. Database contents can be easily accessed, updated and managed. Databases can be found in..."
+,The idea behind is simple and elegant: a database is defined as a collection of relations in a strict logic sense. Because of its simple presentation and solid...
+,"A database is defined as ""a collection of independent works, data, or other materials arranged in a systematic or methodical way and individually accessible by..."
+,"A Database is defined as a file of records created by the Software during installation or through a Software utility, which is used exclusively to support the..."
+,"... the database or databases. A Database is defined as a set of data that is required for a specific purpose or is fundamental to a system, project, or enterprise."
+,"A database is defined as an original literary work if, and only if, by reason of the selection or arrangement of the contents of the database the..."
+,"A database is an organized list of facts and information. Databases usually contain text and numbers, and frequently they hold still images, sounds and video or..."
+,"A database is an application that manages data and allows fast storage and retrieval of that data. There are different types of database, including a modern..."
+,A database is an organized collection of data. The data are typically organized to model relevant aspects of reality in a way that supports processes requiring...
+,"In general, a database is an online collection of information that can be searched in some way. Article databases refer to online collections of citations,..."
+,A database is an electronic rolodex that helps you organize your information in such a way that allows you to not only store that information...
+,The solution to this complex interaction of data is to store the information in a database instead of in separate files. A database is an integrated collection of files.
+,"A database is an collection of data organized in some way, but a data warehouse is organized specifically to ""facilitate reporting and analysis""."
+,A database is an organized collection of interrelated data that serves a number of applications in an enterprise. The database stores not only the values of the...
+,"What is a database? The simple answer to this question is: ""A database is an organised collection of information"". Databasics. You use databases all the time, ..."
+,"A database is an organized collection of information treated as a unit. The purpose of a database is to collect, store, and retrieve related information for use by..."
+,"A database is an organized collection of data. The data is typically organized to model relevant aspects of reality (for example, the availability of rooms in hotels), ..."
+,"Otherwise, the database is an implementation detail that you really should leave out of the diagram. I think it is rarely necessary, if at all, to go..."
+,"Answer 1.1 A database is an integrated collection of data, usually so large that it has to be stored on secondary storage devices such as disks or tapes. This data ..."
+,"A database is an organized collection of records. Telephone and address books are examples of paper databases. With Access, you can create a computerized..."
+,"In short, a database is an organized store of data wherein the data is accessible by named data elements. A Database Management System (DBMS) is a..."
+,the Microsoft SQL Server 2005 Express Edition. The database is an optional part of a. Visual Studio installation (including express edition) and is also available...
+,Database: A database is an organized collection of information. This information can be stored as a set of text files or spreadsheets as well as...
+,"A database is an area within the database software that contains all the tables that make up this particular set of data. For instance, if you wanted to keep track of..."
+,"A database is an organised, integrated collection of data items. The integration is important; data items relate to other data items, and groups of related data..."
+,"A database is an integrated collection of data records, files, and other objects. DBMSs may use a variety of database models, such as the relational model..."
+,"A database is an organized collection of information. Common examples of a database would be a telephone book, mailing list, recipe book, or a check book."
+,"In most peoples' experience, a database is an instance, and an instance is a database. In many test environments, however, this is not the case..."
+,"A database is an essential part of most websites and blogs, but setting up and using a database can be a daunting task for the beginner web..."
+,"A database is an organized collection of facts and information, such as records on employees, inventory, customers, and potential customers. As these examples ..."
+,"A database is an organized collection of data. The data is typically organized to model relevant aspects of reality (for example, the availability of rooms in hotels), ..."
+,"The database is an intermediate link between the physical database, computer and the operating system and the users. To provide the various facilities to..."
+,A database is an organized collection of data whose content must be quickly and easily. Accessed. Managed. Updated. A relational database is one...
+,"In the Microsoft Access Object Library, a database is an object of type Database. Therefore, if you want to start an object associated with a database, you can..."
+,Database development: the first steps;; Quality control issues;; Data entry considerations;. What is a database. A database is any organized collection of data.
+,"A database is any collection of information organized so that it can be used efficiently. A telephone directory is a good example of a database. So is a dictionary,..."
+,"File: N_drive:jhuclass1995db-fund.ppt. 1994, 1995 Robert Robbins. What is a Database? General: A database is any collection of related data. Restrictive:."
+,A database is any logically coherent collection of data organized for storage and retrieval by computers. Databases provide a high level of structure for the...
+,A database is any program or tool that staff currently use to collect and store agency information. It is very helpful to collect examples from staff of any:.
+,A database is any collection of data that can be retrieved using organized search procedures. Many people today are hotshots on computers.
+,A database is any collection of data or information that is specifically organised for rapid search and retrieval by a computer. Online databases frequently provide ...
+,"A database is any repository for information. The term is often used interchangeably with the term, ""archive."" In this series of articles, these terms refer to..."
+,A database is any organized searchable collection of information that is made up of related records. The examples of a database: a phone...
+,"Database: A database is any organized collection of information. Examples of databases you may encounter in your daily life include the telephone book, T.V...."
+,"A database is any collection of data, or information, that is specially organized for rapid search and retrieval by a computer. South High Library's..."
+,"A database is any organized searchable collection of information that is made up of related records. In libraries, this usually means a..."
+,"A database is any organized collection of information, available for retrieval, sorting, reporting, and updating. Database Management. System, or DBMS:."
+,"A database is any organized collection of information, but is most commonly used if data is organized by computer. Typically computerized databases organize..."
+,A database is any organized set of data that is readable by a computer. This may or may not use a formal database schema and may or may...
+,A database is any repository of data. You can store your data wherever is appropriate for your application. SQL is a way to access this data...
+,A database is any collection of information that is organized for rapid search and easy retrieval. Usually the term refers to computerized...
+,"A database is any object that has a structure, information that fits into that structure, and a way to query information in the structure and retrieve subsets or full..."
+,"A database is any collection of similar pieces of data. Relational databases specifically, can hold various pieces of information in separate sections, all related to..."
+,"The database is any RDBMS. It could be SQL Server, or Oracle or any other RDBMS. This system is Application Server Independent, which means that this..."
+,"A database is any collection of related items stored in com puter memory. The data in a database may be about club members , employee payroll , company..."
+,"The database is any and all installed into our masochistic home offices in which we subjugate ourselves before the discipline of its records and fields, in an..."
+,"The database is characterized by a large variability of the water content found on the melt inclusions from all startigraphic levels of the KPT deposits, probably..."
+,"The database is characterized by buyers, sellers, locations and other demographic information with GIS mapping capability, which allows easy..."
+,"In addition to its size, the database is characterized by standardized reporting of variables and inclusiveness with respect to mental health..."
+,"The database is characterized by impair- ments such as variations in illumination, out-of-focus blur, sensor noise, specular reflections, partially occluded iris and."
+,"The database is characterized by gender balanced speakers, contains read, spontaneous and in a small amount also telephone speech with 48 kHz sampling ..."
+,The database is characterized by intervals whose duration ranges from 3 to 50 ms. Plasma current is an important parameter ruling QSH...
+,"The database is characterized by an ethnic variety: 28 Asian, 8 black, 3 Latino and 62 white sub- jects with ages between 18 and 45 years [19, 20]. The BU..."
+,"The database is characterized by its heterogeneity (fig. 3) with a panel of view angles as well as environ- ments and athletes (out/indoor, male,..."
+,"sponsored projects. the first is NanoethicsBank, a database conceived as a resource for researchers, scholars, students, and members of the general public who..."
+,The database considered as primary source for sequences concerning metagenomics and metatranscriptomics experiments context is the...
+,The database described as being established in Turkey appears to be a working updatable complement to the publication in traditional paper format. Integrating...
+,"socket: /tmp/mysql.sock. # Warning: The database defined as ""test"" will be erased and. # re-generated from your development database when you run ""rake""."
+,"Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"". # Do not set..."
+,"The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake""."
+,"Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"". # Do not set..."
+,"password: host: localhost. # Warning: The database defined as ""test"" will be erased and. # re-generated from your development database when you run ""rake ""."
+,... ruby password: PW4ruby # Warning: The database defined as 'test' will be erased and # re-generated from your development database when you run 'rake'.
+,Warning: The database defined as 'test' will be erased and # re-generated from your development database when you run 'rake'. # Do not set this db to the...
+,"Warning: The database defined as ""test"" will be erased and. # re-generated from your development database when you run ""rake"". # Do not set this db to the..."
+,"Warning: The database defined as ""test"" will be erased and. # re-generated from your development database when you run ""rake"". # Do not set..."
+,"Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"". # Do not set..."
+,"... password: encoding: utf8 # Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"" ."
+,"Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"". # Do not set..."
+,"... socket: /tmp/memsql.sock # Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake"" ."
+,"1 day ago ... Warning: The database defined as ""test"" will be erased and. # re-generated from your development database when you run ""rake"". # Do not set..."
+,"... 1234 encoding: utf8 # Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake""."
+,"Warning: The database defined as ""test"" will be erased and. re-generated from your development database when you run ""rake"". Do not set this..."
+,"... pool: 5 timeout: 5000 # Warning: The database defined as ""test"" will be erased and # re-generated from your development database when you run ""rake""."
+,... 5000 # Warning: The database defined as 'test' will be erased and # re- generated from your development database when you run 'rake'.

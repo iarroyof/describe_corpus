@@ -1,0 +1,91 @@
+,"Today, the computer is defined as a programmable electronic device that can store, retrieve and process data. The earliest calculating device was the abacus, ..."
+,"A computer is defined as follows (Wikipedia): A computer is a programmable machine that receives input, stores and manipulates data, and provides output in a..."
+,"What qualifies as a computer? A computer is defined as a central processing unit (CPU), along with various other components including monitor, keyboard,..."
+,"A computer is defined as a personal computer powered by one of the major operating systems (Macintosh, Linux or Microsoft); handheld..."
+,"A computer is defined as the combination of the memory, the processor, and the I/ O system. Because of the centrality of memory, Chapter 4 discusses memory..."
+,"A computer is defined as a device that accepts information, in the form of digital data, and manipulates it for some result based on a program on how data is to be ..."
+,"A computer is defined as complex if it meets two or more of the following criteria: The system is running server-like services (e.g., AFP, SSH, HTTP, MySQL);..."
+,"For purposes of this exemption, a computer is defined as a central processing unit (CPU), along with various other components including monitor, keyboard,..."
+,"A computer is defined as a programmable, electronically activated device capable of accepting information (PDA, I-Pod, Blackberry, etc.) Other equipment..."
+,"A computer is defined as a device that accepts input, processes data, stores data, and produces output. It consists of input, storage, and output..."
+,"A computer is defined as an electronic device which accepts data, processes or manipulates it, it also stores information and then produces an..."
+,"In The Netherlands, a computer is defined as a machine that is used for data storage, processing and transmission. Therefore, a router cannot..."
+,"For purposes of this exemption, a computer is defined as a central processing unit (CPU), along with various other components including..."
+,"A computer is defined as a desktop or laptop, netbook or tablet computer, whether or not connected to the internet, available for educational purposes in school."
+,"A computer is defined as a high speed, electronic machines, which performs logical calculation processes, stores, and retrieves programmed information."
+,"A computer is defined as a stand-alone piece of equipment capable of and used for the processing of information-either numbers or words, and..."
+,"A computer is an electronic device that manipulates information, or ""data."" It has the ability to store, retrieve, and process data. You can use a computer to type..."
+,"To me, the computer is an artificial brain and so we could also ask, "" Are our brains musical instruments"" ? The answer would be no, but without..."
+,"A computer is an electronic device that processes data by following a set of instructions. A computer system is a set of parts, including the computer itself, that ..."
+,"A computer is an electronic machine, operating under the control of instructions stored in its own memory, that can accept data, manipulate the data according to ..."
+,On Your OwnArrow: Subtopics Search Glossary Appendix What is a computer? A computer is an electronic device that executes the instructions in a program.
+,"A computer is an electronic device that store, process and display information and data in a form that is easily understood. The main characteristics of a..."
+,Definition[change]. A computer is an electronic machine which calculates all the mathematical and logical problems. Invention[change]. Nobody knows who built ...
+,"Post 95. A computer is an electronic machine capable of accepting data from an input device, processing through the means of the processor,..."
+,"yes, a computer is an electronic device that stores, processes, inputs, and outputs data to produce a result. Computer is an electronic because it contain some..."
+,The computer is an electronic machine that performs the following four general operations: Input; Storage; Processing; Output. Input The input...
+,"A computer is an integrated collection of hardware components, which are capable of executing instructions called object code stored in a computer's memory..."
+,"A computer is an electronic toolbox for working with information. Like you use a knife and chisels for creating wood carvings, you use a computer for creating..."
+,What is a computer? A computer is an electronic device that executes the instructions in a program. A computer has four functions:...
+,"A computer is an automatic, electronic, data-processing machine that takes in facts and figures known as data, and then processes or organizes it in some useful..."
+,"A computer is an electronic device, operating under the control of instructions stored in its own memory, that can accept data, process the data according to..."
+,A computer is an electronic device that executes certain actions through user- based commands. It is made up of two parts - hardware and...
+,"A computer is an electronic machine that takes instructions, processes information at very fast speeds and shows the results. Computers can be used to edit,..."
+,"A computer is an electronic machine that accepts, processes, stores and outputs information. A typical computer consists of two parts: hardware and software."
+,"A computer is an electronic device that receives input, stores it for a period of time , operating it according to a set of instructions (Known as a..."
+,"A computer is an electronic device that performs calculations on data, presenting the results to humans or other computers in a variety of..."
+,"A computer is an electronic device operating under the control of instructions stored in its own memory that can accept, manipulate, and store data. A computer ."
+,"The computer is an ever changing and evolving beast. Currently in 1998, the computers are at speeds of 400 MHz with harddrives averaging 6.4 gigabytes of ..."
+,A computer is any device capable of performing computations (making calculations)--it performs a computation and produces an answer.
+,"Technically speaking, the computer is any counting device. But in the context of modern technology, we'll define the computer as an electronic device capable of ..."
+,"A Computer is any form of nonbiological intelligence (hardware and software) and may include any form of technology, but may not include a biological Human ..."
+,*What is a computer? A computer is any device capable of performing computations (making calculations)--it performs a computation and produces an answer.
+,"To me, unschooled as I am, a computer is any device that reduces significantly the labour and time it takes to derive a useful outcome in..."
+,"A computer is any machine which can accept data in a prescribed form, store and process the data. and supply the results of the processing in a specified format..."
+,"A computer is any device which can take information as input, processes it in some way and then output the results back to the user again. It doesn't have to be ..."
+,"Generally, a computer is any device that can perform numerical calculations even an adding machine, an abacus, or a slide rule. Currently, however, the term ..."
+,"COMPUTER Generally, a computer is any device that can perform numerical Calculations --even an adding machine, an abacus, or a slide rule. Currently..."
+,A computer is any device with a processor and some memory even a calculator. IT security specialists are almost always found in any major...
+,"A computer is any sort of machine (biological or artificial) that is able to perform a specific task. The study of computers, or computer science, however, is often..."
+,"Generally, a computer is any electronic data-processing device that performs tasks, such as mathematical calculations or electronic communication, under the ..."
+,"A computer is any device that performs computations, with the foundation of any computation being logic. A computer, therefore, may be..."
+,"A computer is any physical object that can be reconfigured to solve multiple problems, that is, to answer many different questions. (If it cannot be reconfigured ,..."
+,A Computer is any machine that can use a set of instructions to perform calculations. Most computers have software that allows them to do...
+,A computer is any machine which can be programmed to carry out a list of arithmetic or logical operations. 4 Votes. Comment Flag. 2012-10-19T16:34: 08Z by...
+,"Generally, a computer is any electronic data-processing device that performs tasks, such as mathematical calculations or electronic communication, under the ..."
+,"Generally, a computer is any device that can perform numerical Calculations -- even an adding machine, an abacus, or a slide rule. Currently, however, the term ..."
+,A computer is characterized by its hard- and software features and by the times at which the machine is available for rental. The provider specifies the com-.
+,"According to Andrew Feenberg, the computer is characterized by contradictory potentialities with respect to the two faces of control. It ""can serve both as a..."
+,A computer is characterized by its hard- and software features and by the times. at which the machine is available for rental. The provider speci es the com-.
+,"The computer is characterized by its Power and its Speed and its Security Level. The Power is used like the computer's Body and it's Reflexes, it determines it's..."
+,"A computer is characterized by two characteristics: its performance, and its cheapness (the inverse of its price). As noted, available component technology."
+,"A computer is characterized by two characteristics: its performance, and its cheapness (the inverse of its price). As noted, available component technology."
+,"A computer is characterized by two characteristics: its performance, and its cheapness (the inverse of its price). As noted, available component technology..."
+,"Specifically, a computer is characterized by two attributes, cheapness (i.e. the inverse of price) and performance. As a consequence of firms' R&D investment,..."
+,"A computer is characterized by the number of bits in its word, its word size, much as an engine is characterized by the total volume of its..."
+,"The computer is characterized by the number and complexity of operations it can perform and by its ability to process, store, and retrieve data (Computers 1)."
+,"Indeed, a computer considered as universal mean to perform any kind of software programs, and even several juxtaposed or embedded programs."
+,"For example, a computer considered as 55 an appliance may include both an I/O section and a gateway. Likewise, a gateway may serve an I/O..."
+,"A computer considered as hardware, by itself can do a few very simple operations. By subjecting the computer to a development process called bootstrapping,."
+,"The computer described as a wisdom bank, is a high-tech computer loaded with over 80,000 past JAMB, NECO, WAEC, and POST-UME..."
+,"A. A computer described as ""dual core"" has two processors on a single chip to share the processing demands of several programs at once."
+,"A computer described as 'the world's oldest known complete Mac' is up for sale on eBay for a whopping $100,000 (62,800). It's a lot of money,..."
+,A computer described as an x86-based PC is running a 32-bit version and a computer described as an x64-based PC is running a 64-bit version. x86 was the ...
+,"Likewise, a computer defined as such, can and does follow its specified program to generate the appropriate syntactical response, but it will..."
+,"... their own version of Colossus, a computer known as ""Guardian"". The President expresses his concern that the Soviets were able to build the device unknown,..."
+,"The computer known as Mr Smith housed a sentient and highly intelligent crystal known as a Xylok. In the distant past a Xylok ship had crashed into the Earth,..."
+,A computer known as the Fuel Quantity Information System Processor manages the entire 767 fuel loading process. The FQIS controls all of the fuel pumps and...
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and prevent them from...
+,"A computer identified as ""Cannot Run Windows 7"" typically has a CPU that lacks the power to run the OS. ""Insufficient Data"" means that a computer wasn't found..."
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and...
+,A computer identified as being owned by Gessell had allegedly been associated with the sharing of images and videos featuring children...
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and...
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and...
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and...
+,"Late Friday afternoon, Pacific Time, the computer identified as the command-and- control server used to send instructions to infected Koobface..."
+,"A computer identified as such for installation of Alight Planning Software. (c) Documentation. User manuals, help files and similar documents supplied with Alight..."
+,"On Friday, the computer identified as the command-and-control server used to send instructions to infected Koobface machines was offline."
+,A computer identified as using cheats may be banned from connecting to protected servers. The aim of the program is to isolate cheaters and...
+,The computer understood as a multitude of invisible intelligent information devices confines the computer as means to solve well defined problems within...
+,The computer understood as automated mathematics carries a Cartesian curse with it: If something is reducible to a mathematical descriptionor.
+,The computer understood as automated mathematics entails a Cartesian curse: If something is reducible to a mathematical descriptionor if our mathematical...

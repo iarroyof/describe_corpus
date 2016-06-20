@@ -1,0 +1,140 @@
+definicion.id,definicion.defi
+,"A transaction is a group of operations that have the following properties: atomic, consistent, isolated, and durable (ACID)."
+,"The transaction is a Deposit, and cannot be printed as a check. To print the item as a check, please change the transaction as a Payment.."
+,A transaction is a tool for distributed systems programming. ... A transaction is a set of operations that transforms data from one consistent state to another.
+,A transaction is a unit of program execution that accesses and possibly updates various data items. A transaction must see a consistent database. During...
+,"Introduction to Transactions. A transaction is a logical, atomic unit of work that contains one or more SQL statements. A transaction groups SQL statements so..."
+,"A transaction is a unit of work that is performed against a database. Transactions are units or sequences of work accomplished in a logical order, whether in a..."
+,"A transaction is a set of one or more statements that is executed as a unit, so either all of the statements are executed, or none of the statements is executed."
+,"In IBM's Customer Information Control System product, a transaction is a unit of application data processing that results from a particular type of transaction..."
+,"References[edit source | edit]. ^ A transaction is a group of operations that are atomic, consistent, isolated, and durable (ACID). ^ http://namesys.com/v4/v4.html #..."
+,"A transaction is a sequential group of database manipulation operations, which is performed as if it were one single work unit. In other words, a transaction will..."
+,A transaction is a set of Datastore operations on one or more entities. ... within a single entity group or whether the transaction is a cross-group (XG) transaction.
+,Consistency: A transaction is a correct transformation of the state. The actions taken as a group do not violate any of the integrity constraints associated with the ...
+,"ABSTRACT: A transaction is a transformation of state which has the properties of atomicity. (all or nothing), durability (effects survive failures) and consistency (a..."
+,"A transaction is a set of Datastore operations on one or more entities. .... in the same entity group if the transaction is a single group transaction, or on entities in a..."
+,A transaction is a signed section of data that is broadcast to the network and collected into blocks. It typically references previous transaction(s)...
+,A transaction is a set of operations that either fail or succeed as a unit. Transactions are a fundamental part of persistence. A database transaction consists of a...
+,A transaction is a transfer of value between Bitcoin addresses that gets included in the block chain. Bitcoin wallets keep a secret piece of data called a private...
+,A transaction is a unit of work that encapsulates multiple database actions such that that either all the encapsulated actions fail or all succeed. Transactions...
+,A transaction is a trade agreement established between two parties. The terms which govern the operation are determined by a contractual document.
+,"A transaction is a sequence of operations performed as a single logical unit of work. A logical unit of work must exhibit four properties, called the ACID ( Atomicity,..."
+,A transaction is a sequence of SQL statements that Oracle Database treats as a single unit. This statement also erases all savepoints in the transaction and...
+,A transaction is a set of one or more SQL statements that make up a logical unit of work that you can either commit or roll back and that will be recovered in the...
+,A transaction is a unit of program execution that accesses and possibly updates various data items. A transaction must see a consistent database. During...
+,"Answer: First, let's define transactions per second (TPS), and see how it's different for different server components. To Oracle, a transaction is a SQL statement:."
+,Definition: a transaction is a group of SQLcommands whose results will be made visible to the rest of the system as aunit when the transaction commits --- or not.
+,"A transaction is a series of operations that must be performed atomically. In other words, each operation in the series must succeed for the entire transaction to..."
+,A transaction is a series of operations performed as a single unit of work. Entity Framework transactions are a part of its internal architecture. The SaveChanges ...
+,"A transaction is a single unit of work. If a transaction is successful, all of the data modifications made during the transaction are committed and..."
+,"A transaction is a sequence of operations that must be executed as a whole, taking a consistent (& correct) database state into another consistent (& correct)."
+,"A transaction is a business activity such as a deposit, payment, order or reservation. Clerical staff typically perform the activities associated with transaction..."
+,"As you know, a transaction is a unit-of-work that is made up of one or more tasks. In a transaction, all the tasks that make up the unit-of-work must succeed for the..."
+,"A transaction is a piece of processing initiated by a single request. This is usually from an end-user at a terminal, but may also be made from a Web page, from a..."
+,A transaction is defined as any operation that changes the state or contents of the database. The transaction log files for an individual database...
+,A transaction is defined as a sequence of dynpros (sap term for screens) having input and output fields and corresponding processing logic behind them to...
+,"A transaction is defined as any one execution of a user program in a DBMS and. differs from an execution of a program outside the DBMS (e.g., a C program."
+,PER TRANSACTION. A transaction is defined as everything you are purchasing during your shopping trip. This restricts the number of coupons...
+,"A transaction is defined as a filled request for a single title, with four volumes of a multivolume set or four reels of microfilm being supplied."
+,"A transaction is defined as any deposit , any item in a deposit or withdrawal from an account. $0.25 charged per transaction over 100. Easy Business LINK is free ..."
+,"puter science, a transaction is defined as a sequence of database queries. (data access and manipulation commands) that transforms one consistent state of the..."
+,A transaction is defined as unit of work. If the participating sql statements are successfully executed then the whole transaction is get committed else rollback.
+,"A transaction is defined as any combination of checks paid, deposits, deposited checks and ACH activity received. $20 monthly service charge can be waived if..."
+,A transaction is defined as a step in a business process that an end-user performs. SyNAPS synthetic transactions can be run from multiple SyNAPS monitoring...
+,"A transaction is defined as any combination of checks paid, deposits, deposited checks and ACH activity received. Equal Housing Lender, Member FDIC."
+,The transaction is defined as a cross-border merger of equals under the Publicis Omnicom Group (OMC) holding company. The CEOs of the...
+,"A transaction is defined as any combination of checks paid, deposits, deposited checks and ACH activity received. View Rates. $15 monthly service charge can..."
+,"... than 250 transactions per month shall be eligible for this account. A transaction is defined as all customer-initiated debits and credits, plus deposited items."
+,"A transaction is defined as each time the enter key is pressed, a Function key ( e.g.: F1, F2, etc.) is pressed, or whenever a screen pops up on your monitor."
+,"*A transaction is defined as all debits, credits, and deposited items. **Fees do not apply if transfers or inquiries are completed by On-Line Banking or Automated..."
+,"For purposes of this Agreement, a transaction is defined as an in-bound or out- bound email message, a form submission into your account and other automated ..."
+,"Maintenance, transaction* and other service fees may be offset by an earnings credit. *A transaction is defined as all checks, debits, credits, and deposited items ."
+,"... below required minimium balance); FREE Online Banking and Bill Pay. A transaction is defined as paid checks, deposited checks and ACH debit and credits."
+,"Irrecoverable, X'10', The transaction is defined as irrecoverable. Multi-Segment, X '08'a, The transaction has multiple segments. Uppercase, X'04', Uppercase..."
+,A transaction is defined as a single indivisible piece of work that affects some data. All of the modifications made to data within a transaction are uniformly...
+,"A transaction is defined as the sequence of inserts, modifies, or deletes that have occurred to any file{s)in single node or multiple nodes in a..."
+,"A transaction is defined as ""cross-border"" if the buyer or major capital partner is not headquartered in the same country where the property is located."
+,"A transaction is defined as an economic flow that reflects the creation, transformation, exchange, transfer, or extinction of economic value and involves changes..."
+,A transaction is defined as being contained on a single requisition whether it contains multiple items or not. You must not split intended purchases over more...
+,"Number of Transactions. Drag the slider for pricing estimate: Starts @ 250 trans monthly cost: $59. *A transaction is defined as a charge, decline, or refund."
+,"A transaction is defined as clearly erroneous when there is an obvious error in any term, such as price, number of shares or other unit of trading,..."
+,9.1 Functions of Transaction Processing Systems. A transaction is an elementary activity conducted during business operations. Transaction processing systems...
+,A transaction is an atomic unit. The effects of all the SQL statements in a transaction can be either all committed (applied to the database) or all rolled back...
+,"""A transaction is an event that generates or modifies data that is eventually stored in an information system. Transaction processing systems meet record..."
+,A transaction is an atomic unit of database operations against the data in one or more databases. The effects of all the SQL statements in a...
+,"A transaction is an atomic set of database queries. Even if your program crashes, the database guarantees that either all the changes will be applied, or none of..."
+,A transaction is an event that generates or modifies data that is eventually stored on an information system. The main information processes are collecting and...
+,A transaction is an isolated sequence of queries that can either all be saved to the database or all cancelled and ignored. The COMMIT or ROLLBACK...
+,"A transaction is an operation or set of operations that is atomiceither all of the operations in the transaction occur, or none of them occur. An application can..."
+,Transfer 500. Desirable Properties of ACID Transactions. A Atomicity: a transaction is an atomic unit of processing and it is either performed entirely or not at all.
+,A transaction is an atomic unit.The effects of all the SQL statements in a transaction can be either all committed (applied to the database) or all...
+,"A transaction is an operation or set of operations that is atomiceither all of the operations in the transaction occur, or none of them occur. An application can..."
+,"A transaction is an all-or-nothing situation. Either it all works, or it all fails -- which is great news for our luckless bank customer. Transactions are also sometimes..."
+,"Atomicity: A transaction is an atomic unit of processing, and it either has to be performed in its entirety or not at all. Consistency: A successful execution of a..."
+,"A transaction is an atomic unit of work that is either completed in its entirety or not done at all. For recovery purposes, the system needs to keep track of when..."
+,"A transaction is an atomic unit of work that is either completed in its entirety or not done at all. For recovery purposes, the system needs to keep track of when the..."
+,"A transaction is an execution of a user program, and is seen by the DBMS as a series or list of actions. The actions that can be executed by a transaction include ..."
+,"""Negligently"" failing to make reasonable attempts to find out whether, in fact, the transaction is an excess benefit transaction (Treas. Reg. 53.4958-1(d)(4))."
+,A transaction is an exchange in which each participant receives or sacrifices value (e.g. purchase of raw material). An event (whether internal...
+,A transaction is any event that takes place either within the business organization or between that organization and the external environment. Such regular...
+,"A transaction is any event that has a financial impact on the business and can be measured reliably. For example, Apple. Computer pays programmers to create..."
+,"A transaction is any business-related exchange such as a payment to an employee, a sale to a customer, and a payment to a supplier. - A Transaction..."
+,"In database terms, a transaction is any action that reads from and/or writes to a database. A transaction may consist of a simple SELECT statement to generate a ..."
+,"A transaction is any modification to any record in a database table. When you insert, update, or delete a record, it is called a transaction. On the other hand,..."
+,A transaction is any item that affects the balance in your account. Common transactions in a bank account include: Checks (written by hand or...
+,A transaction is any one execution of a user program in a DBMS. This is the basic unit of change in a DBMS. 2. A DBMS is typically shared among many users.
+,"In fact, a transaction is any action that requires communication with the processing bank. Clearing a batch, refunding a credit card order and other tasks are all..."
+,"1 A transaction is any credit or debit that an account incurs. 2 A fee of $30 will be imposed for each overdraft payment created by checks, in person withdrawals..."
+,A transaction is any disbursement of funds. Any additional transactions will be assessed a $25.00 per transaction fee. Set up a self directed IRA account today.
+,"Definition of transaction : A transaction is any kind of action involved in conducting business, or an interaction between people. When you go to the bank , fill out..."
+,"A transaction is any movement of funds, such as expense, income or transfer of money from account to account. A transaction must be associated with one of the ..."
+,A transaction is any event that passes the ACID test in which data is generated or modified before storage in an information system. Features of Transaction...
+,A transaction is any action on an object that occurs within the time interval set by the timeGap property. Two properties in the subscription.properties file can be...
+,A transaction is any entry made in the accounting records except those affecting the budget or encumbrances. The following are a few...
+,"A transaction is any of the following that is entered into QuickBooks. Here is what is considered a transaction. Bill, Bill Credit, Bill Payment, Check, Credit card..."
+,3 A transaction is any deposit or withdrawal excluding the $10 transactions for the member's shareholding. 4 Your friend must open one of the following - S1...
+,"A transaction is any specific request; for example, show or change. Each login session allocates its own set of resources, much like an individual CLI session."
+,"From a user perspective, a transaction is any coherent sequence of operations that satisfies a goal, such as 'find the times of flights from London to Paris'."
+,Transaction Basics You can combine multiple actions into a single undo using transactions. A transaction is any action that can be undone.
+,"A transaction is any social communication. . TA is based on Dr. Eric Berne's discovery that every person has 3 general sets of behavior, and that each set of..."
+,"A transaction is any unit of work that has a clearly understood beginning and ending point, and which begins and ends in the same operating system process."
+,"A transaction is any registry paperwork coming through the AKC. High Volume Breeders is not necessarily a euphemism for ""puppy mills."" Our well respected..."
+,"A transaction is any of the following activities: (1) Issuance of a registration plate, a registration card issued without collection of property taxes or fees under G.S...."
+,The transaction is characterized by the degrees of asset specificity and contractual incompleteness. 4.1.1 Asset Specificity. Recall from section...
+,"A transaction is characterized by the server opening a socket for the client, handling a request, serving data over the wire and closing the..."
+,"A transaction is characterized by the server opening a socket for the client, handling a request, serving data over the wire and closing the socket upon..."
+,"Additionally, the transaction is characterized by a selling price and other conditions that would prevail in an open market environment and there..."
+,"or bears significant risk of nonpayment. In short, during the primary Sublease term, the transaction is characterized by reciprocal and circular obligations that."
+,"So, the transaction is characterized by high informational uncertainty, as the exchange participants are only capable of processing a limited subset of the..."
+,A transaction is characterized by a series of information that must be communicated to GestPay to complete the payment process and by information returned to...
+,a transaction is characterized by. . the code it shall execute. . the memory blocks it will access that may be accessed by other transactions concurrently.
+,"The paradigmatic transaction is a license of information, rather than a sale. 9 of goods. The transaction is characterized by (1) the conditional nature of the. 6. 10."
+,"A transaction is characterized by its length and deadline. The length is speci ed by T(x; y), where x is the number of steps that a transaction needs to execute,..."
+,"her credit information, the transaction is characterized by both electronic and physical interaction. If she pays by providing her credit information online."
+,A transaction is characterized by its signed volume xt which is positive if the trade is a purchase (buyer-initiated) and negative if a sale. (seller-initiated).
+,"A transaction is characterized by the number of distinct data groups that it uses ( FTRs) and the number of atomic, non- repetitive attributes (DETs) that it collects..."
+,"A transaction is characterized by application specific attributes: settlement terms: distribution over time and type of asset j, in return for i. - logical constraints..."
+,"Summarizing, the transaction is characterized by the the tuple (price, tid, date, can, desc) which also constitutes the payment order information: if cus- tomer and ..."
+,"Therefore, the quotes prevailing before trading has taken place are q,b_l and q:,. A transaction is characterized by its signed volume x, which."
+,"Depending on the replication rate, multiple copies of a sub-database may reside in several local memories. A transaction is characterized by the attributes'."
+,"Following Williamson 1996, a transaction is characterized by its attributes: asset specificity (i.e., level of loss associated to alternate use of..."
+,A transaction is characterized by negative reciprocity if it is mainly based on the material aspect. At the extreme a negative reciprocal transaction is the attempt to ...
+,"2.1 Transaction Model. A transaction is characterized by the following properties [ EN94]: Atomicity: A transaction is an atomic unit of work, that is, e ectively either..."
+,A transaction is characterized by its signed volume xi which is positive if the trade is a purchase (buyer-initiated) and negative if a sale.
+,A transaction is characterized by physical asset-specificity when investments in physical capital (e.g. investments in technical facilities that enable the bidding for ...
+,"According to the RPO approach, a transaction is characterized by three areas of activities singled out by reference to recources, property rights and information..."
+,"A transaction is characterized by the type of good, its country of origin, the price paid per unit of the good, the total quantity bought, and the day..."
+,A transaction is characterized by its timing con- suaints and its data and computation requirements. The timing constraints are a release time t and a deadline d.
+,"This has implications for the attributes of the public sector transaction. To Williamson (1985), the transaction is characterized by three attributes, which are asset."
+,"A transaction considered as a communication process implies other regarding behaviour and a specific human quality: the capacity to take the role of others,..."
+,"that they had paid around 22 million to purchase the club from a group of investors led by Ken Bates, a transaction described as a ""bargain""."
+,"A transaction described as an exempt transaction in Articles 3 to 7, inclusive, is prescribed for the purposes of Article 8(3) of the Law as a..."
+,"law and the Model Act, the transaction described as impermissible could be approved. Under the typical state conflict of interest statute, there is."
+,"For example, a transaction defined as conversational on one IMS and non- conversational on another IMS causes unpredictable results when messages for that..."
+,"ATI requests: A transaction defined as DYNAMIC(YES) has been initiated by a terminal-related automatic transaction initiation (ATI) request--for example, by the ..."
+,"DURING THE PAST SEVERAL years, a transaction known as an ""in-substance defeasance"" (ISD) has been used by managers as a device to extinguish debt."
+,"... or the right to receive the death benefit -- to someone other than the insurance company that issued the policy, a transaction known as a life settlement."
+,"was told he couldn't sell her one if it appeared that she was buying it for someone else, a transaction known as a straw purchase, they said."
+,0.00 A charge by merchant; the transaction identified as fraud by cardholder. MO/ TO FRAUD W/O. 0.00 A fraudulent charge made using only the PCard...
+,A transaction identified as malicious is rolled- back along with any transaction which is dependent on this malicious transaction. In situations where a deadlock is...
+,"similar to, a transaction identified as a tax avoidance transaction by the Secretary of the Treasury for the purposes of 26 U.S.C. 6011. See 26..."

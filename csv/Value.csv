@@ -1,0 +1,98 @@
+definicion.id,definicion.defi
+,"The value is defined as a length in pixels. Hence, a cellpadding=""10"" attribute- value pair will display 10 pixels of blank space on all four sides of the content of..."
+,The value is defined as the least squares regression against market price of the option value at that state and time (-step). Option value for this regression is...
+,"The value is defined as 299,792.458 0.001 # 2 kilometers per second. As in the case of the universal gravitational constant, early measurements of c differed..."
+,"The value is defined as c2 divided by the number of degrees of freedom, and it is referred to as the standard deviation of the residuals, which are the vertical..."
+,"A value is defined as a belief or an ideal to which an individual is committed. Values are an important part of the base or foundation of a profession. Ideally, these..."
+,The value is defined as (100 * distinctCount / rowCount). The selectivity of 0 rows is 0 (unknown). Up to 10000 values are kept in memory. Aggregates are only...
+,The value is defined as 1000 * bytes(compressed) / bytes(original) rounded to the next integer value. Note that compressed sets of bytes can be larger than the ...
+,The value is defined as a multiplier. A value of 2.0 means that the viewport is doubled in size and rendered at a scale of 200%. 6.0+. maximum-...
+,"As you can see, the value is defined as a tag value, not as an attribute. Contrary to other instruction, OPT forces here some limitations. opt:value must not contain ..."
+,"Clarifying our values is one key to managing work and family demands. A value is defined as a principle, standard, or quality considered worthwhile or desired."
+,"sometimes abbreviated 1,; the value is defined as the wavelength where the integral of the spectral absorbance curve reached 90% of the integral from 290 to ..."
+,"A value is defined as a principal, standard or quality considered worthwhile or desirable. Whether stated or not, most individuals subscribe to a set of beliefs or..."
+,"The value is defined as (1) mission assurance/product quality, (the traditional goals of Systems. Engineering) and (2) reduced program cost and schedule..."
+,"Generally speaking, a value is defined as that which is good and which is desired and is able to make one happy. Such long-lasting and immaterial ideas..."
+,"A value is defined as an enduring belief, a standard, or a philosophy that is deeply meaningful to you. Whether you are consciously aware of them or not, you ..."
+,"and, on a certain space of games, a value is defined as a limit of values of finite games. Further, some relationships between the value that the topology on the..."
+,"The value is defined as a force applied over a unit area. In the customary U.S. measurement system, the value would be expressed in the units of pounds per."
+,"If the statement is true, the value is an element of the solution set. If the statement is false, it is not an element of the solution set. How is this different from..."
+,"In computer science, a value is an expression which cannot be evaluated any further (a normal form). The members of a type are the values of that type."
+,"Value: A value is an idea that a debater argues is paramount. The contentions in an Lincoln-Douglas case uphold the value. Generally, the debater will present..."
+,NSMetadataItemIsUbiquitousKey. The value is an NSNumber object that contains a Boolean indicating whether the item is stored in the cloud.
+,The value is an NSString object with the name of the item as seen in the file system. Available in iOS 5.0 and later. Declared in NSMetadata.h .
+,"From the World Book Dictionary, a Value is an established ideal of life, objects, customs, ways of acting, and the like, that the members of a given society regard ..."
+,Active Tasks Using DB2. The number of active TCBs that are currently engaged with the DB2 requests. The value is an integer. DB2RMIST Adapter Status.
+,"throw new ArgumentException(""The value is an invalid day of month token"", token); else dt = FirstDayOccurance(dt.AddDays(date - 1), day);"
+,"For unassigned codepoints, the value is an empty string. general-category: Corresponds to the General_Category Unicode property. The value is a symbol..."
+,CSS_DEG. public static final short CSS_DEG. The value is an angle (deg). The value can be obtained by using the getFloatValue method.
+,"The value is an integer between 0 and 100. Worker_PercentAssignmentsAbandoned, 00000000000000000070. The percentage of assignments the Worker has..."
+,This limit prevents the connecting node from waiting too long for a session partner to send a packet. The value is an integer in the range of 1-65 535 seconds.
+,"This is mandatory, the value is an expression, which must evaluate to a database connection object as returned by sql:connect . table, The table to be queried..."
+,"... in a particular direction towards simpler expressions. In particular, a value is an expression that evaluation simplifies no further, such as the number 2."
+,"A value is any type of information, including error values and empty text (""""). A value does not include empty cells. If an argument is an array or reference, only..."
+,The value is a fully qualified URL. swBackColor. A color value intended to modify the movie's Stage color property. The value is any integer value from 0 to 255.
+,"The value is any scalar or array value (associative arrays are also allowed). Cookies also have several optional attributes, including: 1. expiration date."
+,The value is any variable-free expression (subqueries and cross-references to other columns in the current table are not allowed). The data type of the default...
+,The value is any variable-free expression (subqueries and cross-references to other columns in the current table are not allowed). The data type of the default...
+,"A value is any type of information, including error values and empty text (""""). A value does not include empty cells. If an argument is an array or..."
+,campaign (Platinum Only. The value is any utm_campaign query parameter on the page.) - mobile (whether or not the visitor is using a mobile...
+,The value is any quoted string that is to be matched against or a number if lines is the field being con- sidered. The relation matches (or ~) takes an egrep like...
+,"This distinction is expressed in the terms "" value "" and "" attitude."" A value is any datum, such as a coin or a university, which has "" an empirical content accessible ..."
+,"Currency, The default currency. (The value is any currency value, such as USD). Numbers, The numbering system in use, such as European (0,1,2), Arabic (, ,..."
+,The DEFAULT clause specifies a default value for columns of the domain data type. The value is any variable-free expression (but sub-selects are not allowed).
+,"The value is any string, and is the thread id as defined by the sending switch. When received and any response is generated at all, the same tid value must be ..."
+,reclaim_on_delete_start_time. The time of day when VxVM starts the reclamation for deleted volumes. The value is any time of day in 24 hour format. (hh:mm).
+,The value is any variable-free expression (but subqueries are not allowed). The data type of the default expression must match the data type of the domain.
+,SPCmdletAppPrincipalPermissionKind. Specifies the permission level for the principal object. The value is any of the following levels: ----Read.
+,"For Java environments, the value is any valid encoding accepted by the java.lang .String.getBytes() method. result: A STRING or UNICODE variable where you..."
+,A value is any ASCII string that can be created using ed (see ed(1)); a numeric value is an unsigned string of digits. Keyword values must not contain spaces or ...
+,"The value is characterized by Owen's coalitional value of hypergraph-restricted games and in terms of weighted Myerson value. Further, our..."
+,... with two-layered hypergraphs. The value is characterized by Owen's coalitional value of hypergraph-restricted games and in terms of weighted Myerson value.
+,"The value is characterized by a suitable set of axioms. Keywords: NTU-Games; bargaining; solutions; values. Subject Classification: 91A12, 91A06. 1."
+,a value is characterized by: a type; a position in memory which is the value address; a size - how much memory does the value requires in...
+,"(2008)).4 Specifically, the value is characterized by an optimal control problem identifying the supremum of the risk-neutral contract value over all admissible..."
+,"(2008)).4 Specifically, the value is characterized by an optimal control prob- lem identifying the supremum of the risk-neutral contract value over..."
+,"because, as explained above, the value is characterized by an agreement that involves the entire society and evolves in time according to an..."
+,A value is characterized by equal proportional gain if and only if the proportional gain to a player j from a second player k joining a coalition is...
+,"A value is characterized by its data type, a category to which the value belongs. These MetaSL data types are more precisely defined than the intuitive concepts..."
+,The value considered as the mean of the normal state. See details. By default is . window. Multiplier of the standard deviation of the data to...
+,"... reproducible, considering that the intraobserver variability was below 10%, a value considered as appropriate for dopplervelocimetric measurements(11,12)."
+,"5% Percentile, the value considered as a variable with a 5% probability of occurrence. Net Present Value with a confidence and 95%, calculated as the..."
+,The value considered as totallv safe with resoect to ASR. - -. (i.e.
+," The levels correspond to concentrations of 110 3 g/m3, a value considered as the limit above which aircrafts cannot fly. A. Costa et al. / Earth and Planetary..."
+,"expressed in the most general way, the value described as personal autonomy leaves it to the individual to decide whether to engage in conduct that may cause ..."
+,The value described as most important across all generations is family. The Issue of Succession Planning: Start thinking about this issue now research...
+,"The value described as the negative likelihood ratio and expressed in the formula (1-sensitivity)/specificity is, in reality, not the negative likelihood ratio but a..."
+,"The value described as A in the previous image requires a more meaningful name, something that is self documenting. As a result this value has been named ..."
+,"The value described as having been from SSMUL was not _ tabulated in that reference; however, it was reasonably close to one of the measured pairs."
+,"mg/dL, a value described as optimal by the. AHA. If you are at very high risk for heart disease, the new government recommendations suggest aiming for an..."
+,... the fieldname to the definition or not: add_cr - Add a cariage return at the end of the definition or not. Returns: a value described as a field in this database.
+,"provided in the table of Appendix 1, available on Age and Ageing), a value described as the smallest clinically meaningful change [19]."
+,"Strictly speaking, since it has units of grams per mole, the value described as molecular weight in this process could be called ""gram molecular weight."" Related..."
+,"But expressed in the most general way, the value described as personal autonomy leaves it to the individual to decide whether to engage in conduct that may..."
+,"of the mean synodic month, a value described as precise in Intro. ast. 8.43 46. MANITIUS, however, excludes this passage as a marginal gloss that has made its..."
+,The value described as acute has been determined in each patient as the mean of all values within the first 3 weeks. Time has differing effects...
+,"Later that year, the value defined as 'the art of balancing between a strict and soft ap- proach' was presented. This value covers all prison and probationary..."
+,"The value defined as ""Name"" in the list properties (not the List-Name), together with the list email-address is used automatically as sender information; ""To"""
+,The value defined as the code will be sent by Oracle Health Sciences InForm Publisher in the message. These codelist values need to be mapped to the...
+,"A value known as the index of cooperation (IOC) must also be known to decode a radio fax transmission - this governs the image resolution, and derives from..."
+,A value known as the Blood Lead Level (BLL) describes the amount of lead in the blood. Lead poisoning in children is defined by the CDC as five micrograms of...
+,"A value known as the International Normalized. Ratio, or INR, is followed to make sure that the dose of Coumadin is correct. Excessively high INR levels."
+,"(Sloane's A033259), a value known as the Laplace limit. In fact, E converges as a geometric series with ratio. r=e/(1+sqrt(1+e^2)). (5). (Finch 2003). There is also..."
+,"However, a value known as the ""sheet resistivity"", which depends on both the resistivity and the thickness, can be readily measured for the top surface n-type..."
+,"measured voltage and the geometry of the electrode array, a value known as resistance can be calculated. Resistivity, measured in Ohm-meters, is resistance ..."
+,BELOW BASIC DEFINED: The value identified as the maximum for Below basic identifies the point at which a student would have a .5 probability of meeting...
+,"Bt concentrations >25 mg/dL (428 mol/L), a value identified as critical by the AAP, and has already provided important information regarding..."
+,"concentrations above 2 mol/L, a value identified as toxic to aquatic organisms, including juvenile forms of Adirondack fish (42). Acknowledgments. Support for..."
+,"concentrations above 10 mg/L, the value identified as the U.S. Environmental Protection. Agency's maximum contaminant level (MCL) in drinking water."
+,The value identified as deductible will be included in the average price calculation and indicated in the paragraph of AAM reports reporting the average ...
+,The value identified as 490 pmol/l is off the scale. Low sodium is defined as less than or equal to 130 mEq/l and normal sodium is values above those levels.
+,Definition 5 [ LRU Threshold ] : A value identified as threshold is needed for estimating the expected time needed to fill or completely replace the cache content.
+,A value identified as threshold is needed for esti- mating the expected time needed to fill or completely replace the cache content. This threshold is dynamically...
+,"The value identified as being a ""stable"" rate of return from equities by CEPR is 4.35%, more than 2.0% too low when compared to the stock..."
+,"indicated that as the number of cards (p) in the game increases, the value identified as g (expectation) stabilizes, since (p-1)/p gets closer to 1, and d/p becomes..."
+,"at 322 K, the value identified as the transition temperature. In the case of the complex impedance, the relaxation time of the process can be calculated from the."
+,"In this figure, the value identified as predominant is classified as either a negative value, being one which was discouraged, or a positive value, being one which..."
+,"... creating links and being accessible;; Enthusiasm, a value understood as being the search for leadership, hard effort and an entrepreneurial spirit."
+,"ple: a value visualized as text can be easily coerced to an Html visualization, or vice versa. The library offers functions for such coercions. There are six types of."

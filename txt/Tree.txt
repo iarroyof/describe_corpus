@@ -1,0 +1,94 @@
+,"A tree is defined as a woody plant that grows to 15 or more feet in height, usually with a single trunk, growing to more than 3 inches in diameter at maturity, and."
+,"Tree: A tree is defined as a perennial woody plant with roots, having a single stem (trunk) with branches extending out from the sides and top of this trunk,..."
+,Trees and Co-Trees. A tree is defined as any set of edges in a graph that touches every node without forming any closed paths. Also known as Hamiltonian path!
+,A tree is defined as a single stem plant which at maturity reaches more than 5 meters high. The application of a pesticide to anything matching...
+,A tree is defined as a woody plant more than three metres in height with a single stem or with branches well above the base.' Photograph: Shane Ruming.
+,"For our purposes, a tree is defined as a woody plant usually having a single, upright stem growing to a height of at least 15 feet with a defined crown developing..."
+,"A tree is defined as ""any woody plant having at least one well defined stem at least 6 inches in diameter measured at a height of 4 1/2 feet above the natural..."
+,"Rather than a patch being defined in terms of the difference between two trees, a tree is defined as the result of applying a given set of patches to an empty tree."
+,A tree is defined as a woody plant having one erect perennial stem or trunk at least 9 inches in circum- ference (3 inches in diameter) at 4 feet above the...
+,"In this classification, a tree is defined as a woody plant more than 5 m tall, usually with a single stem. A shrub is a woody plant less than 8 m tall, frequently with..."
+,"A tree is defined as a woody plant having an erect, perennial stem or trunk. The trunk must measure at least 9 inches in circumference (approximately 3 inches ..."
+,"A tree is defined as any woody self-supporting plant characterized by having a single trunk of at least six inches (6) Diameter-at-breast-height, hereinafter..."
+,"A tree is defined as a woody-stemmed plant growing to 4 meters in height at maturity. Rangelands, A site type of Rangeland is assigned where overstory tree ..."
+,"Although most people are sure they can recognize them, a tree is defined as a woody, perennial plant that grows to a height of at least 4.5 metres. English vs."
+,"For the purposes of the Order, a tree is defined as a perennial plant generally with a single woody stem or trunk, usually unbranched for some distance above..."
+,"A tree is defined as a woody plant having an erect, perennial stem or trunk. The trunk must measure at least 9 inches in circumference (approximately 3 inches ..."
+,A tree is defined as a woody plant having an erect perennial stem or trunk that will be at least. 9-1/2 inches in circumference (3 diameter) at maturity at a point...
+,"for the purposes of this tree preservation order, a tree is defined as: any native woody-stemmed plant with either a height greater than 3 m or a girth of more..."
+,"for the purposes of this tree preservation order, a tree is defined as: any woody- stemmed plant with either a height greater than 3 m or a girth of more than 15..."
+,"A tree is defined as an undirected connected graph without any cycles. Argue that if a tree has n nodes, it must have precisely (n 1) edges. Hint: Use structural ..."
+,"for the purpose of these applications, a tree is defined as: a perennial plant with one or more self supporting trunks, or has a height of more than 4 metres, or a..."
+,"In mathematics, and more specifically in graph theory, a tree is an undirected graph in which any two vertices are connected by exactly one simple path. In other..."
+,"In mathematics, more specifically graph theory, a tree is an undirected graph in which any two vertices are connected by exactly one simple path. In other words ..."
+,"Thus, the tree is an appropriate image to use in a discussion of spiritual growth, .... The development of a tree is an extremely long and detailed process. If a tree ..."
+,"Definition 1: A tree is an acyclic graph of n vertices that has n 1 edges. Definition 2: A tree is a connected graph such that u, v V , there is..."
+,"The tree is an anomaly in the ""concrete jungle""-one does not see plants, green and vibrant, in such a dreary setting. In much the same way, one..."
+,"The tree is an immediate hazard to the line (split, leaning, hanging over, uprooted ). The tree is leaning on a hydro pole. Do not attempt to prune or chop down a..."
+,A tree is an acyclic connected graph. A forest is a disjoint set of trees. A spanning tree of a connected graph is a subgraph that contains all of...
+,"By definition, a tree is an cycle-free, connected graph. If there is one vertex, the answer is trivial. So assume there are at least two vertices."
+,"The Tree is an Invisible Heater: Without leaves the tree looks so cold and dry, but surprise of surprises, it keeps the grass below warm | Earth facts for kids."
+,"Now let's look at one of the most important data structures: trees. A tree is an example of a recursive datatype. While there are several different kinds of trees, for..."
+,"A tree is an undirected graph which is connected and acyclic. A tree with n nodes has n 1 edges.1 (Proof: induction on In fact, it is easy to see that if a graph G..."
+,"In its broadest sense, a tree is any plant with the general form of an elongated stem, or trunk, which supports the photosynthetic leaves or branches at some..."
+,"A tree is any partially ordered set (T, ) such that for any t T the set {s . T : s t} is well ordered by the induced order. Given a tree T we..."
+,"Unless the context in which the word is used indicates otherwise, a tree is any living, self-supporting woody plant that usually produces one (1) main trunk."
+,"A tree is any plant that has a woody stem of at least 8 to 10 feet in height, with crown of branches and leaves at the top. In contrast, a shrub, though woody, has ..."
+,"A tree is any woody plant that can reach a height of 15 feet or more at maturity and that usually is single-stemmed and has a crown, or branched-out area, at the ..."
+,"A tree is any woody plant that can reach a height of 15 feet or more at maturity and that usually is single-stemmed and has a crown, or branched-out area at the ..."
+,"A tree is any living, woody plant that grows to 15 feet or more in height, typically with one main stem called a trunk, which is 10 inches or more in diameter at..."
+,A tree is any plant over 4 metres in height with a distinct single main trunk. A verge is the section of the road reserve between the private property boundary and...
+,"A tree is any partially ordered set {T, ^T ) such that for every XET the set. ("" 5x) = { y E T | y<="""" a="""">"
+," A tree is any nonclimbing, woody plant that has a DBH of >3.0 in., regardless of height. b. Saplings/shrubs. Identify each sapling/shrub occurring within a 10-ft..."
+,"Tree according to the ordinance, a tree is any self-supporting woody, perennial plant that has a trunk diameter of two inches or more when measured at a point..."
+,"A tree is any partially ordered set (T, <) such that for any t C T the set {s C. T: s < t} is well ordered by the induced order. Given a tree T we say..."
+,A tree is any connected undirected graph with no simple circuits. A rooted tree is a data structure that consists of nodes (data elements or...
+,A tree is any living or dead woody plant and includes seedlings and regrowth with a height or potential height of 5 metres or more.
+,A tree is any data structure made up of conses whose cars and cdrs are other conses. The following are all printed representations of trees: (foo . bar) ((a . b) (c ...
+,"For purposes of administering this Chapter, a tree is any self-supporting woody plant which visually produces one main trunk and a more or less distinct and..."
+,Both species are beautiful and both trees useful in every part from the bark to the leaves. The tree is characterized by it's grey mattered bark.
+,... measure twelve inches in width. These leaves are featured on the Canadian Flag. The tree is characterized by a broad crown and can grow seventy feet tall.
+,"The tree is characterized by a lovely dark to bright pink bloom, which is taking place right now. Many plant lovers and gardening buffs are making pilgrimages to..."
+,"Botanical description: The tree is characterized by swollen trunks and branches. Baobab average 20m high and 8 to 10m in diameter. The bark is smooth,..."
+,"the tree is characterized by... the care of red maples. widely grown as an ornamental or shade tree, the red maple (acer rubrum) produces red flower clusters..."
+,"The tree is characterized by maroon or purple leaves, a dense, oval crown and colorful fall foliage. Crimson king is... More . Source: www.ehow.com."
+,"The tree is characterized by long, strong roots. People of Meghalaya, have traditionally used these trees to come up with an amazing Bio-Engineering feat, the..."
+,The tree is characterized by its convoluted dune stabilizing root system. Arak twigs have been used traditionally as toothbrushes by Bedouins. This community is...
+,The tree is characterized by a single or multiple trunk growing up to 12 meters tall with a dense umbrella-shaped canopy of thick leaves. It grows slowly...
+,A tree is characterized by a set of nodes (vertices) which contain the data and a set of edges(branches) which represent the links between the nodes.
+,The tree is characterized by its 'upside down' appearance and it is this idea of exposed and vertically reaching roots is where we derive the analogy for the...
+,"The tree is characterized by long, strong roots. People of Meghalaya, have traditionally used these trees to come up wi...th an amazing Bio-Engineering feat, the..."
+,"The tree is characterized by a thick, fibrous, and deeply furrowed bark along with a fire-resistant reddish-brown heartwood. Leaves of S. sempervirens are..."
+,"scaphigera tree. The tree is characterized by a deeply fluted trunk and a smooth but slightly flaking bark, and occurs as a deciduous canopy-emergent in pri-."
+,"The tree is characterized by small, urn-shaped white or green flowers and blue fruits. Japanese blueberry tree is tolerant of a range of soil conditions, though it..."
+,"The tree is characterized by its taproot that has number of health benefits. Maca has been cultivated for more than 2,000 years. The maca roots..."
+,A tree is characterized by its treewidth tw = maxvV |(v)| 1 and its hyperwidth hw = maxvV |(v)|. Many tree-decomposition tech- niques exist. In this paper...
+,"The tree is characterized by its ambilateral type oci"", where n is the degree of the tree (number of its terminal segments) and i is its rank number within the set of..."
+,"tree in gure 3b. The tree is characterized by two clusters, one containing only the AmyI's, and the other contain- ing the Amy2's and ST Amy3. As shown in gure..."
+,"A tree is characterized by two parameters: its ramification and its depth. The local dynamics at the nodes of a tree is described by a nonlinear map, giving rise to..."
+,The tree is characterized by the coarsely furrowed and wrinkled shell of the... COYIO LIMITED; [Related Keywords: Confectionery Candy ]. Contact Now.
+,"The tree is characterized by efficient growth on poor and nitrogen-deficient soils and is suitable for af- forestration of arable land, as well as in devastated areas."
+,"The tree is characterized by its broad, evergreen leaves, and most notably by its fruit, the soursop. It is an edible fruit with soft flesh and sour taste. In many parts..."
+,"... have established EST libraries and performed transcript profiling during wood development in poplar, a tree considered as a model for wood development."
+,"A tree considered as a shrub to a large tree with blue or purple flowers? In our place where we are now, I found them on the streets, parks and..."
+,"A tree considered as a shrub to a large tree with blue or purple flowers? In our place where we are now, I found them on the streets, parks and backyards, the..."
+,"The tree considered as a living being with its own individuality. Regardless of how this meeting ends, it is clear that the discussion was hard. Mainly because..."
+,"A tree described as ""rare in cultivation and extremely shy to flower"" has bloomed for the first time in its 30-year history in Cambridge."
+,"The tree described as one ""of changing leaves"" which has blossoms that ""sing"" is probably the bamboo (ohe), used today for sorcery and out of whose joints the..."
+,"Page 43: The tree described as Pachira rosea is actually Pseudobombax ellipticum. Concise Flowers of the Himalaya, Oleg Polunin & Adam Stainton ( OUP:..."
+,"A tree described as ""rare in cultivation and extremely shy to flower"" has bloomed for the first time in its 30-year history in Cambridge, England."
+,"A tree described as ""rare in cultivation and extremely shy to flower"" has bloomed for the first time in its 30-year history in Cambridge, England."
+,The tree described as 0.3D.8 shown on the plan LP01 (Issue B) dated 03/09/12 which is located on the south-western corner of the site must be...
+,"Where they took their last breaths, a tree known as the heartswood grew, a symbol of their undying love. That should be enough to tempt a succubus. You will..."
+,"In Singapore, an tree known as the ""Changi Tree"" stood as a symbol of the city's strength. It had gained notoriety because of its unusual height,..."
+,"In reality, the tree known as the 'Willow' does not look like the Whomping Willow in the films, but it is possible they were supposed to look more like a real Willow..."
+,"The Oldest of the Old, a tree known as Methuselah had begun its life 200+ years earlier. ... The tree, known as Prometheus, which had a tiny patch of Bristlecone..."
+,"The tree known as malomellus is so called from its sweetness, either because its fruit has the taste of honey, mel, or because it is preserved in honey. The Punic..."
+,"The tree known as 'the Peeping Tom tree' from 'Back to the Future' stands in the front yard of John McDonald, the director of this documentary. This is the story of ..."
+,"A tree identified as ""The Anzac Pine"" stands on Te Mata Peak at Havelock North in Hawkes Bay. Although a specimen of Pinus brutia was originally planted, the..."
+,The tree identified as Tree # 180 in the proposed plan change as notified should be replaced with the intended specimen. The tree that was...
+,A tree identified as Douglas Fir was found dead on 20th and Folsom this morning . Early reports indicate cause of death was dehydration after...
+,"The tree identified as number 181 is an excellent specimen. It shows the characteristic heavy branching of open grown trees, in the same way as the ones in the..."
+,"The tree identified as tree tag 108, with a trunk diameter of 52 inches and located near the northern boundary of the Property, was identied as a Legacy Tree in..."
+,"At about 6pm on Monday, a tree identified as the Lincoln Oak was knocked down during the height of Hurricane Sandy*. Planted in 1909, it..."
+,font than is currently shown); the tree identified as #617 immediately northeast of tree. #616 is changed to read is actual number #612; and...

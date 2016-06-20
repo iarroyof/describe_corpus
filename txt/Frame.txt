@@ -1,0 +1,96 @@
+,"In computer networking and telecommunication, a frame is a digital data transmission unit that includes frame synchronization, i.e. a sequence of bits or symbols..."
+,"2) In time-division multiplexing (TDM), a frame is a complete cycle of events within ... 3) In film and video recording and playback, a frame is a single image in a..."
+,"From the perspective of your javascript, a frame is a window object. Every window has its own set of objects and variables. A variable that is global ( declared..."
+,A frame is a region in a browser window that can display an HTML document independent of what's being ... The frame is a container that holds the document.
+,"Yess = Greatest frame ever built . the frame is a work of art , its perfect to ride in evey way and has fully improved evey aspect of my riding , its soooo hard to find ..."
+,How to Make Frames (Main Windows). A Frame is a top-level window with a title and a border. The size of the frame includes any area designated for the border.
+,The frame is a rectangle with a rectangle cut out of it. The area of the frame is 4*6 =24 square inches. So the area of the big rectangle (frame and picture) is 48...
+,"Simply put, a frame is a web browser window within another web browser window. By using frames, you can create web pages consisting of multiple windows."
+,A frame is a structure composed of several members that are either fixed or pin connected at their ends. It is often necessary to draw shear and moment.
+,A frame is a rectangular region on a form that holds other controls and groups the controls into a single set. It is a rectangular outline with an optional title.
+,"In modern cars and other vehicles, the frame is a highly engineered crash- absorption component that can help to protect you and your family in a collision by..."
+,"A frame is a special type of window that can display multiple, independently scrollable ... Because a frame is a type of window, you refer to frames and navigate..."
+,"A frame is a window whose size and position can (usually) be changed by the user. It usually has thick borders and a title bar, and can optionally contain a menu..."
+,The frame is a snapshot (pixmap) of the current axes or figure. F = getframe gets a frame from the current axes. F = getframe(h) gets a frame from the figure or...
+,"In Java, a frame is a standard graphical window. It has minimize, maximize, and close buttons in its top right corner and can be moved and resized by default."
+,"(3) f > 0, the frame is a mechanism with f degrees of freedom. The r] values of the joints can be determined by mere inspection but the number of actual joints..."
+,The frame is a little tweaked and someone previously re-dished the wheel to adjust for the fact. I've done this on older beat up bikes. The frame...
+,"AMS subject classifications. 42C15, 42C40, 20C15, 05B20, 15A60. 1. Introduction. A frame is a set of vectors in a real or complex Hilbert space."
+,"The frame is a structure, almost always of wood or metal, that contains, supports, and protects the artwork and the other elements listed below, and usually..."
+,Frame is a content control that supports navigation.
+,A frame is defined as the outside border that holds something in place on all sides.noun. An example of frame is the enclosed wood structure that holds a picture...
+,Note: The frame is defined as the part of the opponent's body below the neck that is presented to the blocker. A defensive player may not tackle or hold an...
+,A frame is defined as two jointly occurring words with one word intervening. Qualitative and quantitative results from distributional analyses of six different...
+,A frame is defined as a player/team pitching all their bags to the opposite end of the court. Players must pitch all their bags from the same pitching area during a...
+,A frame is defined as the graphics image produced by as a result * of all the canvas draws operation executed between two successive * calls to isFreshFrame.
+,A frame is defined as an image belonging to video sequences. Each frame with the same or different size of original input sequences is searched by the same or ...
+,A frame is defined as two jointly occurring words with one word intervening. Qualitative and quantitative results from distributional analyses of six different.
+,A frame is defined as the play from one end of a court. A match is decided based upon the first team to score a prescribed number of points. 6. A coin flip will...
+,"In geneid, the frame is defined as the number of nucleotides (0,1,2) from the first nucleotide in the exon sequence to the the first nucleotide in the first..."
+,A frame is defined as 4 balls from each team being thrown at the pallino. Then a different group of 4 players may throw the next frame. If a team has less than 4...
+,Static (IP is permanent) Dynamic (DHCP gives client IP address). Packets vs. Frames. A frame is defined as the unit of data transferred across a network.
+,Note: The frame is defined as the part of the opponent's body below the neck that is presented to the blocker. SteelersNick. Ramon Foster...
+,51) and for sorting the pieces of information for analysis. The frame is defined as the principle of organization which governs the subjective meanings we assign...
+,"A frame is defined as a set of vectors {vi | i=1, , N} and a point o. Set of vectors { vi} are bases of the associate vector space; o is an origin of the frame; N is the..."
+,A frame is defined as one frame of metacode. Each FSG must be ended with a full line of equal signsthat is how RIP knows that it has reached the end of the...
+,The frame is defined as the welded metal base of the unit and does not include any parts that can be removed. PARTS FIVE YEARS. VISION FITNESS...
+,"A frame is defined as an 'interpretative schema that simplifies and condenses the world out there by selectively punctuating and encoding objects, situations,..."
+,"cleared, the screen will go to the next screen (explained below). Frame Text Screen: A frame is defined as what your sign is able to display at any given time."
+,(The frame is defined as the welded metal base of the unit and does not include any parts that can be removed.) MOTOR 3 YEARS. Tempo Fitness warrants the ...
+,"According to this view, a frame is an observer plus a coordinate lattice constructed to be an orthonormal right-handed set of spacelike vectors perpendicular to a..."
+,"A frame is an artificial intelligence data structure used to divide knowledge into substructures by representing ""stereotyped situations."" Frames are connected..."
+,"According to this view, a frame is an observer plus a coordinate lattice constructed to be an orthonormal right-handed set of spacelike vectors perpendicular to a..."
+,"In short, a frame is an emphasis in salience of differ- ent aspects of a topic. While agenda-setting theory deals with the salience of issues, framing is concerned..."
+,"If the field is greater than '05DC', the frame is an EtherType field and is an Ethernet Version 2 frame. IEEE 802.2 is not part of the definition of..."
+,"The frame is an Ethernet II frame, with type values starting at 1536 (600 hex). <= 1500 bytes: value corresponds to a length field. The frame is an IEEE 802.3..."
+,The frame is an acrylic box frame; these frames are available at many craft and hobby . stores. Make sure the frame is large enough to fit the image of the shirt.
+,"A frame is an active perspective that both describes and perceptually changes a given situation. A frame is, simplistically, a point of view; often, and particularly..."
+,"value is greater than 1536, the frame is an optional type frame, and the. Length/ Type field value identifies the particular type of frame being sent or received."
+,"The frame is an Orange Elite, and was not supplied with any separate races. I only think it is zero stack because I used the cane creek headset..."
+,"The frame is an IEEE 802.3 format (or derivative) with a maximum data length of ... The frame is an Ethernet II frame, with type values starting at 1536 (600 hex)."
+,"Guitars: Soheil Zarrin Kelk: Explode Bass: Mohammad Nik: Death Tune Biography: The Frame is an Experimental/Progressive Metal Band from Tehran, Iran."
+,"A frame is any payoff relevant preference parameter broadly defined to include psychological considerations such as reference points, beliefs, emotions..."
+,"A frame is any list, material or device that delimits, identifies, and allows access to the elements of the survey population. Frames are generally..."
+,"A frame is any list, material or device that delimits, identifies, and allows access to the elements of the survey population. Frames are generally..."
+,"functional characteristics. 3.4 Frame. The frame is any construction system fitted and united together, designed for mounting or supporting electrical or electronic..."
+,The frame is any metal part of the vehicle. Never ground the amplifier to the negative connection on the battery: It will drain the battery. Bolt the powered...
+,A frame is any point. in time where catches and throws occur (simultaneously). A frametime is the. time interval between successive frames. For any particular...
+,"Broadly defined, a frame is any system of concepts. Our LSR model is seen as a tool for building hierarchies and sub-hierarchies, as well as sets of horizontal..."
+,"A frame is any complete lattice A, satisfying the infinite distributive law: a Sup B = Sup{a b | b B}. (7). Roughly speaking, in one sense point-free..."
+,"Or rather, a frame is any system of concepts that relate and in order to understand any one concept, we must understand the whole system in which that concept..."
+,"A frame is any complete lattice which is ( )-distributive. Theorem. In a cLa, the - stable elements form a subframe. Theorem. In a cBa, any subframe creates a..."
+,"A frame is any list, material or device that delimits, identifies, and allows access to the elements of the survey population. Frames are generally of two types: area..."
+,"A frame is any payoff relevant preference parameter broadly defined to in$ clude psychological considerations such as reference points, beliefs..."
+,"A frame is any single picture that appears on the screen. If you push the 'still' button on your video recorder, you will momentarily stop the film you are watching..."
+,A frame is any complete lattice that obeys the infinite distributivity law x iI xi = iI(x xi). Let Frm be the category of frames. Its opposite category Loc =.
+,A frame is any set of vectors that spans the vector space. Thus the representation of an element might not be unique. Definition 4. Let H be a...
+,"A frame is any translation of Rkn in the plane, and the anchor of a frame is its SW corner. If we move a frame so that its anchor lies on [0], then..."
+,"A frame is any sextuple on which a model is based. For A a set of formulas and '?I a model as above, % I= A, A is valid in 2l, if (VAcd)((%, 2) ,4). For 3 a frame,..."
+,The frame is characterized by a 5-storey residential RC flat slab construction over a 2-storey retail area. The column layout in the residential area was dictated by...
+,The frame is characterized by it's short chain stays that allow easy handling in tight section and the skate park. The moderate length top tube in combination with...
+,"The frame is characterized by a low price, simple construction and handling, elastic stiffness, low mechanical susceptibility and safety. It can be equipped with a..."
+,DT-based: A frame is characterized by computing the. Decode Time on a particular hardware platform this corresponds to the (semi-)automated hardware-.
+,"A frame is characterized by the magnitude of the optical flow,. i.e., . (4). Each score is subtracted a constant c, such that we introduce positive and negative score..."
+,The frame is characterized by oversized carbon everything with the exception of the seatstays which are titanium: Now Dedacciai has decided...
+,"In multicode MF-TDMA [3], a frame is characterized by a set of frequency assignments (FA), spreading codes and time slots. Fig. 1 gives an example of a valid..."
+,A frame is characterized by a set of vectors that are linear dependent. This set often leads to a straightforward expansion resembling that of an orthogonal or...
+,"The frame is characterized by a marked sloping geometry and the tube differentiated head tube, while the BB set hosts a Press Fit 86mm. The four links rear..."
+,"lar temporal frame waveform. A frame is characterized by the temporal waveform x, its temporal alignment Z, and its channel amplitudes v..."
+,"The frame is characterized by a marked sloping geometry and the tube differentiated head tube, while the BB set, quite big, hosts a Press Fit 86mm. The four..."
+,"In this view, the frame is characterized by its implementation as a measurement system or observer. In this implementation, a frame typically has three types of..."
+,"Thus, a frame is characterized by a vector [cl,. . ., cn] where ci e {1, .-. ., M} is the transmission set assigned to slot i and M = ICI where I - is the..."
+,"The frame is characterized by exible columns, weak joints and strong beams with non-ductile reinforcement detailing. The rst, third and h."
+,The frame is characterized by four notches squared-off edging and a deep bronze finish. Beveled glass provides a dash of luxury and the mirror may be hung...
+,"The frame is characterized by flexible columns, weak joints, and strong beams with nonductile reinforcement detail- ing. The first, third, and fifth specimens (11,..."
+,"Due to the high cost of aluminum, the frame is characterized by a single T-slotted tracked post rather than the original two smaller posts, which..."
+,"In this view, the frame is characterized by its implementation as a measurement system or observer. In this implementation, a frame typically..."
+,The frame is characterized by the soft principal triangle and it presents a very strong steering column which gives more control to the bike. All the components...
+,"The frame is characterized by a marked sloping geometry and the tube differentiated head tube, while the BB set hosts a Press Fit 86mm. The four links rear..."
+,14. Sept. 2006 ... The frame is characterized by an extraordinary robustness and stability for a folding bike. The frame and forks can accommodate V-. Brakes or...
+,"The frame described as bent and twisted, not soldered. Only off by 300 years or so. This picture shows pantoscopic frames which were probably made as..."
+,"As noted in Table 2, the frame described as 1721.75 in. B is the same shield as 1721.75 in., except it was installed upside down from..."
+,"In fact, a frame defined as ""monocoque"" of a standard production is ready at this stage and comes out from its mold in size S-M-L (predefined measures to which..."
+,"A frame defined as the domains model, will be presented for managing both theoretical and organisational contexts, as one example of a..."
+,"When Internet Explorer 4.0 or later is the browser, the frame identified as similar_frame in the above frameSet example contains a template in which the table..."
+,The frame identified as the default frame will automatically be the target of all URL script commands embedded in the Windows Media stream with no additional...
+,"as.data.frame is a generic function with many methods, and users and packages can supply further methods. If a list is supplied, each element is converted to a..."
