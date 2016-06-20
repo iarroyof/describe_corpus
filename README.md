@@ -7,9 +7,9 @@ Each text snippet was embedded into document vector representations computed wit
 
 For all dimensions, the Doc2vec model was trained with the Wikipedia corpus whose contents range up to 2012. The training was performed in such a way the vocabulary of the model considers 2e6 articles for the first training. Afterwards the model was re-trained with 1e6 additional articles (3.6e6 articles in total).
 
-# Work in progress 
+## Work in progress 
 
-It is pending add semantic similarity labeling, which is thought to be provided by using our semantic silarity annotation tool: https://github.com/iarroyof/define-semantic-annotation
+It is pending add semantic similarity labeling, which is thought to be provided by using our semantic similarity annotation tool: https://github.com/iarroyof/define-semantic-annotation (any contribution is welcome.)
 
 ## Remark. 
 
