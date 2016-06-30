@@ -87,23 +87,3 @@
 ,"Annotation is the act of talking to the text as you read it. Though you may not be speaking out loud, you will be writing/taking notes about what you are reading...",,,,,"act, talking, text, read it, speaking, writing, "
 ,"Annotation is the process of assigning GO terms to gene products. The annotation data in the GO database is contributed by members of the GO Consortium,...",,,,,"process, assigning, terms, gene products, data, GO database"
 ,Annotating Text to Deepen Understanding. Doug Fisher. and. Nancy Frey. Annotation is a note of any form made while reading text. Reading with a pencil..,,,,,"text, understanding, note, form, reading text, pencil"
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
