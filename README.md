@@ -29,3 +29,6 @@ Please do not forget citing this repository in the case you use all/part materia
     year = {2016}
 }
 ```
+## Acknowledgements
+
+This work wouldn't be possible without collaboration of some members from the "Grupo de Ingeniería Lingüística -- UNAM".
