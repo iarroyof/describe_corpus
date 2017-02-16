@@ -14,3 +14,18 @@ It is pending adding semantic similarity labeling among snippets. This similarit
 ## Remark
 
 Not all text snippets contain definitions. Some of them are uniquely snippets containing definitional patterns (in the sense of the simplest regexs), which do not introduces concepts (semantically speaking) in aproximately 30% of the cases.
+
+# Citation
+
+Please do not forget citing this repository in the case you use all/part materials collected here:
+
+```
+@misc{arroyo2016,
+    author = {Arroyo-Fern\'andez, Ignacio},
+    keywords = {text snippets containing definitions of terms},
+    note = {Universidad Nacional Aut\'onoma de M\'exico},
+    title = {{The Describe Corpus: A Recopilation of Text Snippets Containing Definitions of Terms from The Web}},
+    url = {http://github.com/iarroyof/describe_corpus}
+    year = {2016}
+}
+```
