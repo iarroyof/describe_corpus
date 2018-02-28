@@ -1,240 +1,240 @@
-,"Finally, the image is a real image. Light rays actually converge at the image location. If a sheet of paper were placed at the image location, the actual replica or..."
-,"For the purpose of this discussion, an image is defined as a single array of pixels of a certain dimensionality (1D, 2D, or 3D), with a particular..."
-,"For the purpose of this discussion, an image is defined as a single array of pixels of a certain dimensionality (1D, 2D, or 3D), with a particular..."
-,The image is a virtual image. 3) An object 2.0 cm high is placed 14 cm to the right of a concave spherical mirror having a radius of curvature of 20 cm. a) Draw a...
-,"point cloud image representation we have previously demonstrated. In this representation, an image is defined as a group of points with unrestricted locations."
-,"point cloud image representation we have previously demonstrated. In this representation, an image is defined as a group of points with unrestricted locations."
-,"Finally, the image is a real image. Light rays actually converge at the image location. If a sheet of paper were placed at the image location, the actual replica of..."
-,The image is defined as byte arrays and has image pointer too. I want to read the images in matlab (in mex) and convert this image to my data...
-,The image is defined as byte arrays and has image pointer too. I want to read the images in matlab (in mex) and convert this image to my data...
-,The Image is a 1975 American film that was re-released in an edited version in 1976. The film is also known by two other titles: The Punishment of Anne and The ...
-,"An image is defined as a two dimensional function, f(x, y), where x and y are spatial coordinates, and the amplitude of f at any pair of coordinates (x, y) is called..."
-,"An image is defined as a two dimensional function, f(x, y), where x and y are spatial coordinates, and the amplitude of f at any pair of coordinates (x, y) is called..."
-,"However, the image is a laterally-inverted ""mirror image"" of the object. If a person is reflected in a plane mirror, the image of his right hand appears to be the left..."
-,An image is defined as any likeness in any kind of media that is recognizably a person. It is a privilege and a great opportunity for us to include images of.
-,An image is defined as any likeness in any kind of media that is recognizably a person. It is a privilege and a great opportunity for us to include images of.
-,An Image is a Myth - Allan Watts Chillstep 432hz. Koorosh Saxton1 video. SubscribeSubscribedUnsubscribe 0...
-,"The Knowledge Community. The Image is an international conference, a scholarly journal, a book series, and an online knowledge community."
-,"The Knowledge Community. The Image is an international conference, a scholarly journal, a book series, and an online knowledge community."
-,An image is a two-way process http://www.bestcareanywhere.net/img/bear.jpg http://farm1.static.flickr.com/182/453338595_2a8453b4f7.jpg?v=0...
-,"Read Paolo Schianchi, The image is an object in News - Design."
-,"Read Paolo Schianchi, The image is an object in News - Design."
-,"If the scale factor is between 0 and 1, the image is a reduction (a shrink). (It is possible, but not usual, that the scale factor is 1, thus creating congruent figures.) ..."
-,"If the scale factor, k, is greater than 1, the image is an enlargement (a stretch). If the scale factor is between 0 and 1, the image is a reduction (a shrink)."
-,"If the scale factor, k, is greater than 1, the image is an enlargement (a stretch). If the scale factor is between 0 and 1, the image is a reduction (a shrink)."
-,An image is a virtual hard disk (.vhd) file that is used as a template for creating a virtual machine. An image is a template because it doesn't have the specific...
-,"When you take an image of a hard drive, the image is an exact replica of your computer at the time the image was taken. Of course, you would want to take the ..."
-,"When you take an image of a hard drive, the image is an exact replica of your computer at the time the image was taken. Of course, you would want to take the ..."
-,"In the first case, the image is a good appearancethe representation is of the order of sacrament. In the second, it is an evil appearanceof the order of..."
-,"1. Introduction to image processing. 1.1. What is an image? An image is an array, or a matrix, of square pixels (picture elements) arranged in columns and rows."
-,"1. Introduction to image processing. 1.1. What is an image? An image is an array, or a matrix, of square pixels (picture elements) arranged in columns and rows."
-,"IMAGE: An image is a representation of a real object or scene. An image can be viewed on ... If the image is a JPEG (file extension .JPG), the file size is always..."
-,The image is an outline of the UV face mapping. Activating the tool brings up the File Browser Window with options for saving the layout: Export options. All UVs...
-,The image is an outline of the UV face mapping. Activating the tool brings up the File Browser Window with options for saving the layout: Export options. All UVs...
-,"Most notably, the image is a separate file that loads into the space created by the img element. There are three types of image files used in HTML, indicated by..."
-,Relevant answers: What is the difference between an object and an image? An image is an optical representation of an object.... Object is real... while image.
-,Relevant answers: What is the difference between an object and an image? An image is an optical representation of an object.... Object is real... while image.
-,The image is a bi-dimensional collection of pixels in rectangular coordinates. The used kernel depends on the effect you want. GIMP uses 5x5 or 3x3 matrices.
-,"If the scale factor is greater than 1, the image is an enlargement. If the scale factor is between 0 and 1, the image is a reduction. Example: The figure shows two..."
-,"If the scale factor is greater than 1, the image is an enlargement. If the scale factor is between 0 and 1, the image is a reduction. Example: The figure shows two..."
-,"Via Peter Hessler. The image is a bit small, but the silver signs say Urine (#1) and Dump (#2, obviously.) Awesome."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"Thus, the image is a mosaic of light points that are brought to focus by the refraction of the lens. An image is projected at a fixed focal distance from the lens and..."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"For the purpose of this discussion, an image is defined as a single array of pixels of a certain dimensionality (1D, 2D, or 3D), with a particular..."
-,"The image is an image map with each room an interactive map area. The alt text is ""The building's floor plan. Select a room for more information about the..."
-,"The image is an image map with each room an interactive map area. The alt text is ""The building's floor plan. Select a room for more information about the..."
-,"point cloud image representation we have previously demonstrated. In this representation, an image is defined as a group of points with unrestricted locations."
-,image processing. Convolution is the algebraic process of multiplying two polynomials. An image is an array of polynomials whose pixel values represent.
-,image processing. Convolution is the algebraic process of multiplying two polynomials. An image is an array of polynomials whose pixel values represent.
-,The image is defined as byte arrays and has image pointer too. I want to read the images in matlab (in mex) and convert this image to my data...
-,"The image is an abstract free form which is subjective to individual interpretation. Image example in context: Using interpretation of ""ambiguous..."
-,"The image is an abstract free form which is subjective to individual interpretation. Image example in context: Using interpretation of ""ambiguous..."
-,"An image is defined as a two dimensional function, f(x, y), where x and y are spatial coordinates, and the amplitude of f at any pair of coordinates (x, y) is called..."
-,"You are purchasing a dried dip mix, the image is an interpation of this dry mix. Buffalo Blu. $. 3.95. This dip is one of our new favorites . Blue cheese and Red hot..."
-,"You are purchasing a dried dip mix, the image is an interpation of this dry mix. Buffalo Blu. $. 3.95. This dip is one of our new favorites . Blue cheese and Red hot..."
-,An image is defined as any likeness in any kind of media that is recognizably a person. It is a privilege and a great opportunity for us to include images of.
-,The image is an actual photograph of the genuine Apple product and not an artist's rendering (Note: You must obtain express written permission from Apple...
-,The image is an actual photograph of the genuine Apple product and not an artist's rendering (Note: You must obtain express written permission from Apple...
-,"The Knowledge Community. The Image is an international conference, a scholarly journal, a book series, and an online knowledge community."
-,"ADDITIONAL INFORMATION: Pyro Visor is available in black or white. Please note, the image is any an example. We will ship you whatever color you purchase ."
-,"ADDITIONAL INFORMATION: Pyro Visor is available in black or white. Please note, the image is any an example. We will ship you whatever color you purchase ."
-,"Read Paolo Schianchi, The image is an object in News - Design."
-,"Please note, the image is any an example of shirt. We will ship you whatever color you purchase. Pyro Traditional Black Shirt 1 Pyro Traditional Black Shirt 3..."
-,"Please note, the image is any an example of shirt. We will ship you whatever color you purchase. Pyro Traditional Black Shirt 1 Pyro Traditional Black Shirt 3..."
-,"If the scale factor, k, is greater than 1, the image is an enlargement (a stretch). If the scale factor is between 0 and 1, the image is a reduction (a shrink)."
-,"An image is any reproduction, including: Photos; Films; Computer programs; Files; Videogames. Conviction for possession of child pornography can land you in..."
-,"An image is any reproduction, including: Photos; Films; Computer programs; Files; Videogames. Conviction for possession of child pornography can land you in..."
-,"When you take an image of a hard drive, the image is an exact replica of your computer at the time the image was taken. Of course, you would want to take the ..."
-,"An image is any 2D subset of rays in space. Actually, the light energy flowing along these rays; Any 2D slice of the plenoptic function. perspective image."
-,"An image is any 2D subset of rays in space. Actually, the light energy flowing along these rays; Any 2D slice of the plenoptic function. perspective image."
-,"1. Introduction to image processing. 1.1. What is an image? An image is an array, or a matrix, of square pixels (picture elements) arranged in columns and rows."
-,"An image is any graphic file, which can include illustrations and photos. Common image file extensions are .gif., .jpg, .tiff, etc. A file is type of computer file that..."
-,"An image is any graphic file, which can include illustrations and photos. Common image file extensions are .gif., .jpg, .tiff, etc. A file is type of computer file that..."
-,The image is an outline of the UV face mapping. Activating the tool brings up the File Browser Window with options for saving the layout: Export options. All UVs...
-,"The image is any 32x32 image. Note that the word wrap shows ""The Quick Bro"" / ""Fox"" instead of ""The Quick"" / ""Brown Fox"". (Image attached.)"
-,"The image is any 32x32 image. Note that the word wrap shows ""The Quick Bro"" / ""Fox"" instead of ""The Quick"" / ""Brown Fox"". (Image attached.)"
-,Relevant answers: What is the difference between an object and an image? An image is an optical representation of an object.... Object is real... while image.
-,"A: An image is any graphic I create or manipulate and place on your web site. Examples are photographs, buttons, titles, backgrounds, bullets, GIF animation,..."
-,"A: An image is any graphic I create or manipulate and place on your web site. Examples are photographs, buttons, titles, backgrounds, bullets, GIF animation,..."
-,"If the scale factor is greater than 1, the image is an enlargement. If the scale factor is between 0 and 1, the image is a reduction. Example: The figure shows two..."
-,"The image is any normal web image (jpeg, gif or png) referenced dynamically by a JavaScript variable. Best results are achieved when using a landscape image..."
-,"The image is any normal web image (jpeg, gif or png) referenced dynamically by a JavaScript variable. Best results are achieved when using a landscape image..."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"For us, an image is any figure or representation of someone or something, whilst an idol is a false god, an image or a statue considered as God,..."
-,"For us, an image is any figure or representation of someone or something, whilst an idol is a false god, an image or a statue considered as God,..."
-,"Meteosat image from 16 March 2000. The image is an infrared (IR) image, which means that the temperature is shown in a scale from white (low temperatures)..."
-,"Thus, an image is characterized by both a class and a type. For instance, a statement discussing an uint8 gray-scale image is simply referring to a gray-."
-,"Thus, an image is characterized by both a class and a type. For instance, a statement discussing an uint8 gray-scale image is simply referring to a gray-."
-,"The image is an image map with each room an interactive map area. The alt text is ""The building's floor plan. Select a room for more information about the..."
-,"The image is characterized by a slight forward tilt, and she is known affectionately as """"The Geperudeta"""". According to the tradition, in the year 1414 three young..."
-,"The image is characterized by a slight forward tilt, and she is known affectionately as """"The Geperudeta"""". According to the tradition, in the year 1414 three young..."
-,image processing. Convolution is the algebraic process of multiplying two polynomials. An image is an array of polynomials whose pixel values represent.
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point allows the computation of a scale invariant..."
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point allows the computation of a scale invariant..."
-,"The image is an abstract free form which is subjective to individual interpretation. Image example in context: Using interpretation of ""ambiguous..."
-,"The image is characterized by a bearded. Christ frontally positioned before the viewer, raising his right hand in blessing and holding a jewel-encrusted Gospel..."
-,"The image is characterized by a bearded. Christ frontally positioned before the viewer, raising his right hand in blessing and holding a jewel-encrusted Gospel..."
-,"You are purchasing a dried dip mix, the image is an interpation of this dry mix. Buffalo Blu. $. 3.95. This dip is one of our new favorites . Blue cheese and Red hot..."
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,The image is an actual photograph of the genuine Apple product and not an artist's rendering (Note: You must obtain express written permission from Apple...
-,"sions of the resolution cell. The image is characterized by a granular pattern, or ' speckle', which varies from place to place in the tissue; it can be explained in..."
-,"sions of the resolution cell. The image is characterized by a granular pattern, or ' speckle', which varies from place to place in the tissue; it can be explained in..."
-,"ADDITIONAL INFORMATION: Pyro Visor is available in black or white. Please note, the image is any an example. We will ship you whatever color you purchase ."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,"Please note, the image is any an example of shirt. We will ship you whatever color you purchase. Pyro Traditional Black Shirt 1 Pyro Traditional Black Shirt 3..."
-,"An image is characterized by a set of binary images, which are generated by randomly thresholding the image's color channels. Based on a Gestalt principle of..."
-,"An image is characterized by a set of binary images, which are generated by randomly thresholding the image's color channels. Based on a Gestalt principle of..."
-,"An image is any reproduction, including: Photos; Films; Computer programs; Files; Videogames. Conviction for possession of child pornography can land you in..."
-,An image is characterized by a set of histograms - one per class - where each histogram describes whether the image content is best modeled by the universal ...
-,An image is characterized by a set of histograms - one per class - where each histogram describes whether the image content is best modeled by the universal ...
-,"An image is any 2D subset of rays in space. Actually, the light energy flowing along these rays; Any 2D slice of the plenoptic function. perspective image."
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point al- lows the computation of a scale invariant..."
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point al- lows the computation of a scale invariant..."
-,"An image is any graphic file, which can include illustrations and photos. Common image file extensions are .gif., .jpg, .tiff, etc. A file is type of computer file that..."
-,The image is characterized by a three-dimensional appearance (a pseudo- relief) in which contrast and colour may be varied. The Problem of Visualizing Phase.
-,The image is characterized by a three-dimensional appearance (a pseudo- relief) in which contrast and colour may be varied. The Problem of Visualizing Phase.
-,"The image is any 32x32 image. Note that the word wrap shows ""The Quick Bro"" / ""Fox"" instead of ""The Quick"" / ""Brown Fox"". (Image attached.)"
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,"A: An image is any graphic I create or manipulate and place on your web site. Examples are photographs, buttons, titles, backgrounds, bullets, GIF animation,..."
-,The image is characterized by the appearance of a dark fringe at the geometric image of the edges of the object . The effect of the width of the obstacle and the.
-,The image is characterized by the appearance of a dark fringe at the geometric image of the edges of the object . The effect of the width of the obstacle and the.
-,"The image is any normal web image (jpeg, gif or png) referenced dynamically by a JavaScript variable. Best results are achieved when using a landscape image..."
-,An image is characterized by a set of histograms one per class where each histogram describes whether the image content is best modeled by the universal ...
-,An image is characterized by a set of histograms one per class where each histogram describes whether the image content is best modeled by the universal ...
-,"For us, an image is any figure or representation of someone or something, whilst an idol is a false god, an image or a statue considered as God,..."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,"Thus, an image is characterized by both a class and a type. For instance, a statement discussing an uint8 gray-scale image is simply referring to a gray-."
-,The image is characterized by a three-dimensional appearance (a pseudo-relief) in which contrast and colour may be varied. Keywords: contrast enhancement...
-,The image is characterized by a three-dimensional appearance (a pseudo-relief) in which contrast and colour may be varied. Keywords: contrast enhancement...
-,"The image is characterized by a slight forward tilt, and she is known affectionately as """"The Geperudeta"""". According to the tradition, in the year 1414 three young..."
-,The image is characterized by low contrast. This is reflected in the histogram which shows that most samples are in a narrow region of the dynamic range (little ...
-,The image is characterized by low contrast. This is reflected in the histogram which shows that most samples are in a narrow region of the dynamic range (little ...
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point allows the computation of a scale invariant..."
-,"For each class, an image is characterized by a histogram of visual word occurences, which determines whether the image content is best modeled by the ..."
-,"For each class, an image is characterized by a histogram of visual word occurences, which determines whether the image content is best modeled by the ..."
-,"The image is characterized by a bearded. Christ frontally positioned before the viewer, raising his right hand in blessing and holding a jewel-encrusted Gospel..."
-,"The image is characterized by the periodic sequence of three (111) lattice fringes with bright, bright, dark sequence . According to the intuitive interpretation of..."
-,"The image is characterized by the periodic sequence of three (111) lattice fringes with bright, bright, dark sequence . According to the intuitive interpretation of..."
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,mindednessone of the nicest things anyone has ever done for me. Dipesh Chakrabarty. the image conceived as an imitative artice repro.
-,mindednessone of the nicest things anyone has ever done for me. Dipesh Chakrabarty. the image conceived as an imitative artice repro.
-,"sions of the resolution cell. The image is characterized by a granular pattern, or ' speckle', which varies from place to place in the tissue; it can be explained in..."
-,"He first gained notoriety on city streets in 1999 with a wheatpasted black-and- white skull holding a cell phone, an image described as ""eerie, yet smart""."
-,"He first gained notoriety on city streets in 1999 with a wheatpasted black-and- white skull holding a cell phone, an image described as ""eerie, yet smart""."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,The image described as the Big Complete Map shows the location of the 70 SGSL producer-led trial sites (red dots) and the 5 researcher-led trial sites (blue...
-,The image described as the Big Complete Map shows the location of the 70 SGSL producer-led trial sites (red dots) and the 5 researcher-led trial sites (blue...
-,"An image is characterized by a set of binary images, which are generated by randomly thresholding the image's color channels. Based on a Gestalt principle of..."
-,"infinite darkness of space, an image described as the ""blue marble"". Will our kids experience similar revelations about how our brains work?"
-,"infinite darkness of space, an image described as the ""blue marble"". Will our kids experience similar revelations about how our brains work?"
-,An image is characterized by a set of histograms - one per class - where each histogram describes whether the image content is best modeled by the universal ...
-,"Therefore, an image described as 'iconic' cannot be 'overrated' or 'underrated' as you mean the term to mean. If an image is 'underrated', then..."
-,"Therefore, an image described as 'iconic' cannot be 'overrated' or 'underrated' as you mean the term to mean. If an image is 'underrated', then..."
-,"[1], an image described as archetypal in Dina Warde's Memorial Candles, a monograph about the burdens of the second generation. Maor described his youth..."
-,"For indexing, the image is characterized by a set of scale invariant points; the scale associated with each point al- lows the computation of a scale invariant..."
-,"[1], an image described as archetypal in Dina Warde's Memorial Candles, a monograph about the burdens of the second generation. Maor described his youth..."
-,"The image described as appearing on the cover in the novel is also absent from the pamphlet in the film. Props from the film, however, show that the images..."
-,The image is characterized by a three-dimensional appearance (a pseudo- relief) in which contrast and colour may be varied. The Problem of Visualizing Phase.
-,"The image described as appearing on the cover in the novel is also absent from the pamphlet in the film. Props from the film, however, show that the images..."
-,An image described as a silhouette is the dark shadow or outline of the subject against a lighter background. A silhouette can be created by backlighting the...
-,"For matching and recognition, the image is characterized by a set of affine invariant points; the affine transformation associated with each point allows the..."
-,An image described as a silhouette is the dark shadow or outline of the subject against a lighter background. A silhouette can be created by backlighting the...
-,"In one case, an image described as a cloned stem-cell colony is reproduced in another image, where it is labeled an embryonic stem-cell line..."
-,The image is characterized by the appearance of a dark fringe at the geometric image of the edges of the object . The effect of the width of the obstacle and the.
-,"In one case, an image described as a cloned stem-cell colony is reproduced in another image, where it is labeled an embryonic stem-cell line..."
-,An image described as 'HAARP-like' was also captured by Google Earth: The coordinates are not provided on the photo but are given in the...
-,An image is characterized by a set of histograms one per class where each histogram describes whether the image content is best modeled by the universal ...
-,An image described as 'HAARP-like' was also captured by Google Earth: The coordinates are not provided on the photo but are given in the...
-,"For example, an image described as ""1024 x 768"" is 1024 pixel in width and 768 in height. And while digital cameras have the ability to take..."
-,"The image is characterized by the fierce face to show his determination to destroy evil. Toyotomi Hideyoshi, one of three great unifiers of Japan in the 16th..."
-,"For example, an image described as ""1024 x 768"" is 1024 pixel in width and 768 in height. And while digital cameras have the ability to take..."
-,The image is characterized by a three-dimensional appearance (a pseudo-relief) in which contrast and colour may be varied. Keywords: contrast enhancement...
-,"An image described as a Dog stands little chance of ranking near the top of anyone's Google search, since there are so many pictures of dogs..."
-,"An image described as a Dog stands little chance of ranking near the top of anyone's Google search, since there are so many pictures of dogs..."
-,The image is characterized by low contrast. This is reflected in the histogram which shows that most samples are in a narrow region of the dynamic range (little ...
-,The image described as a helicopter is well known to be the names of Rameses inscribed over the names of his father (something Rameses was known to do...
-,The image described as a helicopter is well known to be the names of Rameses inscribed over the names of his father (something Rameses was known to do...
-,"For each class, an image is characterized by a histogram of visual word occurences, which determines whether the image content is best modeled by the ..."
-,An image defined as image-map. alternate text...
-,An image defined as image-map. alternate text...
-,"The image is characterized by the periodic sequence of three (111) lattice fringes with bright, bright, dark sequence . According to the intuitive interpretation of..."
-,"For ultrasonographic procedure, the image defined as normal was an acoustic shadow arising from the front wall. Two levels of positive echography were..."
-,"For ultrasonographic procedure, the image defined as normal was an acoustic shadow arising from the front wall. Two levels of positive echography were..."
-,mindednessone of the nicest things anyone has ever done for me. Dipesh Chakrabarty. the image conceived as an imitative artice repro.
-,"The image known as Santo Nino de Cebu is very important to the people of the Philippines--to their faith, their history, and their national identity. Read more here ..."
-,"The image known as Santo Nino de Cebu is very important to the people of the Philippines--to their faith, their history, and their national identity. Read more here ..."
-,"He first gained notoriety on city streets in 1999 with a wheatpasted black-and- white skull holding a cell phone, an image described as ""eerie, yet smart""."
-,"wounds of the crucified adult Christ, an image known as the Proleptic. Passion. The medieval Christian imagination perceived no incongruity in such an image..."
-,"wounds of the crucified adult Christ, an image known as the Proleptic. Passion. The medieval Christian imagination perceived no incongruity in such an image..."
-,The image described as the Big Complete Map shows the location of the 70 SGSL producer-led trial sites (red dots) and the 5 researcher-led trial sites (blue...
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"infinite darkness of space, an image described as the ""blue marble"". Will our kids experience similar revelations about how our brains work?"
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 Subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 Subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"Therefore, an image described as 'iconic' cannot be 'overrated' or 'underrated' as you mean the term to mean. If an image is 'underrated', then..."
-,"The image identified as Blom by credit card receipts with time stamps, resembled the image of Katie's abductor at the Conoco store, but, for reasons not..."
-,"The image identified as Blom by credit card receipts with time stamps, resembled the image of Katie's abductor at the Conoco store, but, for reasons not..."
-,"[1], an image described as archetypal in Dina Warde's Memorial Candles, a monograph about the burdens of the second generation. Maor described his youth..."
-,An image identified as this species can be seen at www.thebegavalley.org.au/ uploads/tx_steverplantgallery/Solanum_silvestre_03.jpg. Information and links for...
-,An image identified as this species can be seen at www.thebegavalley.org.au/ uploads/tx_steverplantgallery/Solanum_silvestre_03.jpg. Information and links for...
-,"The image described as appearing on the cover in the novel is also absent from the pamphlet in the film. Props from the film, however, show that the images..."
-,"For example, the image identified as A1 is now listed as JA-1 (A1). Original negatives for which there were no corresponding prints were scanned and printed..."
-,"For example, the image identified as A1 is now listed as JA-1 (A1). Original negatives for which there were no corresponding prints were scanned and printed..."
-,An image described as a silhouette is the dark shadow or outline of the subject against a lighter background. A silhouette can be created by backlighting the...
-,"The image identified as Y Ceti forms a recognisable configuration with several stars in the Cetus field. However, a comparison with a plate taken with the Bruce ..."
-,"The image identified as Y Ceti forms a recognisable configuration with several stars in the Cetus field. However, a comparison with a plate taken with the Bruce ..."
-,"In one case, an image described as a cloned stem-cell colony is reproduced in another image, where it is labeled an embryonic stem-cell line..."
-,"The image understood as an entity that preserves the memory and supposing the demands of dura- tion, exponentialising the complex psycho-aesthetic..."
-,"The image understood as an entity that preserves the memory and supposing the demands of dura- tion, exponentialising the complex psycho-aesthetic..."
-,An image described as 'HAARP-like' was also captured by Google Earth: The coordinates are not provided on the photo but are given in the...
-,"An image understood as a gap, an interval that makes us question about the before and after. And the response in suspense Jorge Molder is a photographer..."
-,"An image understood as a gap, an interval that makes us question about the before and after. And the response in suspense Jorge Molder is a photographer..."
-,"For example, an image described as ""1024 x 768"" is 1024 pixel in width and 768 in height. And while digital cameras have the ability to take..."
-,"The image understood as an entity that preserves the memory and supposing the demands of duration, exponentialising the complex psycho-aesthetic..."
-,"The image understood as an entity that preserves the memory and supposing the demands of duration, exponentialising the complex psycho-aesthetic..."
-,"An image described as a Dog stands little chance of ranking near the top of anyone's Google search, since there are so many pictures of dogs..."
-,Image is the first expression in Boal's Theatre of the Oppressed tree because it supports the work of the other paEditrts of Theatre of the Oppressed. Through...
-,Image is the first expression in Boal's Theatre of the Oppressed tree because it supports the work of the other paEditrts of Theatre of the Oppressed. Through...
-,The image described as a helicopter is well known to be the names of Rameses inscribed over the names of his father (something Rameses was known to do...
-,An image defined as image-map. alternate text...
-,"For ultrasonographic procedure, the image defined as normal was an acoustic shadow arising from the front wall. Two levels of positive echography were..."
-,"The image known as Santo Nino de Cebu is very important to the people of the Philippines--to their faith, their history, and their national identity. Read more here ..."
-,"wounds of the crucified adult Christ, an image known as the Proleptic. Passion. The medieval Christian imagination perceived no incongruity in such an image..."
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"For example, an image identified as AB1-10905 was taken during the Aerobraking-1 Subphase on orbit 109 and it was the 5th image taken by MOC during that..."
-,"The image identified as Blom by credit card receipts with time stamps, resembled the image of Katie's abductor at the Conoco store, but, for reasons not..."
-,An image identified as this species can be seen at www.thebegavalley.org.au/ uploads/tx_steverplantgallery/Solanum_silvestre_03.jpg. Information and links for...
-,"For example, the image identified as A1 is now listed as JA-1 (A1). Original negatives for which there were no corresponding prints were scanned and printed..."
-,"The image identified as Y Ceti forms a recognisable configuration with several stars in the Cetus field. However, a comparison with a plate taken with the Bruce ..."
-,"The image understood as an entity that preserves the memory and supposing the demands of dura- tion, exponentialising the complex psycho-aesthetic..."
-,"An image understood as a gap, an interval that makes us question about the before and after. And the response in suspense Jorge Molder is a photographer..."
-,"The image understood as an entity that preserves the memory and supposing the demands of duration, exponentialising the complex psycho-aesthetic..."
-,Image is the first expression in Boal's Theatre of the Oppressed tree because it supports the work of the other paEditrts of Theatre of the Oppressed. Through...
+finally the image is real image light rays actually converge at the image location if sheet of paper were placed at the image location the actual replica or
+for the purpose of this discussion an image is defined as single array of pixels of certain dimensionality 1d 2d or 3d with particular
+for the purpose of this discussion an image is defined as single array of pixels of certain dimensionality 1d 2d or 3d with particular
+the image is virtual image an object cm high is placed 14 cm to the right of concave spherical mirror having radius of curvature of 20 cm draw
+point cloud image representation we have previously demonstrated in this representation an image is defined as group of points with unrestricted locations
+point cloud image representation we have previously demonstrated in this representation an image is defined as group of points with unrestricted locations
+finally the image is real image light rays actually converge at the image location if sheet of paper were placed at the image location the actual replica of
+the image is defined as byte arrays and has image pointer too want to read the images in matlab in mex and convert this image to my data
+the image is defined as byte arrays and has image pointer too want to read the images in matlab in mex and convert this image to my data
+the image is 1975 american film that was re released in an edited version in 1976 the film is also known by two other titles the punishment of anne and the
+an image is defined as two dimensional function where and are spatial coordinates and the amplitude of at any pair of coordinates is called
+an image is defined as two dimensional function where and are spatial coordinates and the amplitude of at any pair of coordinates is called
+however the image is laterally inverted mirror image of the object if person is reflected in plane mirror the image of his right hand appears to be the left
+an image is defined as any likeness in any kind of media that is recognizably person it is privilege and great opportunity for us to include images of
+an image is defined as any likeness in any kind of media that is recognizably person it is privilege and great opportunity for us to include images of
+an image is myth allan watts chillstep 432hz koorosh saxton1 video subscribesubscribedunsubscribe
+the knowledge community the image is an international conference scholarly journal book series and an online knowledge community
+the knowledge community the image is an international conference scholarly journal book series and an online knowledge community
+an image is two way process http www bestcareanywhere net img bear jpg http farm1 static flickr com 182 453338595_2a8453b4f7 jpg
+read paolo schianchi the image is an object in news design
+read paolo schianchi the image is an object in news design
+if the scale factor is between and the image is reduction shrink it is possible but not usual that the scale factor is thus creating congruent figures
+if the scale factor is greater than the image is an enlargement stretch if the scale factor is between and the image is reduction shrink
+if the scale factor is greater than the image is an enlargement stretch if the scale factor is between and the image is reduction shrink
+an image is virtual hard disk vhd file that is used as template for creating virtual machine an image is template because it doesn have the specific
+when you take an image of hard drive the image is an exact replica of your computer at the time the image was taken of course you would want to take the
+when you take an image of hard drive the image is an exact replica of your computer at the time the image was taken of course you would want to take the
+in the first case the image is good appearancethe representation is of the order of sacrament in the second it is an evil appearanceof the order of
+introduction to image processing what is an image an image is an array or matrix of square pixels picture elements arranged in columns and rows
+introduction to image processing what is an image an image is an array or matrix of square pixels picture elements arranged in columns and rows
+image an image is representation of real object or scene an image can be viewed on if the image is jpeg file extension jpg the file size is always
+the image is an outline of the uv face mapping activating the tool brings up the file browser window with options for saving the layout export options all uvs
+the image is an outline of the uv face mapping activating the tool brings up the file browser window with options for saving the layout export options all uvs
+most notably the image is separate file that loads into the space created by the img element there are three types of image files used in html indicated by
+relevant answers what is the difference between an object and an image an image is an optical representation of an object object is real while image
+relevant answers what is the difference between an object and an image an image is an optical representation of an object object is real while image
+the image is bi dimensional collection of pixels in rectangular coordinates the used kernel depends on the effect you want gimp uses 5x5 or 3x3 matrices
+if the scale factor is greater than the image is an enlargement if the scale factor is between and the image is reduction example the figure shows two
+if the scale factor is greater than the image is an enlargement if the scale factor is between and the image is reduction example the figure shows two
+via peter hessler the image is bit small but the silver signs say urine and dump obviously awesome
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+thus the image is mosaic of light points that are brought to focus by the refraction of the lens an image is projected at fixed focal distance from the lens and
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+for the purpose of this discussion an image is defined as single array of pixels of certain dimensionality 1d 2d or 3d with particular
+the image is an image map with each room an interactive map area the alt text is the building floor plan select room for more information about the
+the image is an image map with each room an interactive map area the alt text is the building floor plan select room for more information about the
+point cloud image representation we have previously demonstrated in this representation an image is defined as group of points with unrestricted locations
+image processing convolution is the algebraic process of multiplying two polynomials an image is an array of polynomials whose pixel values represent
+image processing convolution is the algebraic process of multiplying two polynomials an image is an array of polynomials whose pixel values represent
+the image is defined as byte arrays and has image pointer too want to read the images in matlab in mex and convert this image to my data
+the image is an abstract free form which is subjective to individual interpretation image example in context using interpretation of ambiguous
+the image is an abstract free form which is subjective to individual interpretation image example in context using interpretation of ambiguous
+an image is defined as two dimensional function where and are spatial coordinates and the amplitude of at any pair of coordinates is called
+you are purchasing dried dip mix the image is an interpation of this dry mix buffalo blu 95 this dip is one of our new favorites blue cheese and red hot
+you are purchasing dried dip mix the image is an interpation of this dry mix buffalo blu 95 this dip is one of our new favorites blue cheese and red hot
+an image is defined as any likeness in any kind of media that is recognizably person it is privilege and great opportunity for us to include images of
+the image is an actual photograph of the genuine apple product and not an artist rendering note you must obtain express written permission from apple
+the image is an actual photograph of the genuine apple product and not an artist rendering note you must obtain express written permission from apple
+the knowledge community the image is an international conference scholarly journal book series and an online knowledge community
+additional information pyro visor is available in black or white please note the image is any an example we will ship you whatever color you purchase
+additional information pyro visor is available in black or white please note the image is any an example we will ship you whatever color you purchase
+read paolo schianchi the image is an object in news design
+please note the image is any an example of shirt we will ship you whatever color you purchase pyro traditional black shirt pyro traditional black shirt
+please note the image is any an example of shirt we will ship you whatever color you purchase pyro traditional black shirt pyro traditional black shirt
+if the scale factor is greater than the image is an enlargement stretch if the scale factor is between and the image is reduction shrink
+an image is any reproduction including photos films computer programs files videogames conviction for possession of child pornography can land you in
+an image is any reproduction including photos films computer programs files videogames conviction for possession of child pornography can land you in
+when you take an image of hard drive the image is an exact replica of your computer at the time the image was taken of course you would want to take the
+an image is any 2d subset of rays in space actually the light energy flowing along these rays any 2d slice of the plenoptic function perspective image
+an image is any 2d subset of rays in space actually the light energy flowing along these rays any 2d slice of the plenoptic function perspective image
+introduction to image processing what is an image an image is an array or matrix of square pixels picture elements arranged in columns and rows
+an image is any graphic file which can include illustrations and photos common image file extensions are gif jpg tiff etc file is type of computer file that
+an image is any graphic file which can include illustrations and photos common image file extensions are gif jpg tiff etc file is type of computer file that
+the image is an outline of the uv face mapping activating the tool brings up the file browser window with options for saving the layout export options all uvs
+the image is any 32x32 image note that the word wrap shows the quick bro fox instead of the quick brown fox image attached
+the image is any 32x32 image note that the word wrap shows the quick bro fox instead of the quick brown fox image attached
+relevant answers what is the difference between an object and an image an image is an optical representation of an object object is real while image
+an image is any graphic create or manipulate and place on your web site examples are photographs buttons titles backgrounds bullets gif animation
+an image is any graphic create or manipulate and place on your web site examples are photographs buttons titles backgrounds bullets gif animation
+if the scale factor is greater than the image is an enlargement if the scale factor is between and the image is reduction example the figure shows two
+the image is any normal web image jpeg gif or png referenced dynamically by javascript variable best results are achieved when using landscape image
+the image is any normal web image jpeg gif or png referenced dynamically by javascript variable best results are achieved when using landscape image
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+for us an image is any figure or representation of someone or something whilst an idol is false god an image or statue considered as god
+for us an image is any figure or representation of someone or something whilst an idol is false god an image or statue considered as god
+meteosat image from 16 march 2000 the image is an infrared ir image which means that the temperature is shown in scale from white low temperatures
+thus an image is characterized by both class and type for instance statement discussing an uint8 gray scale image is simply referring to gray
+thus an image is characterized by both class and type for instance statement discussing an uint8 gray scale image is simply referring to gray
+the image is an image map with each room an interactive map area the alt text is the building floor plan select room for more information about the
+the image is characterized by slight forward tilt and she is known affectionately as the geperudeta according to the tradition in the year 1414 three young
+the image is characterized by slight forward tilt and she is known affectionately as the geperudeta according to the tradition in the year 1414 three young
+image processing convolution is the algebraic process of multiplying two polynomials an image is an array of polynomials whose pixel values represent
+for indexing the image is characterized by set of scale invariant points the scale associated with each point allows the computation of scale invariant
+for indexing the image is characterized by set of scale invariant points the scale associated with each point allows the computation of scale invariant
+the image is an abstract free form which is subjective to individual interpretation image example in context using interpretation of ambiguous
+the image is characterized by bearded christ frontally positioned before the viewer raising his right hand in blessing and holding jewel encrusted gospel
+the image is characterized by bearded christ frontally positioned before the viewer raising his right hand in blessing and holding jewel encrusted gospel
+you are purchasing dried dip mix the image is an interpation of this dry mix buffalo blu 95 this dip is one of our new favorites blue cheese and red hot
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+the image is an actual photograph of the genuine apple product and not an artist rendering note you must obtain express written permission from apple
+sions of the resolution cell the image is characterized by granular pattern or speckle which varies from place to place in the tissue it can be explained in
+sions of the resolution cell the image is characterized by granular pattern or speckle which varies from place to place in the tissue it can be explained in
+additional information pyro visor is available in black or white please note the image is any an example we will ship you whatever color you purchase
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+please note the image is any an example of shirt we will ship you whatever color you purchase pyro traditional black shirt pyro traditional black shirt
+an image is characterized by set of binary images which are generated by randomly thresholding the image color channels based on gestalt principle of
+an image is characterized by set of binary images which are generated by randomly thresholding the image color channels based on gestalt principle of
+an image is any reproduction including photos films computer programs files videogames conviction for possession of child pornography can land you in
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+an image is any 2d subset of rays in space actually the light energy flowing along these rays any 2d slice of the plenoptic function perspective image
+for indexing the image is characterized by set of scale invariant points the scale associated with each point al lows the computation of scale invariant
+for indexing the image is characterized by set of scale invariant points the scale associated with each point al lows the computation of scale invariant
+an image is any graphic file which can include illustrations and photos common image file extensions are gif jpg tiff etc file is type of computer file that
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied the problem of visualizing phase
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied the problem of visualizing phase
+the image is any 32x32 image note that the word wrap shows the quick bro fox instead of the quick brown fox image attached
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+an image is any graphic create or manipulate and place on your web site examples are photographs buttons titles backgrounds bullets gif animation
+the image is characterized by the appearance of dark fringe at the geometric image of the edges of the object the effect of the width of the obstacle and the
+the image is characterized by the appearance of dark fringe at the geometric image of the edges of the object the effect of the width of the obstacle and the
+the image is any normal web image jpeg gif or png referenced dynamically by javascript variable best results are achieved when using landscape image
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+for us an image is any figure or representation of someone or something whilst an idol is false god an image or statue considered as god
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+thus an image is characterized by both class and type for instance statement discussing an uint8 gray scale image is simply referring to gray
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied keywords contrast enhancement
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied keywords contrast enhancement
+the image is characterized by slight forward tilt and she is known affectionately as the geperudeta according to the tradition in the year 1414 three young
+the image is characterized by low contrast this is reflected in the histogram which shows that most samples are in narrow region of the dynamic range little
+the image is characterized by low contrast this is reflected in the histogram which shows that most samples are in narrow region of the dynamic range little
+for indexing the image is characterized by set of scale invariant points the scale associated with each point allows the computation of scale invariant
+for each class an image is characterized by histogram of visual word occurences which determines whether the image content is best modeled by the
+for each class an image is characterized by histogram of visual word occurences which determines whether the image content is best modeled by the
+the image is characterized by bearded christ frontally positioned before the viewer raising his right hand in blessing and holding jewel encrusted gospel
+the image is characterized by the periodic sequence of three 111 lattice fringes with bright bright dark sequence according to the intuitive interpretation of
+the image is characterized by the periodic sequence of three 111 lattice fringes with bright bright dark sequence according to the intuitive interpretation of
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+mindednessone of the nicest things anyone has ever done for me dipesh chakrabarty the image conceived as an imitative artice repro
+mindednessone of the nicest things anyone has ever done for me dipesh chakrabarty the image conceived as an imitative artice repro
+sions of the resolution cell the image is characterized by granular pattern or speckle which varies from place to place in the tissue it can be explained in
+he first gained notoriety on city streets in 1999 with wheatpasted black and white skull holding cell phone an image described as eerie yet smart
+he first gained notoriety on city streets in 1999 with wheatpasted black and white skull holding cell phone an image described as eerie yet smart
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+the image described as the big complete map shows the location of the 70 sgsl producer led trial sites red dots and the researcher led trial sites blue
+the image described as the big complete map shows the location of the 70 sgsl producer led trial sites red dots and the researcher led trial sites blue
+an image is characterized by set of binary images which are generated by randomly thresholding the image color channels based on gestalt principle of
+infinite darkness of space an image described as the blue marble will our kids experience similar revelations about how our brains work
+infinite darkness of space an image described as the blue marble will our kids experience similar revelations about how our brains work
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+therefore an image described as iconic cannot be overrated or underrated as you mean the term to mean if an image is underrated then
+therefore an image described as iconic cannot be overrated or underrated as you mean the term to mean if an image is underrated then
+an image described as archetypal in dina warde memorial candles monograph about the burdens of the second generation maor described his youth
+for indexing the image is characterized by set of scale invariant points the scale associated with each point al lows the computation of scale invariant
+an image described as archetypal in dina warde memorial candles monograph about the burdens of the second generation maor described his youth
+the image described as appearing on the cover in the novel is also absent from the pamphlet in the film props from the film however show that the images
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied the problem of visualizing phase
+the image described as appearing on the cover in the novel is also absent from the pamphlet in the film props from the film however show that the images
+an image described as silhouette is the dark shadow or outline of the subject against lighter background silhouette can be created by backlighting the
+for matching and recognition the image is characterized by set of affine invariant points the affine transformation associated with each point allows the
+an image described as silhouette is the dark shadow or outline of the subject against lighter background silhouette can be created by backlighting the
+in one case an image described as cloned stem cell colony is reproduced in another image where it is labeled an embryonic stem cell line
+the image is characterized by the appearance of dark fringe at the geometric image of the edges of the object the effect of the width of the obstacle and the
+in one case an image described as cloned stem cell colony is reproduced in another image where it is labeled an embryonic stem cell line
+an image described as haarp like was also captured by google earth the coordinates are not provided on the photo but are given in the
+an image is characterized by set of histograms one per class where each histogram describes whether the image content is best modeled by the universal
+an image described as haarp like was also captured by google earth the coordinates are not provided on the photo but are given in the
+for example an image described as 1024 768 is 1024 pixel in width and 768 in height and while digital cameras have the ability to take
+the image is characterized by the fierce face to show his determination to destroy evil toyotomi hideyoshi one of three great unifiers of japan in the 16th
+for example an image described as 1024 768 is 1024 pixel in width and 768 in height and while digital cameras have the ability to take
+the image is characterized by three dimensional appearance pseudo relief in which contrast and colour may be varied keywords contrast enhancement
+an image described as dog stands little chance of ranking near the top of anyone google search since there are so many pictures of dogs
+an image described as dog stands little chance of ranking near the top of anyone google search since there are so many pictures of dogs
+the image is characterized by low contrast this is reflected in the histogram which shows that most samples are in narrow region of the dynamic range little
+the image described as helicopter is well known to be the names of rameses inscribed over the names of his father something rameses was known to do
+the image described as helicopter is well known to be the names of rameses inscribed over the names of his father something rameses was known to do
+for each class an image is characterized by histogram of visual word occurences which determines whether the image content is best modeled by the
+an image defined as image map alternate text
+an image defined as image map alternate text
+the image is characterized by the periodic sequence of three 111 lattice fringes with bright bright dark sequence according to the intuitive interpretation of
+for ultrasonographic procedure the image defined as normal was an acoustic shadow arising from the front wall two levels of positive echography were
+for ultrasonographic procedure the image defined as normal was an acoustic shadow arising from the front wall two levels of positive echography were
+mindednessone of the nicest things anyone has ever done for me dipesh chakrabarty the image conceived as an imitative artice repro
+the image known as santo nino de cebu is very important to the people of the philippines to their faith their history and their national identity read more here
+the image known as santo nino de cebu is very important to the people of the philippines to their faith their history and their national identity read more here
+he first gained notoriety on city streets in 1999 with wheatpasted black and white skull holding cell phone an image described as eerie yet smart
+wounds of the crucified adult christ an image known as the proleptic passion the medieval christian imagination perceived no incongruity in such an image
+wounds of the crucified adult christ an image known as the proleptic passion the medieval christian imagination perceived no incongruity in such an image
+the image described as the big complete map shows the location of the 70 sgsl producer led trial sites red dots and the researcher led trial sites blue
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+infinite darkness of space an image described as the blue marble will our kids experience similar revelations about how our brains work
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+therefore an image described as iconic cannot be overrated or underrated as you mean the term to mean if an image is underrated then
+the image identified as blom by credit card receipts with time stamps resembled the image of katie abductor at the conoco store but for reasons not
+the image identified as blom by credit card receipts with time stamps resembled the image of katie abductor at the conoco store but for reasons not
+an image described as archetypal in dina warde memorial candles monograph about the burdens of the second generation maor described his youth
+an image identified as this species can be seen at www thebegavalley org au uploads tx_steverplantgallery solanum_silvestre_03 jpg information and links for
+an image identified as this species can be seen at www thebegavalley org au uploads tx_steverplantgallery solanum_silvestre_03 jpg information and links for
+the image described as appearing on the cover in the novel is also absent from the pamphlet in the film props from the film however show that the images
+for example the image identified as a1 is now listed as ja a1 original negatives for which there were no corresponding prints were scanned and printed
+for example the image identified as a1 is now listed as ja a1 original negatives for which there were no corresponding prints were scanned and printed
+an image described as silhouette is the dark shadow or outline of the subject against lighter background silhouette can be created by backlighting the
+the image identified as ceti forms recognisable configuration with several stars in the cetus field however comparison with plate taken with the bruce
+the image identified as ceti forms recognisable configuration with several stars in the cetus field however comparison with plate taken with the bruce
+in one case an image described as cloned stem cell colony is reproduced in another image where it is labeled an embryonic stem cell line
+the image understood as an entity that preserves the memory and supposing the demands of dura tion exponentialising the complex psycho aesthetic
+the image understood as an entity that preserves the memory and supposing the demands of dura tion exponentialising the complex psycho aesthetic
+an image described as haarp like was also captured by google earth the coordinates are not provided on the photo but are given in the
+an image understood as gap an interval that makes us question about the before and after and the response in suspense jorge molder is photographer
+an image understood as gap an interval that makes us question about the before and after and the response in suspense jorge molder is photographer
+for example an image described as 1024 768 is 1024 pixel in width and 768 in height and while digital cameras have the ability to take
+the image understood as an entity that preserves the memory and supposing the demands of duration exponentialising the complex psycho aesthetic
+the image understood as an entity that preserves the memory and supposing the demands of duration exponentialising the complex psycho aesthetic
+an image described as dog stands little chance of ranking near the top of anyone google search since there are so many pictures of dogs
+image is the first expression in boal theatre of the oppressed tree because it supports the work of the other paeditrts of theatre of the oppressed through
+image is the first expression in boal theatre of the oppressed tree because it supports the work of the other paeditrts of theatre of the oppressed through
+the image described as helicopter is well known to be the names of rameses inscribed over the names of his father something rameses was known to do
+an image defined as image map alternate text
+for ultrasonographic procedure the image defined as normal was an acoustic shadow arising from the front wall two levels of positive echography were
+the image known as santo nino de cebu is very important to the people of the philippines to their faith their history and their national identity read more here
+wounds of the crucified adult christ an image known as the proleptic passion the medieval christian imagination perceived no incongruity in such an image
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+for example an image identified as ab1 10905 was taken during the aerobraking subphase on orbit 109 and it was the 5th image taken by moc during that
+the image identified as blom by credit card receipts with time stamps resembled the image of katie abductor at the conoco store but for reasons not
+an image identified as this species can be seen at www thebegavalley org au uploads tx_steverplantgallery solanum_silvestre_03 jpg information and links for
+for example the image identified as a1 is now listed as ja a1 original negatives for which there were no corresponding prints were scanned and printed
+the image identified as ceti forms recognisable configuration with several stars in the cetus field however comparison with plate taken with the bruce
+the image understood as an entity that preserves the memory and supposing the demands of dura tion exponentialising the complex psycho aesthetic
+an image understood as gap an interval that makes us question about the before and after and the response in suspense jorge molder is photographer
+the image understood as an entity that preserves the memory and supposing the demands of duration exponentialising the complex psycho aesthetic
+image is the first expression in boal theatre of the oppressed tree because it supports the work of the other paeditrts of theatre of the oppressed through

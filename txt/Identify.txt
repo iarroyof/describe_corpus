@@ -1,88 +1,88 @@
-,"An identity is a special kind of number. When you use an operation to combine an identity with another number, that number stays the same. Zero is called the..."
-,An identity is a set of two (or more) quantities that are identical in every single way. Trigonometry is famous for identities. Two examples include: cos (-x) = cos x .
-,An identity is a statement that two expressions are equal for every value of the variable. Examples: The left-hand expression always equals the right-hand...
-,"SamAccountName, The identity is a Security Account Manager (SAM) name. Name, The identity is a name. UserPrincipalName, The identity is a User Principal..."
-,"DistinguishedName, The identity is a Distinguished Name (DN). Guid, The identity is a Globally Unique Identifier (GUID). Name, The identity is a name."
-,"sentence I am an X. In logical terms, an identity is a predicate that applies (or may apply) to a person, that is, a quality or property of a person."
-,"An identity is a statement that is true by definition at all times. Thus, for example, when we say that Yd = C + S that is an identity, since it is always true - there is..."
-,The identity is a product of two reflections. Suppose nonidentity isometry sends point P to different point Q. Let L be the perpendicular bisector of PQ. Then L...
-,"Identity: An identity is a relation which is true. This means that whatever the number or value may be, the answer stays the same. For example, algebraically, this..."
-,An identity is a mathematical relationship equating one quantity to another (which may initially appear to be different). SEE ALSO: Abel's Differential Equation...
-,An identity is a statement that is valid for all values of the variable for which the expressions in the equation are defined. Trigonometric identities are valuable in a...
-,"An identity is a value you SQL controls. Identity is a row function. It is sequential either increasing or decreasing in value, at least in SQL Server."
-,"In mathematics, an identity is a statement true for all possible values of its variable or variables. The algebraic identity of x + 0 = x tells us that anything (x) added..."
-,"There are two types of macroeconomic equations. An identity is a relationship that is true by definition. For example, in this model Y = C + I is true by definition."
-,"An identity is a set of meanings applied to the self in a social role or as a member of a social group that define who one is. (Burke and Tully, 1977). Although..."
-,The identity is a modern interpretation of the peacock feather in a simple geometry and colours and reflective of peace and rhythm of life that WorldSpa South...
-,"Identity Columns - An identity is a common ""auto generated"" primary key to use in a SQL Server database these days. An identity is simply an..."
-,"The identity is a RACF ID that is authenticated by RACF if a password or PassTicket is provided, or the identity is a Kerberos principal that is validated by..."
-,"An identity is defined as an equation satisfied by a space, like how x^2 + y^2 = r^ 2 on a circle. In a recent paper, I discovered an identity on..."
-,"The identity is defined as the email address of the sender and/or of the recipient of the data. As such, these identities follow the data in such a way that even if the ..."
-,"In the US, the identity is defined as DOING. What is very important in DOING cultures is to share accomplishments, performance and..."
-,"the identity is defined as: id: a1 a2 ... an a1 a2 ... an = n i=1ai . also note that we set hom(i,i) = a, and more generally hom(i,a) is the."
-,"The identity is defined as ""a subjective sense as well as an observable quality of personal sameness and continuity, paired with some belief in the sameness..."
-,"An identity is defined as any source of action not explicable from biophysical regularities, and to which observers can attribute meaning. (White 1992:6)."
-,... spot price and the forward or futures price of a currency incorporates any interest rate differential between two currencies. . The identity is defined as follows:.
-,"Within this approach, an identity is defined as a set of internalized meanings and expectations for a social role. Researchers using identity..."
-,"An identity is defined as a cognitive schema (Stryker & Burke, 2000) that results from the internalization of a role into a person's self-concept2..."
-,Table 4. The identity (%) of pairs of splits. The identity is defined as identity (%) = 100 . (number of identical substances/1311). Split 1. Split 2.
-,"According to the dictionary, the identity is defined as the condition or fact of being a particular person (The New Zealand Oxford Paperback Dictionary, 2002 )."
-,"An identity is defined as a set of attributes that uniquely identify an entity. Because an entity might have various roles, depending on the..."
-,"An identity is an equality relation A = B, such that A and B contain some variables and give the same result when the variables are substituted by any values..."
-,"The identity is an excess. Share/Save/Bookmark. Lets look at this image, what do we see? Who do we see? It's most likely that we see a crowd with one person..."
-,"An identity is an equation that is true for all values of the variables. For example: The above equation is true for all possible values of x and y, so it is called an..."
-,"An identity is an equation that is true for all values of x for which the expressions in the equation are defined. For example, the equation. (x 2)(x + 2) = x2 4."
-,"An identity is an equation in a variable, say x, such that every value of x makes it true. Here is a simple identity x + x = 2x Any value you sustitute for x will make it..."
-,"An identity is an equation that is always true, for any value of the variable or variables. Here are some examples: x + x = 2x a + b = b + a x1 = x. Improve answer."
-,"An identity is an equation that is true for all values of the variables, as long as the expressions or functions involved are defined. For example, x + x = 2x is an..."
-,"An identity is an equation that is always true, independent of the value(s) of any variable(s). For example, you might get an equation that looks like x = x, or 3 = 3."
-,An identity is an equation that is true for all possible replacements of the variables. The following is a list of the identities studied in Chapter 5. Basic Identities.
-,"An identity is an equality that remains true regardless of the values of any variables that appear within it, to distinguish it from an equality which is true under..."
-,"The identity is an even permutation (0 2-cycles), and clearly if you multiply any even permutation by another even permutation, you will get an..."
-,"An identity is an equality relationship between two mathematical expressions. For example, in basic algebra students are expected to master..."
-,An identity is an equation containing one or more variables that is true for all values of the variables for which both sides of the equation are defined. The set of...
-,An identity is an equation that is valid for all values of the variable for which the expressions in the equation are defined. You should already be familiar with...
-,"Calle Underground is a sub-brand of Calle. The identity is an interaction between two layers. The spontaneous use of the Calle typeface on the format, as well..."
-,The identity is an development from MAMMALcreate's original logo for The Next Field. MAMMALcreate helped St Mary Redcliffe Church in Bristol by creating a...
-,6 days ago ... The identity is an interpretation of the idea of layers; layers in time and layers of understanding the layers become apparent when you take...
-,"An identity is an investment, not another cost of doing business. You can't prescribe a solution without diagnosing the problem. To get people to listen closely,..."
-,"Given some algebraic structure, an identity is an equation in which all variables are tacitly universally quantified, and in which all operations are among the..."
-,"The identity is an expression of partnership, leadership, and fairness, while promoting a strong and vibrant Paralympic Movement across the nation. back to top..."
-,"An identity is an important factor is ones life. Some may change their identity to adjust to a situation in life or just for a moment, but whether it is for a week or a..."
-,An Identity is an indicator of a client in a trusted domain; it is used as a pointer to a set of rights or permissions to allow for a client. Cisco TrustSec Identity...
-,"is addition: (E1 E1)+(E2 E2) = E1 E2 E1 E2, the identity is any pair of the form E E and the inverse of E E is E E. As we can add a vector bundle..."
-,"The identity is any term which appears on the label, the MSDS, and the list of chemicals, and thus links these three sources of information. The identity used by ..."
-,"An identity is any part of your life that you can create a page for on ntwrk.me. Using our innovative drag-and-drop canvas, add your name and some simple..."
-,"The identity is any term which appears on the label, the MSDS, and the list of chemicals, and thus links these three sources of information. The identity used by ..."
-,The identity is any term used as a product identifier which serves as a link between the label and a Material Safety Data Sheet. The identity used may be a trade.
-,"The identity is any term which appears on the label, the MSDS, and the list of chemicals, and thus links these three sources of information. The identity used by ..."
-,"appropriate hazard warnings must be on the label. The identity is any term which appears on the label, the MSDS, and the list of chemicals and thus links these..."
-,"The identity is any term that appears on the label, the (M)SDS, and the list of hazardous chemicals , and thus links these three sources of information."
-,Identity: An identity is any subset of attributes of an individual person which sufficiently identifies this individual person within any set of persons. ID management...
-,An identity is any subset of attributes of an individual which uniquely characterizes this individual within any set of individuals. So there is nothing as the identity...
-,An identity is any subset of attributes of an individual which identifies this individual within any set of individuals. So usually there is no such...
-,An identity is any subset of attributes of an individual which uniquely characterizes this individual within any set of individuals. So usually there is no such thing...
-,"An identity is any declaration = creation = belief about yourself. Identities are self determinations of what you are, and what you are not. Most identities take the..."
-,"[8]1: An identity is any subset of attributes, which sufficiently identifies the node within any set of nodes. So, usually there is no such thing as 'the identity',."
-,"The identity is any term which appears on the label, the MSDS and the list of chemicals, and thus links these three sources of information."
-,"The identity is any term that appears on the label, the MSDS and the list of chemicals, and thus links these three sources of information. The identity used by the..."
-,"Definition of identity: The identity is any term that appears on the label, the MSDS, and the list of chemicals, and links these three sources of information."
-,An identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons.
-,"The identity is any term that appears on the label, the MSDS, and the list of chemicals, which links these three sources of information."
-,"The identity is any term which appears on the label, the MSDS, and the list of chemicals, and thus links these three sources of information. The identity used by ..."
-,[Pfitzmann/Hansen 2010]: An identity is any subset of attribute values of an individual person which sufficiently identifies this individual person...
-,An identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons.
-,"An identity is any source of action or effort at control not rooted in biological or physical phenomena and to which an observer can attribute meaning, for example..."
-,Identity: An identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons. So usually...
-,The identity is any term that appears on both the label and MSDS linking these two sources of information. It may be a common or trade name such as Desk...
-,Definition 9 An identity is any subset of attributes of an individual person which sufficiently identifies this individual person within a set of...
-,"The first step is to list all your identities. An identity is any social role or status, anything that makes you say I am, which entails beliefs, guilt,..."
-,"and (by checking diagrams) associative. The identity is any diagonal entry of any non-singular n-morphism, and f1 is found to satisfy f1(p)..."
-,"The identity is any term that appears on the label, the. MSDS, and the list of chemicals, and thus links these three sources of information. The identity used by the..."
-,"The identity is any term that appears on the label, the MSDS, and the list of chemicals thus linking these three sources of information."
-,The identity is characterized by a sharp discontinuity in the filter coefficients: the first coefficient is one and all others vanish; Thus it would be...
-,"The identity is characterized by a random arrangement of colors and fragmented graphic elements. 6.ID'S. Alm dos Id's logo grficos e abstratos, criamos um..."
-,The identity defined as herein can be obtained from NEEDLE by using the NOBRIEF option and is labeled in the output of the program as...
-,Introduction. The identity known as Church's Thesis (CT) presents an interesting philo- sophical puzzle. CT states that a function is effectively computable if and.
-,"The identity known as Teichmuller identity holds in any arbitrary ring: (3) F(w,x,y,z ) = (wx,y,z) (w,xy,z) + (w,x,yz) w(x,y,z) (w,x,y)z = 0. Forming F(w,x,y,z) F(x..."
-,"Local living together requires local identity. An identity understood as appreciation and liking, and even from affection and love, for the town or village where they..."
+an identity is special kind of number when you use an operation to combine an identity with another number that number stays the same zero is called the
+an identity is set of two or more quantities that are identical in every single way trigonometry is famous for identities two examples include cos cos
+an identity is statement that two expressions are equal for every value of the variable examples the left hand expression always equals the right hand
+samaccountname the identity is security account manager sam name name the identity is name userprincipalname the identity is user principal
+distinguishedname the identity is distinguished name dn guid the identity is globally unique identifier guid name the identity is name
+sentence am an in logical terms an identity is predicate that applies or may apply to person that is quality or property of person
+an identity is statement that is true by definition at all times thus for example when we say that yd that is an identity since it is always true there is
+the identity is product of two reflections suppose nonidentity isometry sends point to different point let be the perpendicular bisector of pq then
+identity an identity is relation which is true this means that whatever the number or value may be the answer stays the same for example algebraically this
+an identity is mathematical relationship equating one quantity to another which may initially appear to be different see also abel differential equation
+an identity is statement that is valid for all values of the variable for which the expressions in the equation are defined trigonometric identities are valuable in
+an identity is value you sql controls identity is row function it is sequential either increasing or decreasing in value at least in sql server
+in mathematics an identity is statement true for all possible values of its variable or variables the algebraic identity of tells us that anything added
+there are two types of macroeconomic equations an identity is relationship that is true by definition for example in this model is true by definition
+an identity is set of meanings applied to the self in social role or as member of social group that define who one is burke and tully 1977 although
+the identity is modern interpretation of the peacock feather in simple geometry and colours and reflective of peace and rhythm of life that worldspa south
+identity columns an identity is common auto generated primary key to use in sql server database these days an identity is simply an
+the identity is racf id that is authenticated by racf if password or passticket is provided or the identity is kerberos principal that is validated by
+an identity is defined as an equation satisfied by space like how on circle in recent paper discovered an identity on
+the identity is defined as the email address of the sender and or of the recipient of the data as such these identities follow the data in such way that even if the
+in the us the identity is defined as doing what is very important in doing cultures is to share accomplishments performance and
+the identity is defined as id a1 a2 an a1 a2 an 1ai also note that we set hom and more generally hom is the
+the identity is defined as subjective sense as well as an observable quality of personal sameness and continuity paired with some belief in the sameness
+an identity is defined as any source of action not explicable from biophysical regularities and to which observers can attribute meaning white 1992
+spot price and the forward or futures price of currency incorporates any interest rate differential between two currencies the identity is defined as follows
+within this approach an identity is defined as set of internalized meanings and expectations for social role researchers using identity
+an identity is defined as cognitive schema stryker burke 2000 that results from the internalization of role into person self concept2
+table the identity of pairs of splits the identity is defined as identity 100 number of identical substances 1311 split split
+according to the dictionary the identity is defined as the condition or fact of being particular person the new zealand oxford paperback dictionary 2002
+an identity is defined as set of attributes that uniquely identify an entity because an entity might have various roles depending on the
+an identity is an equality relation such that and contain some variables and give the same result when the variables are substituted by any values
+the identity is an excess share save bookmark lets look at this image what do we see who do we see it most likely that we see crowd with one person
+an identity is an equation that is true for all values of the variables for example the above equation is true for all possible values of and so it is called an
+an identity is an equation that is true for all values of for which the expressions in the equation are defined for example the equation x2
+an identity is an equation in variable say such that every value of makes it true here is simple identity 2x any value you sustitute for will make it
+an identity is an equation that is always true for any value of the variable or variables here are some examples 2x x1 improve answer
+an identity is an equation that is true for all values of the variables as long as the expressions or functions involved are defined for example 2x is an
+an identity is an equation that is always true independent of the value of any variable for example you might get an equation that looks like or
+an identity is an equation that is true for all possible replacements of the variables the following is list of the identities studied in chapter basic identities
+an identity is an equality that remains true regardless of the values of any variables that appear within it to distinguish it from an equality which is true under
+the identity is an even permutation cycles and clearly if you multiply any even permutation by another even permutation you will get an
+an identity is an equality relationship between two mathematical expressions for example in basic algebra students are expected to master
+an identity is an equation containing one or more variables that is true for all values of the variables for which both sides of the equation are defined the set of
+an identity is an equation that is valid for all values of the variable for which the expressions in the equation are defined you should already be familiar with
+calle underground is sub brand of calle the identity is an interaction between two layers the spontaneous use of the calle typeface on the format as well
+the identity is an development from mammalcreate original logo for the next field mammalcreate helped st mary redcliffe church in bristol by creating
+days ago the identity is an interpretation of the idea of layers layers in time and layers of understanding the layers become apparent when you take
+an identity is an investment not another cost of doing business you can prescribe solution without diagnosing the problem to get people to listen closely
+given some algebraic structure an identity is an equation in which all variables are tacitly universally quantified and in which all operations are among the
+the identity is an expression of partnership leadership and fairness while promoting strong and vibrant paralympic movement across the nation back to top
+an identity is an important factor is ones life some may change their identity to adjust to situation in life or just for moment but whether it is for week or
+an identity is an indicator of client in trusted domain it is used as pointer to set of rights or permissions to allow for client cisco trustsec identity
+is addition e1 e1 e2 e2 e1 e2 e1 e2 the identity is any pair of the form and the inverse of is as we can add vector bundle
+the identity is any term which appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by
+an identity is any part of your life that you can create page for on ntwrk me using our innovative drag and drop canvas add your name and some simple
+the identity is any term which appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by
+the identity is any term used as product identifier which serves as link between the label and material safety data sheet the identity used may be trade
+the identity is any term which appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by
+appropriate hazard warnings must be on the label the identity is any term which appears on the label the msds and the list of chemicals and thus links these
+the identity is any term that appears on the label the sds and the list of hazardous chemicals and thus links these three sources of information
+identity an identity is any subset of attributes of an individual person which sufficiently identifies this individual person within any set of persons id management
+an identity is any subset of attributes of an individual which uniquely characterizes this individual within any set of individuals so there is nothing as the identity
+an identity is any subset of attributes of an individual which identifies this individual within any set of individuals so usually there is no such
+an identity is any subset of attributes of an individual which uniquely characterizes this individual within any set of individuals so usually there is no such thing
+an identity is any declaration creation belief about yourself identities are self determinations of what you are and what you are not most identities take the
+an identity is any subset of attributes which sufficiently identifies the node within any set of nodes so usually there is no such thing as the identity
+the identity is any term which appears on the label the msds and the list of chemicals and thus links these three sources of information
+the identity is any term that appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by the
+definition of identity the identity is any term that appears on the label the msds and the list of chemicals and links these three sources of information
+an identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons
+the identity is any term that appears on the label the msds and the list of chemicals which links these three sources of information
+the identity is any term which appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by
+pfitzmann hansen 2010 an identity is any subset of attribute values of an individual person which sufficiently identifies this individual person
+an identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons
+an identity is any source of action or effort at control not rooted in biological or physical phenomena and to which an observer can attribute meaning for example
+identity an identity is any subset of attribute values of an individual person which sufficiently identifies this individual person within any set of persons so usually
+the identity is any term that appears on both the label and msds linking these two sources of information it may be common or trade name such as desk
+definition an identity is any subset of attributes of an individual person which sufficiently identifies this individual person within set of
+the first step is to list all your identities an identity is any social role or status anything that makes you say am which entails beliefs guilt
+and by checking diagrams associative the identity is any diagonal entry of any non singular morphism and f1 is found to satisfy f1
+the identity is any term that appears on the label the msds and the list of chemicals and thus links these three sources of information the identity used by the
+the identity is any term that appears on the label the msds and the list of chemicals thus linking these three sources of information
+the identity is characterized by sharp discontinuity in the filter coefficients the first coefficient is one and all others vanish thus it would be
+the identity is characterized by random arrangement of colors and fragmented graphic elements id alm dos id logo grficos abstratos criamos um
+the identity defined as herein can be obtained from needle by using the nobrief option and is labeled in the output of the program as
+introduction the identity known as church thesis ct presents an interesting philo sophical puzzle ct states that function is effectively computable if and
+the identity known as teichmuller identity holds in any arbitrary ring wx xy yz forming
+local living together requires local identity an identity understood as appreciation and liking and even from affection and love for the town or village where they

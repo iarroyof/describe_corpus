@@ -1,354 +1,354 @@
-,"In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned. A single outcome may be...","Probability theory, set of outcomes, experiment, sample space."
-,"In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned. A single outcome may be...","Probability theory, set of outcomes, experiment, sample space."
-,"An event is a message sent by an object to signal the occurrence of an action. The action could be caused by user interaction, such as a button click, or it could ...","Message, object, signal, occurrence, action, interaction. "
-,"An event is a message sent by an object to signal the occurrence of an action. The action could be caused by user interaction, such as a button click, or it could ...","Message, object, signal, occurrence, action, interaction."
-,"The Event is a 2003 drama film directed by Thom Fitzgerald. It tells the story of Matt Shapiro (Don McKellar) who has died in Manhattan, resulting in an aborted ...","Drama film, Thom Fitzgerald, story. "
-,"The Event is a 2003 drama film directed by Thom Fitzgerald. It tells the story of Matt Shapiro (Don McKellar) who has died in Manhattan, resulting in an aborted ...","Drama film, Thom Fitzgerald, story."
-,"An event is a way for a class to allow clients to give it delegates to methods that should be called when the event occurs. When the event occurs, the delegate(s) ...","Way, class, delegates, methods. "
-,"An event is a way for a class to allow clients to give it delegates to methods that should be called when the event occurs. When the event occurs, the delegate(s) ...","Way, class, delegates, methods."
-,"An event is a signal that informs an application that something important has occurred. For example, when a user clicks a control on a form, the form can raise a...","Signal, informs, application, something impotant, ocurred, clicks, control. "
-,"An event is a signal that informs an application that something important has occurred. For example, when a user clicks a control on a form, the form can raise a...","Signal, informs, application, something impotant, ocurred, clicks, control. "
-,"An event (E) is a subset of the sample space. That is, an event is a subset of all possible outcomes. We refer to this subset of outcomes as favourable outcomes.","Subset, sample space, all possible, outcomes"
-,"An event (E) is a subset of the sample space. That is, an event is a subset of all possible outcomes. We refer to this subset of outcomes as favourable outcomes.","Subset, sample space, all possible, outcomes"
-,"The event is a partnership between the Shanghai Airport Authority and the National Business Aviation Association (NBAA), and co-hosted by...","Partnership, Shanghai Airport Authority, National Business Aviation Association."
-,"The event is a partnership between the Shanghai Airport Authority and the National Business Aviation Association (NBAA), and co-hosted by...","Partnership, Shanghai Airport Authority, National Business Aviation Association."
-,"An event is a notification by the .NET framework that an action has occurred. Each event contains information about the specific event, e.g., a mouse click would...","Notification, .NET, framework, action, occurred, information, specific. "
-,"An event is a notification by the .NET framework that an action has occurred. Each event contains information about the specific event, e.g., a mouse click would...","Notification, .NET, framework, action, occurred, information, specific."
-,"An Event is a Time of Celebration. Posted 6 January 2012 . If that sacred Aztec calendar called the Eagle Bowl is to be followed, this year makes a great excuse ...","Time of Celebration, Aztec calendar, Eagle Bowl, great excuse. "
-,"An Event is a Time of Celebration. Posted 6 January 2012 . If that sacred Aztec calendar called the Eagle Bowl is to be followed, this year makes a great excuse ...","Time of Celebration, Aztec calendar, Eagle Bowl, great excuse. "
-,"An event is a subset of all of the possible outcomes of an experiment. For example, if an experiment consists of flipping a coin two times, the possible outcomes...","Subset, possible, sample space, all possible, outcomes"
-,"An event is a subset of all of the possible outcomes of an experiment. For example, if an experiment consists of flipping a coin two times, the possible outcomes...","Subset, possible, sample space, all possible, outcomes"
-,An event is a set of outcomes. It is a subset of the sample space for an activity or experiment. Event: Drawing a black card from a deck of standard cards.,"Outcomes, subset, sample space, activity, experiment."
-,An event is a set of outcomes. It is a subset of the sample space for an activity or experiment. Event: Drawing a black card from a deck of standard cards.,"Outcomes, subset, sample space, activity, experiment."
-,An event is a member that enables an object or class to provide notifications. Clients can attach executable code for events by supplying event handlers.,"Member, enables, object, class, notification."
-,An event is a member that enables an object or class to provide notifications. Clients can attach executable code for events by supplying event handlers.,"Member, enables, object, class, notification."
-,An event is defined as any outcome that can occur. There are two main categories of events: Deterministic and Probabilistic. A deterministic event always has...,"Outcome, occur, probabilistic, deterministic. "
-,An event is defined as any outcome that can occur. There are two main categories of events: Deterministic and Probabilistic. A deterministic event always has...,"Outcome, occur, probabilistic, deterministic. "
-,An event is defined as a series of motion images taken within a short timeframe. Recommended value is 60 seconds (Default). The value 0 is allowed (but not...,"Series, motion, imagen, short timeframe."
-,An event is defined as a series of motion images taken within a short timeframe. Recommended value is 60 seconds (Default). The value 0 is allowed (but not...,"Series, motion, imagen, short timeframe."
-,An event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the...,"Possibly, related, research, caused, research. "
-,An event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the...,"Possibly, related, research, caused, research. "
-,"For PoPO, the event is defined as occurring if the METAR record observation at the hour reports precipitation. For the PoPO3, the event is...","Occurring, METAR record, observation. "
-,"For PoPO, the event is defined as occurring if the METAR record observation at the hour reports precipitation. For the PoPO3, the event is...","Occurring, METAR record, observation. "
-,An event is defined as a festival if one or more of the following activities occur: An admission fee is charged;; Vendors sell products/wares;; Carnival...,"Festival, following activities, occur, vendors, sell products."
-,An event is defined as a festival if one or more of the following activities occur: An admission fee is charged;; Vendors sell products/wares;; Carnival...,"Festival, following activities, occur, vendors, sell products."
-,An event is defined as a single action in the game that can be attributed to a player. It can be everything from a tutorial step to the firing of a weapon. We group...,"Single action, game, attributed, player."
-,An event is defined as a single action in the game that can be attributed to a player. It can be everything from a tutorial step to the firing of a weapon. We group...,"Single action, game, attributed, player."
-,"An event is defined as any significant deviation from the normal expected functioning of a plant. When an event occurs, the affected plant management and staff...","Significant, deviation, normal expected, plant, occurs."
-,"An event is defined as any significant deviation from the normal expected functioning of a plant. When an event occurs, the affected plant management and staff...","Significant, deviation, normal expected, plant, occurs."
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.","Close, stock, price drops, below. "
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.","Close, stock, price drops, below. "
-,"Such events are called alerting events. An event is defined as alerting if at the time of the event's generation it was matched by an alerting rule, meaning a rule ...","Alerting, time, generation, rule. "
-,"Such events are called alerting events. An event is defined as alerting if at the time of the event's generation it was matched by an alerting rule, meaning a rule ...","Alerting, time, generation, rule. "
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.","Close, stock, price drops, below. "
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.","Close, stock, price drops, below. "
-,"An event is defined as each line item that contains an ASC service. 35, PTB_DRUG_MDCR_PMT, PTB_DRUG_MDCR_PMT, Part B Drug Medicare Payments...","Line, item, ASC service."
-,"An event is defined as each line item that contains an ASC service. 35, PTB_DRUG_MDCR_PMT, PTB_DRUG_MDCR_PMT, Part B Drug Medicare Payments...","Line, item, ASC service."
-,"An event is defined as an occurrence, especially one that is particularly significant, interesting, exciting, or unusual. Events are once-in-a-lifetime experiences...","Occurrence, once-in-a-lifetime, experiences."
-,"An event is defined as an occurrence, especially one that is particularly significant, interesting, exciting, or unusual. Events are once-in-a-lifetime experiences...","Occurrence, once-in-a-lifetime, experiences."
-,"An event is defined as the rising edge of an input pulse. That's all there is to it: one pulse in, one time-stamp out. The picPET works equally well...","Rising edge, input pulse."
-,"An event is defined as the rising edge of an input pulse. That's all there is to it: one pulse in, one time-stamp out. The picPET works equally well...","Rising edge, input pulse."
-,"An event is defined as the occurrence of downtime, damages, and near misses. DIRT provides industry stakeholders with a way to anonymously submit data...","Occurrence, downtime, damages, near misses."
-,"An event is defined as the occurrence of downtime, damages, and near misses. DIRT provides industry stakeholders with a way to anonymously submit data...","Occurrence, downtime, damages, near misses."
-,"An event is defined as a birth, adoption, death, marriage, divorce, a dependent gaining or losing dependency status, and in some cases relocation. You must...","Birth, adoption, death, marriage, divorce, dependent gaining, losing dependency, status, relocation. "
-,"An event is defined as a birth, adoption, death, marriage, divorce, a dependent gaining or losing dependency status, and in some cases relocation. You must...","Birth, adoption, death, marriage, divorce, dependent gaining, losing dependency, status, relocation. "
-,AE grades are determined based on the pass/fail rate based on the most current 14 events in the plan review system. An event is defined as a plan review cycle.,"Plan, review cycle. "
-,AE grades are determined based on the pass/fail rate based on the most current 14 events in the plan review system. An event is defined as a plan review cycle.,"Plan, review cycle. "
-,"An event is defined as anything that is not a regularly scheduled academic class, including film screenings, tutoring sessions, meetings, public concerts or...","Scheduled, academic class, film screenings, tutoring sessions, meetings, public concerts."
-,"An event is defined as anything that is not a regularly scheduled academic class, including film screenings, tutoring sessions, meetings, public concerts or...","Scheduled, academic class, film screenings, tutoring sessions, meetings, public concerts."
-,"In the AIX Event Infrastructure, an event is defined as any change of a state or a value that can be detected by the kernel or a kernel extension at the time the...","Any change, state, value, kernel. "
-,"In the AIX Event Infrastructure, an event is defined as any change of a state or a value that can be detected by the kernel or a kernel extension at the time the...","Any change, state, value, kernel. "
-,Movement and mobility is detected using low cost infra red (IR) sensors. An event is defined as a series of interruptions of the IR beam terminated by a silent.,"Series, interruptions, IR beam, silent. "
-,Movement and mobility is detected using low cost infra red (IR) sensors. An event is defined as a series of interruptions of the IR beam terminated by a silent.,"Series, interruptions, IR beam, silent. "
-,"In computing, an event is an action or occurrence detected by the program that may be handled by the program. Typically events are handled synchronously...","Action, ocurrence, program, handled, program, synchronously. "
-,"In computing, an event is an action or occurrence detected by the program that may be handled by the program. Typically events are handled synchronously...","Action, ocurrence, program, handled, program, synchronously. "
-,"An event is an activity that lasts 24 hours or longer. Examples of an event include a trade show, a seminar, or a vacation. In this article More information about...","Activity, 24 hours, longer, trade show, seminar, vacation. "
-,"An event is an activity that lasts 24 hours or longer. Examples of an event include a trade show, a seminar, or a vacation. In this article More information about...","Activity, 24 hours, longer, trade show, seminar, vacation. "
-,"An event is an action or occurrence such as a mouse click or a credit limit exceeded that is recognized by some program component, and for which you can...","Action, ocurrence, program, handled, program, synchronously. "
-,"An event is an action or occurrence such as a mouse click or a credit limit exceeded that is recognized by some program component, and for which you can...","Action, ocurrence, program, handled, program, synchronously. "
-,"The Event is an emotional high-octane conspiracy thriller with sci-fi elements, that follows Sean Walker (Jason Ritter, ""The Class""),...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,"The Event is an emotional high-octane conspiracy thriller with sci-fi elements, that follows Sean Walker (Jason Ritter, ""The Class""),...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,An event is an association between a delegate and a member function (event handler) that responds to the triggering of the event and allows clients from any...,"Association, delegate, member function, triggering, clients."
-,An event is an association between a delegate and a member function (event handler) that responds to the triggering of the event and allows clients from any...,"Association, delegate, member function, triggering, clients."
-,"An Event is an occasion like a meeting or lunch, which doesn't require a responsible party or a deliverable. Events are good markers for meetings or travel plans...","Occasion, meeting, lunch, party, deliverabl, markers, travel plans. "
-,"An Event is an occasion like a meeting or lunch, which doesn't require a responsible party or a deliverable. Events are good markers for meetings or travel plans...","Occasion, meeting, lunch, party, deliverabl, markers, travel plans. "
-,"The Event Synopsis: The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,"The Event Synopsis: The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,"The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an everyman who investigates the mysterious ...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,"The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an everyman who investigates the mysterious ...","Emotional high-octane, conspiracy, thriller, sci-fi elements. "
-,The event is an early glimpse of what the 12 supercommittee members could face after they try to slice $1.2 trillion in spending this fall: they'll...,Supercommittee members.
-,The event is an early glimpse of what the 12 supercommittee members could face after they try to slice $1.2 trillion in spending this fall: they'll...,Supercommittee members.
-,"An event is an activity that happens at a given place and time. They are listed in the Zoho CRM's Home page of the user, Activities home page, Calendar, and in...","Activity, happens, place, time, calendar. "
-,"An event is an activity that happens at a given place and time. They are listed in the Zoho CRM's Home page of the user, Activities home page, Calendar, and in...","Activity, happens, place, time, calendar. "
-,"Set up like a public forum, the event is an opportunity for the community to see the fascinating, high level work SDSU students and faculty are...","Set up, public forum, opportunity, community. "
-,"Set up like a public forum, the event is an opportunity for the community to see the fascinating, high level work SDSU students and faculty are...","Set up, public forum, opportunity, community. "
-,"An event is an important time and place in the story, usually something to keep in mind later on in the story. (forshadowing) The event of a story are the important...","Important time, place, story."
-,"An event is an important time and place in the story, usually something to keep in mind later on in the story. (forshadowing) The event of a story are the important...","Important time, place, story."
-,"A Community Building Event Benefitting. Youth Services in West Los Angeles. Santa Monica, CA. DESCRIPTION. The event is an all day, cultural arts festival.","All day, cultural arts, festival. "
-,"A Community Building Event Benefitting. Youth Services in West Los Angeles. Santa Monica, CA. DESCRIPTION. The event is an all day, cultural arts festival.","All day, cultural arts, festival. "
-,"An event is an occasion where you gather people together to create, discuss, dance, decide, build you name it. Examples of events range from a workshop on...","Occasion, gather people, together, create, discuss, dance, decide."
-,"An event is an occasion where you gather people together to create, discuss, dance, decide, build you name it. Examples of events range from a workshop on...","Occasion, gather people, together, create, discuss, dance, decide."
-,"An Event is an action initiated either by user action or by other VBA code. An Event Procedure is a Sub procedure that you write, according to...","Action, procedure."
-,"An Event is an action initiated either by user action or by other VBA code. An Event Procedure is a Sub procedure that you write, according to...","Action, procedure."
-,An event is any activity that requires you to make arrangements before the program can actually take place. It may be anything from an introductory meeting or...,"Activity, arrengements, program, take place. "
-,An event is any activity that requires you to make arrangements before the program can actually take place. It may be anything from an introductory meeting or...,"Activity, arrengements, program, take place. "
-,"In Windows XP, an event is any significant occurrence in the system or in a program that requires users to be notified, or an entry added to a log. The Event Log...","Significant occurrence, system, program."
-,"In Windows XP, an event is any significant occurrence in the system or in a program that requires users to be notified, or an entry added to a log. The Event Log...","Significant occurrence, system, program."
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...","Collection, outcomes, experiment."
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...","Collection, outcomes, experiment."
-,"An event is any set of outcomes of a random experiment; that is, any subset of the sample space of the experiment. The probability of a given event is the sum of...","Outcomes, ramdom experiment."
-,"An event is any set of outcomes of a random experiment; that is, any subset of the sample space of the experiment. The probability of a given event is the sum of...","Outcomes, ramdom experiment."
-,where H represents heads and T represents tails. An event is any collection ( subset) of outcomes contained in the sample space S. We sometimes use the word...,"Collection, outcomes, sample."
-,where H represents heads and T represents tails. An event is any collection ( subset) of outcomes contained in the sample space S. We sometimes use the word...,"Collection, outcomes, sample."
-,"An event is any collection of outcomes. Examples of events for tossing a number cube are that the number tossed is even, that the number is 1 or 2, or that the...","Collection, outcomes, tossed. "
-,"An event is any collection of outcomes. Examples of events for tossing a number cube are that the number tossed is even, that the number is 1 or 2, or that the...","Collection, outcomes, tosseed. "
-,"In a computing context, an event is any identifiable occurrence that has significance for system hardware or software. As such, events include both...","Computing, identifiable occurrence, system, hardware, software."
-,"In a computing context, an event is any identifiable occurrence that has significance for system hardware or software. As such, events include both...","Computing, identifiable occurrence, system, hardware, software."
-,"An event is any subset of the possible outcomes of a trial. For example, when we roll a pair of dice, there are 36 possible outcomes (see Problem 21-7). An event...","Subset, outcomes, trial, pair of dice. "
-,"An event is any subset of the possible outcomes of a trial. For example, when we roll a pair of dice, there are 36 possible outcomes (see Problem 21-7). An event...","Subset, outcomes, trial, pair of dice. "
-,An event is any collection of outcomes. Ex. - The last 3 flips of the coin had two heads up and one tails up. Two events are said to be independent if the outcome ...,"Collection, outcomes, coin, tails up. "
-,An event is any collection of outcomes. Ex. - The last 3 flips of the coin had two heads up and one tails up. Two events are said to be independent if the outcome ...,"Collection, outcomes, coin, tails up. "
-,An event is any collection of outcomes from a probability experiment. An event may consist of one outcome or more than one outcome. We will denote events.,"Collection, outcomes, probability, experiment."
-,An event is any collection of outcomes from a probability experiment. An event may consist of one outcome or more than one outcome. We will denote events.,"Collection, outcomes, probability, experiment."
-,An event is any collection of possible out- comes of an experiment. A sample point is called an elementary or simple event. We can think of a simple event as a...,"Collection, possible, out-comes, experiment, sample, elementary,"
-,An event is any collection of possible out- comes of an experiment. A sample point is called an elementary or simple event. We can think of a simple event as a...,"Collection, possible, out-comes, experiment, sample, elementary,"
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...","Collection, outcomes, experiment, sample, space. "
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...","Collection, outcomes, experiment, sample, space. "
-,"An event is any observable occurrence in a system or network. Events include a user connecting to a file share, a server receiving a request for a web page,...","Occurrance, system, network, include, user connecting, file share, server receiving. "
-,"An event is any observable occurrence in a system or network. Events include a user connecting to a file share, a server receiving a request for a web page,...","Ocurrance, system, network, include, user connecting, file share, serving receiving. "
-,"In their perspective, an event is any type of action that brings the brand into the reality of the target group. Developing ideas and conce...pts for events, brands,...","Action, brand, target group, developing ideas."
-,"In their perspective, an event is any type of action that brings the brand into the reality of the target group. Developing ideas and conce...pts for events, brands,...","Action, brand, target group, developing ideas."
-,An event is any action in the vCenter Server system or ESX/ESXi host. You can filter retrieved events by specifying arguments for the cmdlet parameters.,"Action, system, filter, retrieved, parameters. "
-,An event is any action in the vCenter Server system or ESX/ESXi host. You can filter retrieved events by specifying arguments for the cmdlet parameters.,"Action, system, filter, retrieved, parameters. "
-,"An event is any indoor or outdoor hockey match, tournament or competition or other event, at whatever level played and at whatever age group played ( including...","Indoor, outdoor, hockey match, tournament, competition, level played. "
-,"An event is any indoor or outdoor hockey match, tournament or competition or other event, at whatever level played and at whatever age group played ( including...","Indoor, outdoor, hockey match, tournament, competition, level played. "
-,"That is, the roll could be a 5 or a 6. In general, an event is any subset of a sample space (including the possibility of an the empty set). See also. Probability...","Subset, sample space, all possible."
-,"That is, the roll could be a 5 or a 6. In general, an event is any subset of a sample space (including the possibility of an the empty set). See also. Probability...","Subset, sample space, all possible."
-,An event is any time you share the power of Discovery with 3 or more colleagues. Share an integration idea over lunch with your grade-level...,"Time, share, power, discovery, integration idea."
-,An event is any time you share the power of Discovery with 3 or more colleagues. Share an integration idea over lunch with your grade-level...,"Time, share, power, discovery, integration idea."
-,An event is any Sterling Connect:Direct message that is written to the console using SCWTO or DMWTO. Each event is triggered by the Sterling Connect:Direct ...,"Direct message, console, triggered."
-,An event is any Sterling Connect:Direct message that is written to the console using SCWTO or DMWTO. Each event is triggered by the Sterling Connect:Direct ...,"Direct message, console, triggered."
-,"An event is any organised activity held on public land where an open area, facility, venue, road or temporary structure is to be used by more people than are ...","Organised activity, public, open area, facility, venue, road, temporary structure. "
-,"An event is any organised activity held on public land where an open area, facility, venue, road or temporary structure is to be used by more people than are ...","Organised activity, public, open area, facility, venue, road, temporary structure. "
-,"An event is any activity open to a broad group of the university community. Examples: seminars, trainings, conferences, workshops, lectures, receptions, concerts...","Activity, broad group, university community, seminars, trainings, conferences, workshops, lectures, receptions, concerts. "
-,"An event is any activity open to a broad group of the university community. Examples: seminars, trainings, conferences, workshops, lectures, receptions, concerts...","Activity, broad group, university community, seminars, trainings, conferences, workshops, lectures, receptions, concerts. "
-,An event is any situation that can affect the success of your business. Event Studio lets you ensure that the appropriate personnel are made aware of events.,"Situation, success, business."
-,An event is any situation that can affect the success of your business. Event Studio lets you ensure that the appropriate personnel are made aware of events.,"Situation, success, business."
-,An event is any collection (subset) of outcomes contained in the sample space. An event is simple if it consists of exactly one outcome and compound if it...,"Subset, outcomes."
-,An event is any collection (subset) of outcomes contained in the sample space. An event is simple if it consists of exactly one outcome and compound if it...,"Subset, outcomes. "
-,Event Details An event is any activity which utilizes the College's facilities that is not registered with the Registrar's Office. Event Name: Event Date:.,Activity.
-,Event Details An event is any activity which utilizes the College's facilities that is not registered with the Registrar's Office. Event Name: Event Date:.,Activity. 
-,"An event is any sort of activity that you want to record in DATS. Typically, this would include a record, some people & their attendance, and the associated tasks...","Sort of activity, record, attendance, tasks. "
-,"An event is any sort of activity that you want to record in DATS. Typically, this would include a record, some people & their attendance, and the associated tasks...","Sort of activity, record, attendance, tasks. "
-,An event is any action in the vCenter Server system or ESX host. The cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters.,"Action, system, filter criteria, parameters."
-,An event is any action in the vCenter Server system or ESX host. The cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters.,"Action, system, filter criteria, parameters."
-,"The first leg of the Triple Crown, the event is characterized by wagering, grand hats, and mint juleps. The Eastern Appalachian region of the state features scenic...",
-,"The first leg of the Triple Crown, the event is characterized by wagering, grand hats, and mint juleps. The Eastern Appalachian region of the state features scenic...",
-,The event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the...,
-,The event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the...,
-,"In Vancouver, the event is characterized by music, poetry, and other performances around the city, culminating in a large banquet and party. This unique event...","Music, poetry, performances, banquet, party."
-,"In Vancouver, the event is characterized by music, poetry, and other performances around the city, culminating in a large banquet and party. This unique event...","Music, poetry, performances, banquet, party."
-,The event is characterized by the absence of both awards and a selection jury. There are however placement or hanging committees. In contrast to the Salon...,"Absence, awards, placement, hanging committes. "
-,The event is characterized by the absence of both awards and a selection jury. There are however placement or hanging committees. In contrast to the Salon...,"Absence, awards, placement, hanging committes. "
-,"The event is characterized by actual or threatened death, serious injury or threat to physical integrity. Symptom clusters may include: re-experiencing the...","Actual, threatened, death, injury, physical integrity, symptom."
-,"The event is characterized by actual or threatened death, serious injury or threat to physical integrity. Symptom clusters may include: re-experiencing the...","Actual, threatened, death, injury, physical integrity, symptom."
-,"The event is characterized by the Department of Defense as a ""Broken Arrow"", the term for the second most severe accident involving a nuclear weapon (the...","Department of Defense, accident, nuclear weapon. "
-,"The event is characterized by the Department of Defense as a ""Broken Arrow"", the term for the second most severe accident involving a nuclear weapon (the...","Department of Defense, accident, nuclaer weapon. "
-,"The event is characterized by the release of the latest news, research and global trends. Benchmark for innovation, technology and knowledge for professionals,...","Release, latest news, research, global trends. "
-,"The event is characterized by the release of the latest news, research and global trends. Benchmark for innovation, technology and knowledge for professionals,...","Release, latest news, research, global trends. "
-,"Just as the famous American NASCAR, the event is characterized by equal performance and bumper-to-bumper duels. Although Formula 1 is considered as the...","Performance, bumper-to buemper, duels. "
-,"Just as the famous American NASCAR, the event is characterized by equal performance and bumper-to-bumper duels. Although Formula 1 is considered as the...","Performance, bumper-to buemper, duels. "
-,The event is characterized by a rapid onset and a more gradual demise and U-Th data as well as annual lamina counting support a rapid...,"Rapid onset, gradual demise, data, lamina, support rapid. "
-,The event is characterized by a rapid onset and a more gradual demise and U-Th data as well as annual lamina counting support a rapid...,"Rapid onset, gradual demise, data, lamina, support rapid. "
-,The event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and...,"International, creative, directors, counterparts, internet, screens. "
-,The event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and...,"International, creative, directors, counterparts, internet, screens. "
-,"In St. Lucia, the event is characterized by extravagant light displays that honor the island's namesake and her work. In recent years the event has focused more...","Extravagant, light displays, honor. "
-,"In St. Lucia, the event is characterized by extravagant light displays that honor the island's namesake and her work. In recent years the event has focused more...","Extravagant, light displays, honor. "
-,The event is characterized by students wearing the gown and the graduation cap and a commendable achievement which until this day was...,"Students, wearing, graduation, commendable, achivement."
-,The event is characterized by students wearing the gown and the graduation cap and a commendable achievement which until this day was...,"Students, wearing, graduation, commendable, achivement."
-,"The event is characterized by an inability to speak or to move the limbs, trunk, and head. Breathing and consciousness are unaffected, and the...","Inability to speak, move the limps, trunk, haed. "
-,"The event is characterized by an inability to speak or to move the limbs, trunk, and head. Breathing and consciousness are unaffected, and the...","Inability to speak, move the limps, trunk, haed. "
-,The event is characterized by an overlapping condition in which a floating window partially or totally overlaps an active window on the computer screen.,
-,The event is characterized by an overlapping condition in which a floating window partially or totally overlaps an active window on the computer screen.,
-,An event is characterized by a position and time: . The interval between two events is (x2 t2)1/2. Time like intervals are imaginary. We adopt an...,
-,An event is characterized by a position and time: . The interval between two events is (x2 t2)1/2. Time like intervals are imaginary. We adopt an...,
-,"The event is characterized by the neighborhood to express the warm welcome of the harvest, express religious dedication, or honor a historic event. It is among...",
-,"The event is characterized by the neighborhood to express the warm welcome of the harvest, express religious dedication, or honor a historic event. It is among...",
-,The event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with Board of Directors...,
-,The event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with Board of Directors...,
-,"The event is characterized by family and friends gathering for a great feast, the exchanging of gifts, the wearing of new clothes and of course, attending mosque.",
-,"The event is characterized by family and friends gathering for a great feast, the exchanging of gifts, the wearing of new clothes and of course, attending mosque.",
-,"The event is characterized by persistent along-coast winds in the marine layer, and this pattern justifies a Lagrangian approach to the study. A slab of marine...",
-,"The event is characterized by persistent along-coast winds in the marine layer, and this pattern justifies a Lagrangian approach to the study. A slab of marine...",
-,"The Mukojima Bicycle Art and Net Project, an event conceived as a way of turning this negative image into a positive one, aimed to beautify this part of the...",
-,"The Mukojima Bicycle Art and Net Project, an event conceived as a way of turning this negative image into a positive one, aimed to beautify this part of the...",
-,"ES's Experience program, an event conceived as a special showcase of local Catalan talent. Offered free of charge to the public, the daytime...",
-,"ES's Experience program, an event conceived as a special showcase of local Catalan talent. Offered free of charge to the public, the daytime...",
-,"An event conceived as part of Jonathan's inauguration week has become a controversial bribe fest in Lagos, with about 400 participants...",
-,"An event conceived as part of Jonathan's inauguration week has become a controversial bribe fest in Lagos, with about 400 participants...",
-,"100 works of art will be offered for $1,000 or less, an event conceived as a way to bring artists and collectors together for the holidays.",
-,"100 works of art will be offered for $1,000 or less, an event conceived as a way to bring artists and collectors together for the holidays.",
-,"Brazil, in January 2001, an event conceived as an ideological counterblast to the World Economic Forum of the rich and powerful in Davos,...",
-,"Brazil, in January 2001, an event conceived as an ideological counterblast to the World Economic Forum of the rich and powerful in Davos,...",
-,"the dead, an event conceived as belonging to a climactic future, when the risen and glorified Christ will destroy the last enemy, death. What can be our access to ...",
-,"the dead, an event conceived as belonging to a climactic future, when the risen and glorified Christ will destroy the last enemy, death. What can be our access to ...",
-,"Here's some rare footage of Chrissie winning her 4th Virginia Slims Championships final in 6 years, an event considered as big as the Grand Slams back then.",
-,"Here's some rare footage of Chrissie winning her 4th Virginia Slims Championships final in 6 years, an event considered as big as the Grand Slams back then.",
-,"This will be the 14th Fiumanka, an event considered as unmissable among lovers of sailing and sailing boats from Croatia and abroad.",
-,"This will be the 14th Fiumanka, an event considered as unmissable among lovers of sailing and sailing boats from Croatia and abroad.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"NY, an event described as ""a mix between a business conference and an artist's open studio,"" companies will open their doors to us plebes,...",
-,"NY, an event described as ""a mix between a business conference and an artist's open studio,"" companies will open their doors to us plebes,...",
-,"of its kind to have occurred in Kenya since the 1980s, an event described as an unimaginable, heinous crime by the Kenya Wildlife Service.",
-,"of its kind to have occurred in Kenya since the 1980s, an event described as an unimaginable, heinous crime by the Kenya Wildlife Service.",
-,"An event described as a ""Career Showcase"" for a proposed gaming resort in Toronto didn't draw a whole lot of public enthusiasm according to...",
-,"An event described as a ""Career Showcase"" for a proposed gaming resort in Toronto didn't draw a whole lot of public enthusiasm according to...",
-,"filterForward (optional, by default true): if false, the event defined as the forward event won't be filtered when fired when an event is forwarded to a child module.",
-,"filterForward (optional, by default true): if false, the event defined as the forward event won't be filtered when fired when an event is forwarded to a child module.",
-,"In 2010, an event known as a Flash Crash saw the Dow Jones Industrial Average . Enlarge Image. In 2010, an event known as a Flash Crash...",
-,"In 2010, an event known as a Flash Crash saw the Dow Jones Industrial Average . Enlarge Image. In 2010, an event known as a Flash Crash...",
-,"... earliest fossils, which suggest that complex animals first appeared in the oceans around 500 million years ago, an event known as the Cambrian Explosion.",
-,"... earliest fossils, which suggest that complex animals first appeared in the oceans around 500 million years ago, an event known as the Cambrian Explosion.",
-,"... to 30 days), an event known as 'blocking' (Section 12.5). 'Blocking highs' were first studied by D.F. Rex in 1950 and later by Austin (1). To be called 'blocking',...",
-,"... to 30 days), an event known as 'blocking' (Section 12.5). 'Blocking highs' were first studied by D.F. Rex in 1950 and later by Austin (1). To be called 'blocking',...",
-,"This finding is consistent with SCMAS being released from lysosomes, an event known as lysosomal membrane permeability (LMP).",
-,"This finding is consistent with SCMAS being released from lysosomes, an event known as lysosomal membrane permeability (LMP).",
-,"The midway point coincides with the First World War, an event identified as pivotal to the rise of national feeling, but which also determined the extent and nature...",
-,"The midway point coincides with the First World War, an event identified as pivotal to the rise of national feeling, but which also determined the extent and nature...",
-,The event identified as Tertiary appears to originate slightly above the Or. Marker zone identified in the tests in the area. The contour interpretation shows...,
-,The event identified as Tertiary appears to originate slightly above the Or. Marker zone identified in the tests in the area. The contour interpretation shows...,
-,An event identified as deferred by a state that does not fire any trigger is not dispatched and is therefore never consumed. Event may potentially trigger some ...,
-,An event identified as deferred by a state that does not fire any trigger is not dispatched and is therefore never consumed. Event may potentially trigger some ...,
-,"Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka...",
-,"Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka...",
-,"... Lake Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka cold event.",
-,"... Lake Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka cold event.",
-,The event identified as ion of charge (Z)=252. Energy of the ion (iron) when it enters to the PET is ~150 MeV. Track length in CR-39 is determined (~24.51.75 ...,
-,The event identified as ion of charge (Z)=252. Energy of the ion (iron) when it enters to the PET is ~150 MeV. Track length in CR-39 is determined (~24.51.75 ...,
-,"... which inspired the Anthropological Exhibition of 1882, an event understood as a necessary complement to the Exposio de Histria do Brasil, held in 1881 in...",
-,"... which inspired the Anthropological Exhibition of 1882, an event understood as a necessary complement to the Exposio de Histria do Brasil, held in 1881 in...",
-,model provides no definition of the underlying conceptualization of real world events. An event understood as information object has relations only to other in-.,
-,model provides no definition of the underlying conceptualization of real world events. An event understood as information object has relations only to other in-.,
-,"In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned. A single outcome may be...",
-,"An event is a message sent by an object to signal the occurrence of an action. The action could be caused by user interaction, such as a button click, or it could ...",
-,"The Event is a 2003 drama film directed by Thom Fitzgerald. It tells the story of Matt Shapiro (Don McKellar) who has died in Manhattan, resulting in an aborted ...",
-,"An event is a way for a class to allow clients to give it delegates to methods that should be called when the event occurs. When the event occurs, the delegate(s) ...",
-,"An event is a signal that informs an application that something important has occurred. For example, when a user clicks a control on a form, the form can raise a...",
-,"An event (E) is a subset of the sample space. That is, an event is a subset of all possible outcomes. We refer to this subset of outcomes as favourable outcomes.",
-,"The event is a partnership between the Shanghai Airport Authority and the National Business Aviation Association (NBAA), and co-hosted by...",
-,"An event is a notification by the .NET framework that an action has occurred. Each event contains information about the specific event, e.g., a mouse click would...",
-,"An Event is a Time of Celebration. Posted 6 January 2012 . If that sacred Aztec calendar called the Eagle Bowl is to be followed, this year makes a great excuse ...",
-,"An event is a subset of all of the possible outcomes of an experiment. For example, if an experiment consists of flipping a coin two times, the possible outcomes...",
-,An event is a set of outcomes. It is a subset of the sample space for an activity or experiment. Event: Drawing a black card from a deck of standard cards.,
-,An event is a member that enables an object or class to provide notifications. Clients can attach executable code for events by supplying event handlers.,
-,An event is defined as any outcome that can occur. There are two main categories of events: Deterministic and Probabilistic. A deterministic event always has...,
-,An event is defined as a series of motion images taken within a short timeframe. Recommended value is 60 seconds (Default). The value 0 is allowed (but not...,
-,An event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the...,
-,"For PoPO, the event is defined as occurring if the METAR record observation at the hour reports precipitation. For the PoPO3, the event is...",
-,An event is defined as a festival if one or more of the following activities occur: An admission fee is charged;; Vendors sell products/wares;; Carnival...,
-,An event is defined as a single action in the game that can be attributed to a player. It can be everything from a tutorial step to the firing of a weapon. We group...,
-,"An event is defined as any significant deviation from the normal expected functioning of a plant. When an event occurs, the affected plant management and staff...",
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.",
-,"Such events are called alerting events. An event is defined as alerting if at the time of the event's generation it was matched by an alerting rule, meaning a rule ...",
-,"The event is defined as when the actual close of the stock price drops below $5.00, more specifically, when: price[t-1] >= 5.0; price[t] < 5.0.",
-,"An event is defined as each line item that contains an ASC service. 35, PTB_DRUG_MDCR_PMT, PTB_DRUG_MDCR_PMT, Part B Drug Medicare Payments...",
-,"An event is defined as an occurrence, especially one that is particularly significant, interesting, exciting, or unusual. Events are once-in-a-lifetime experiences...",
-,"An event is defined as the rising edge of an input pulse. That's all there is to it: one pulse in, one time-stamp out. The picPET works equally well...",
-,"An event is defined as the occurrence of downtime, damages, and near misses. DIRT provides industry stakeholders with a way to anonymously submit data...",
-,"An event is defined as a birth, adoption, death, marriage, divorce, a dependent gaining or losing dependency status, and in some cases relocation. You must...",
-,AE grades are determined based on the pass/fail rate based on the most current 14 events in the plan review system. An event is defined as a plan review cycle.,
-,"An event is defined as anything that is not a regularly scheduled academic class, including film screenings, tutoring sessions, meetings, public concerts or...",
-,"In the AIX Event Infrastructure, an event is defined as any change of a state or a value that can be detected by the kernel or a kernel extension at the time the...",
-,Movement and mobility is detected using low cost infra red (IR) sensors. An event is defined as a series of interruptions of the IR beam terminated by a silent.,
-,"In computing, an event is an action or occurrence detected by the program that may be handled by the program. Typically events are handled synchronously...",
-,"An event is an activity that lasts 24 hours or longer. Examples of an event include a trade show, a seminar, or a vacation. In this article More information about...",
-,"An event is an action or occurrence such as a mouse click or a credit limit exceeded that is recognized by some program component, and for which you can...",
-,"The Event is an emotional high-octane conspiracy thriller with sci-fi elements, that follows Sean Walker (Jason Ritter, ""The Class""),...",
-,An event is an association between a delegate and a member function (event handler) that responds to the triggering of the event and allows clients from any...,
-,"An Event is an occasion like a meeting or lunch, which doesn't require a responsible party or a deliverable. Events are good markers for meetings or travel plans...",
-,"The Event Synopsis: The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an...",
-,"The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker (Jason Ritter, ""The Class""), an everyman who investigates the mysterious ...",
-,The event is an early glimpse of what the 12 supercommittee members could face after they try to slice $1.2 trillion in spending this fall: they'll...,
-,"An event is an activity that happens at a given place and time. They are listed in the Zoho CRM's Home page of the user, Activities home page, Calendar, and in...",
-,"Set up like a public forum, the event is an opportunity for the community to see the fascinating, high level work SDSU students and faculty are...",
-,"An event is an important time and place in the story, usually something to keep in mind later on in the story. (forshadowing) The event of a story are the important...",
-,"A Community Building Event Benefitting. Youth Services in West Los Angeles. Santa Monica, CA. DESCRIPTION. The event is an all day, cultural arts festival.",
-,"An event is an occasion where you gather people together to create, discuss, dance, decide, build you name it. Examples of events range from a workshop on...",
-,"An Event is an action initiated either by user action or by other VBA code. An Event Procedure is a Sub procedure that you write, according to...",
-,An event is any activity that requires you to make arrangements before the program can actually take place. It may be anything from an introductory meeting or...,
-,"In Windows XP, an event is any significant occurrence in the system or in a program that requires users to be notified, or an entry added to a log. The Event Log...",
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...",
-,"An event is any set of outcomes of a random experiment; that is, any subset of the sample space of the experiment. The probability of a given event is the sum of...",
-,where H represents heads and T represents tails. An event is any collection ( subset) of outcomes contained in the sample space S. We sometimes use the word...,
-,"An event is any collection of outcomes. Examples of events for tossing a number cube are that the number tossed is even, that the number is 1 or 2, or that the...",
-,"In a computing context, an event is any identifiable occurrence that has significance for system hardware or software. As such, events include both...",
-,"An event is any subset of the possible outcomes of a trial. For example, when we roll a pair of dice, there are 36 possible outcomes (see Problem 21-7). An event...",
-,An event is any collection of outcomes. Ex. - The last 3 flips of the coin had two heads up and one tails up. Two events are said to be independent if the outcome ...,
-,An event is any collection of outcomes from a probability experiment. An event may consist of one outcome or more than one outcome. We will denote events.,
-,An event is any collection of possible out- comes of an experiment. A sample point is called an elementary or simple event. We can think of a simple event as a...,
-,"An event is any collection of outcomes of an experiment. Formally, any subset of the sample space is an event. Any event which consists of a single outcome in...",
-,"An event is any observable occurrence in a system or network. Events include a user connecting to a file share, a server receiving a request for a web page,...",
-,"In their perspective, an event is any type of action that brings the brand into the reality of the target group. Developing ideas and conce...pts for events, brands,...",
-,An event is any action in the vCenter Server system or ESX/ESXi host. You can filter retrieved events by specifying arguments for the cmdlet parameters.,
-,"An event is any indoor or outdoor hockey match, tournament or competition or other event, at whatever level played and at whatever age group played ( including...",
-,"That is, the roll could be a 5 or a 6. In general, an event is any subset of a sample space (including the possibility of an the empty set). See also. Probability...",
-,An event is any time you share the power of Discovery with 3 or more colleagues. Share an integration idea over lunch with your grade-level...,
-,An event is any Sterling Connect:Direct message that is written to the console using SCWTO or DMWTO. Each event is triggered by the Sterling Connect:Direct ...,
-,"An event is any organised activity held on public land where an open area, facility, venue, road or temporary structure is to be used by more people than are ...",
-,"An event is any activity open to a broad group of the university community. Examples: seminars, trainings, conferences, workshops, lectures, receptions, concerts...",
-,An event is any situation that can affect the success of your business. Event Studio lets you ensure that the appropriate personnel are made aware of events.,
-,An event is any collection (subset) of outcomes contained in the sample space. An event is simple if it consists of exactly one outcome and compound if it...,
-,Event Details An event is any activity which utilizes the College's facilities that is not registered with the Registrar's Office. Event Name: Event Date:.,
-,"An event is any sort of activity that you want to record in DATS. Typically, this would include a record, some people & their attendance, and the associated tasks...",
-,An event is any action in the vCenter Server system or ESX host. The cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters.,
-,"The first leg of the Triple Crown, the event is characterized by wagering, grand hats, and mint juleps. The Eastern Appalachian region of the state features scenic...",
-,The event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the...,
-,"In Vancouver, the event is characterized by music, poetry, and other performances around the city, culminating in a large banquet and party. This unique event...",
-,The event is characterized by the absence of both awards and a selection jury. There are however placement or hanging committees. In contrast to the Salon...,
-,"The event is characterized by actual or threatened death, serious injury or threat to physical integrity. Symptom clusters may include: re-experiencing the...",
-,"The event is characterized by the Department of Defense as a ""Broken Arrow"", the term for the second most severe accident involving a nuclear weapon (the...",
-,"The event is characterized by the release of the latest news, research and global trends. Benchmark for innovation, technology and knowledge for professionals,...",
-,"Just as the famous American NASCAR, the event is characterized by equal performance and bumper-to-bumper duels. Although Formula 1 is considered as the...",
-,The event is characterized by a rapid onset and a more gradual demise and U-Th data as well as annual lamina counting support a rapid...,
-,The event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and...,
-,"In St. Lucia, the event is characterized by extravagant light displays that honor the island's namesake and her work. In recent years the event has focused more...",
-,The event is characterized by students wearing the gown and the graduation cap and a commendable achievement which until this day was...,
-,"The event is characterized by an inability to speak or to move the limbs, trunk, and head. Breathing and consciousness are unaffected, and the...",
-,The event is characterized by an overlapping condition in which a floating window partially or totally overlaps an active window on the computer screen.,
-,An event is characterized by a position and time: . The interval between two events is (x2 t2)1/2. Time like intervals are imaginary. We adopt an...,
-,"The event is characterized by the neighborhood to express the warm welcome of the harvest, express religious dedication, or honor a historic event. It is among...",
-,The event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with Board of Directors...,
-,"The event is characterized by family and friends gathering for a great feast, the exchanging of gifts, the wearing of new clothes and of course, attending mosque.",
-,"The event is characterized by persistent along-coast winds in the marine layer, and this pattern justifies a Lagrangian approach to the study. A slab of marine...",
-,"The Mukojima Bicycle Art and Net Project, an event conceived as a way of turning this negative image into a positive one, aimed to beautify this part of the...",
-,"ES's Experience program, an event conceived as a special showcase of local Catalan talent. Offered free of charge to the public, the daytime...",
-,"An event conceived as part of Jonathan's inauguration week has become a controversial bribe fest in Lagos, with about 400 participants...",
-,"100 works of art will be offered for $1,000 or less, an event conceived as a way to bring artists and collectors together for the holidays.",
-,"Brazil, in January 2001, an event conceived as an ideological counterblast to the World Economic Forum of the rich and powerful in Davos,...",
-,"the dead, an event conceived as belonging to a climactic future, when the risen and glorified Christ will destroy the last enemy, death. What can be our access to ...",
-,"Here's some rare footage of Chrissie winning her 4th Virginia Slims Championships final in 6 years, an event considered as big as the Grand Slams back then.",
-,"This will be the 14th Fiumanka, an event considered as unmissable among lovers of sailing and sailing boats from Croatia and abroad.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"Strongbow, henchman of Henry II, arrive in Waterford at the behest of Dermot McMurrough, an event described as the beginning of the woes of Ireland.",
-,"NY, an event described as ""a mix between a business conference and an artist's open studio,"" companies will open their doors to us plebes,...",
-,"of its kind to have occurred in Kenya since the 1980s, an event described as an unimaginable, heinous crime by the Kenya Wildlife Service.",
-,"An event described as a ""Career Showcase"" for a proposed gaming resort in Toronto didn't draw a whole lot of public enthusiasm according to...",
-,"filterForward (optional, by default true): if false, the event defined as the forward event won't be filtered when fired when an event is forwarded to a child module.",
-,"In 2010, an event known as a Flash Crash saw the Dow Jones Industrial Average . Enlarge Image. In 2010, an event known as a Flash Crash...",
-,"... earliest fossils, which suggest that complex animals first appeared in the oceans around 500 million years ago, an event known as the Cambrian Explosion.",
-,"... to 30 days), an event known as 'blocking' (Section 12.5). 'Blocking highs' were first studied by D.F. Rex in 1950 and later by Austin (1). To be called 'blocking',...",
-,"This finding is consistent with SCMAS being released from lysosomes, an event known as lysosomal membrane permeability (LMP).",
-,"The midway point coincides with the First World War, an event identified as pivotal to the rise of national feeling, but which also determined the extent and nature...",
-,The event identified as Tertiary appears to originate slightly above the Or. Marker zone identified in the tests in the area. The contour interpretation shows...,
-,An event identified as deferred by a state that does not fire any trigger is not dispatched and is therefore never consumed. Event may potentially trigger some ...,
-,"Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka...",
-,"... Lake Agassiz into the Labrador Sea, an event identified as causing a reduction in Atlantic meridional overturning circulation (AMOC) and the 8.2 ka cold event.",
-,The event identified as ion of charge (Z)=252. Energy of the ion (iron) when it enters to the PET is ~150 MeV. Track length in CR-39 is determined (~24.51.75 ...,
-,"... which inspired the Anthropological Exhibition of 1882, an event understood as a necessary complement to the Exposio de Histria do Brasil, held in 1881 in...",
-,model provides no definition of the underlying conceptualization of real world events. An event understood as information object has relations only to other in-.,
+in probability theory an event is set of outcomes of an experiment subset of the sample space to which probability is assigned single outcome may be
+in probability theory an event is set of outcomes of an experiment subset of the sample space to which probability is assigned single outcome may be
+an event is message sent by an object to signal the occurrence of an action the action could be caused by user interaction such as button click or it could
+an event is message sent by an object to signal the occurrence of an action the action could be caused by user interaction such as button click or it could
+the event is 2003 drama film directed by thom fitzgerald it tells the story of matt shapiro don mckellar who has died in manhattan resulting in an aborted
+the event is 2003 drama film directed by thom fitzgerald it tells the story of matt shapiro don mckellar who has died in manhattan resulting in an aborted
+an event is way for class to allow clients to give it delegates to methods that should be called when the event occurs when the event occurs the delegate
+an event is way for class to allow clients to give it delegates to methods that should be called when the event occurs when the event occurs the delegate
+an event is signal that informs an application that something important has occurred for example when user clicks control on form the form can raise
+an event is signal that informs an application that something important has occurred for example when user clicks control on form the form can raise
+an event is subset of the sample space that is an event is subset of all possible outcomes we refer to this subset of outcomes as favourable outcomes
+an event is subset of the sample space that is an event is subset of all possible outcomes we refer to this subset of outcomes as favourable outcomes
+the event is partnership between the shanghai airport authority and the national business aviation association nbaa and co hosted by
+the event is partnership between the shanghai airport authority and the national business aviation association nbaa and co hosted by
+an event is notification by the net framework that an action has occurred each event contains information about the specific event mouse click would
+an event is notification by the net framework that an action has occurred each event contains information about the specific event mouse click would
+an event is time of celebration posted january 2012 if that sacred aztec calendar called the eagle bowl is to be followed this year makes great excuse
+an event is time of celebration posted january 2012 if that sacred aztec calendar called the eagle bowl is to be followed this year makes great excuse
+an event is subset of all of the possible outcomes of an experiment for example if an experiment consists of flipping coin two times the possible outcomes
+an event is subset of all of the possible outcomes of an experiment for example if an experiment consists of flipping coin two times the possible outcomes
+an event is set of outcomes it is subset of the sample space for an activity or experiment event drawing black card from deck of standard cards
+an event is set of outcomes it is subset of the sample space for an activity or experiment event drawing black card from deck of standard cards
+an event is member that enables an object or class to provide notifications clients can attach executable code for events by supplying event handlers
+an event is member that enables an object or class to provide notifications clients can attach executable code for events by supplying event handlers
+an event is defined as any outcome that can occur there are two main categories of events deterministic and probabilistic deterministic event always has
+an event is defined as any outcome that can occur there are two main categories of events deterministic and probabilistic deterministic event always has
+an event is defined as series of motion images taken within short timeframe recommended value is 60 seconds default the value is allowed but not
+an event is defined as series of motion images taken within short timeframe recommended value is 60 seconds default the value is allowed but not
+an event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the
+an event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the
+for popo the event is defined as occurring if the metar record observation at the hour reports precipitation for the popo3 the event is
+for popo the event is defined as occurring if the metar record observation at the hour reports precipitation for the popo3 the event is
+an event is defined as festival if one or more of the following activities occur an admission fee is charged vendors sell products wares carnival
+an event is defined as festival if one or more of the following activities occur an admission fee is charged vendors sell products wares carnival
+an event is defined as single action in the game that can be attributed to player it can be everything from tutorial step to the firing of weapon we group
+an event is defined as single action in the game that can be attributed to player it can be everything from tutorial step to the firing of weapon we group
+an event is defined as any significant deviation from the normal expected functioning of plant when an event occurs the affected plant management and staff
+an event is defined as any significant deviation from the normal expected functioning of plant when an event occurs the affected plant management and staff
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+such events are called alerting events an event is defined as alerting if at the time of the event generation it was matched by an alerting rule meaning rule
+such events are called alerting events an event is defined as alerting if at the time of the event generation it was matched by an alerting rule meaning rule
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+an event is defined as each line item that contains an asc service 35 ptb_drug_mdcr_pmt ptb_drug_mdcr_pmt part drug medicare payments
+an event is defined as each line item that contains an asc service 35 ptb_drug_mdcr_pmt ptb_drug_mdcr_pmt part drug medicare payments
+an event is defined as an occurrence especially one that is particularly significant interesting exciting or unusual events are once in lifetime experiences
+an event is defined as an occurrence especially one that is particularly significant interesting exciting or unusual events are once in lifetime experiences
+an event is defined as the rising edge of an input pulse that all there is to it one pulse in one time stamp out the picpet works equally well
+an event is defined as the rising edge of an input pulse that all there is to it one pulse in one time stamp out the picpet works equally well
+an event is defined as the occurrence of downtime damages and near misses dirt provides industry stakeholders with way to anonymously submit data
+an event is defined as the occurrence of downtime damages and near misses dirt provides industry stakeholders with way to anonymously submit data
+an event is defined as birth adoption death marriage divorce dependent gaining or losing dependency status and in some cases relocation you must
+an event is defined as birth adoption death marriage divorce dependent gaining or losing dependency status and in some cases relocation you must
+ae grades are determined based on the pass fail rate based on the most current 14 events in the plan review system an event is defined as plan review cycle
+ae grades are determined based on the pass fail rate based on the most current 14 events in the plan review system an event is defined as plan review cycle
+an event is defined as anything that is not regularly scheduled academic class including film screenings tutoring sessions meetings public concerts or
+an event is defined as anything that is not regularly scheduled academic class including film screenings tutoring sessions meetings public concerts or
+in the aix event infrastructure an event is defined as any change of state or value that can be detected by the kernel or kernel extension at the time the
+in the aix event infrastructure an event is defined as any change of state or value that can be detected by the kernel or kernel extension at the time the
+movement and mobility is detected using low cost infra red ir sensors an event is defined as series of interruptions of the ir beam terminated by silent
+movement and mobility is detected using low cost infra red ir sensors an event is defined as series of interruptions of the ir beam terminated by silent
+in computing an event is an action or occurrence detected by the program that may be handled by the program typically events are handled synchronously
+in computing an event is an action or occurrence detected by the program that may be handled by the program typically events are handled synchronously
+an event is an activity that lasts 24 hours or longer examples of an event include trade show seminar or vacation in this article more information about
+an event is an activity that lasts 24 hours or longer examples of an event include trade show seminar or vacation in this article more information about
+an event is an action or occurrence such as mouse click or credit limit exceeded that is recognized by some program component and for which you can
+an event is an action or occurrence such as mouse click or credit limit exceeded that is recognized by some program component and for which you can
+the event is an emotional high octane conspiracy thriller with sci fi elements that follows sean walker jason ritter the class
+the event is an emotional high octane conspiracy thriller with sci fi elements that follows sean walker jason ritter the class
+an event is an association between delegate and member function event handler that responds to the triggering of the event and allows clients from any
+an event is an association between delegate and member function event handler that responds to the triggering of the event and allows clients from any
+an event is an occasion like meeting or lunch which doesn require responsible party or deliverable events are good markers for meetings or travel plans
+an event is an occasion like meeting or lunch which doesn require responsible party or deliverable events are good markers for meetings or travel plans
+the event synopsis the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an
+the event synopsis the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an
+the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an everyman who investigates the mysterious
+the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an everyman who investigates the mysterious
+the event is an early glimpse of what the 12 supercommittee members could face after they try to slice trillion in spending this fall they ll
+the event is an early glimpse of what the 12 supercommittee members could face after they try to slice trillion in spending this fall they ll
+an event is an activity that happens at given place and time they are listed in the zoho crm home page of the user activities home page calendar and in
+an event is an activity that happens at given place and time they are listed in the zoho crm home page of the user activities home page calendar and in
+set up like public forum the event is an opportunity for the community to see the fascinating high level work sdsu students and faculty are
+set up like public forum the event is an opportunity for the community to see the fascinating high level work sdsu students and faculty are
+an event is an important time and place in the story usually something to keep in mind later on in the story forshadowing the event of story are the important
+an event is an important time and place in the story usually something to keep in mind later on in the story forshadowing the event of story are the important
+community building event benefitting youth services in west los angeles santa monica ca description the event is an all day cultural arts festival
+community building event benefitting youth services in west los angeles santa monica ca description the event is an all day cultural arts festival
+an event is an occasion where you gather people together to create discuss dance decide build you name it examples of events range from workshop on
+an event is an occasion where you gather people together to create discuss dance decide build you name it examples of events range from workshop on
+an event is an action initiated either by user action or by other vba code an event procedure is sub procedure that you write according to
+an event is an action initiated either by user action or by other vba code an event procedure is sub procedure that you write according to
+an event is any activity that requires you to make arrangements before the program can actually take place it may be anything from an introductory meeting or
+an event is any activity that requires you to make arrangements before the program can actually take place it may be anything from an introductory meeting or
+in windows xp an event is any significant occurrence in the system or in program that requires users to be notified or an entry added to log the event log
+in windows xp an event is any significant occurrence in the system or in program that requires users to be notified or an entry added to log the event log
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any set of outcomes of random experiment that is any subset of the sample space of the experiment the probability of given event is the sum of
+an event is any set of outcomes of random experiment that is any subset of the sample space of the experiment the probability of given event is the sum of
+where represents heads and represents tails an event is any collection subset of outcomes contained in the sample space we sometimes use the word
+where represents heads and represents tails an event is any collection subset of outcomes contained in the sample space we sometimes use the word
+an event is any collection of outcomes examples of events for tossing number cube are that the number tossed is even that the number is or or that the
+an event is any collection of outcomes examples of events for tossing number cube are that the number tossed is even that the number is or or that the
+in computing context an event is any identifiable occurrence that has significance for system hardware or software as such events include both
+in computing context an event is any identifiable occurrence that has significance for system hardware or software as such events include both
+an event is any subset of the possible outcomes of trial for example when we roll pair of dice there are 36 possible outcomes see problem 21 an event
+an event is any subset of the possible outcomes of trial for example when we roll pair of dice there are 36 possible outcomes see problem 21 an event
+an event is any collection of outcomes ex the last flips of the coin had two heads up and one tails up two events are said to be independent if the outcome
+an event is any collection of outcomes ex the last flips of the coin had two heads up and one tails up two events are said to be independent if the outcome
+an event is any collection of outcomes from probability experiment an event may consist of one outcome or more than one outcome we will denote events
+an event is any collection of outcomes from probability experiment an event may consist of one outcome or more than one outcome we will denote events
+an event is any collection of possible out comes of an experiment sample point is called an elementary or simple event we can think of simple event as
+an event is any collection of possible out comes of an experiment sample point is called an elementary or simple event we can think of simple event as
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any observable occurrence in system or network events include user connecting to file share server receiving request for web page
+an event is any observable occurrence in system or network events include user connecting to file share server receiving request for web page
+in their perspective an event is any type of action that brings the brand into the reality of the target group developing ideas and conce pts for events brands
+in their perspective an event is any type of action that brings the brand into the reality of the target group developing ideas and conce pts for events brands
+an event is any action in the vcenter server system or esx esxi host you can filter retrieved events by specifying arguments for the cmdlet parameters
+an event is any action in the vcenter server system or esx esxi host you can filter retrieved events by specifying arguments for the cmdlet parameters
+an event is any indoor or outdoor hockey match tournament or competition or other event at whatever level played and at whatever age group played including
+an event is any indoor or outdoor hockey match tournament or competition or other event at whatever level played and at whatever age group played including
+that is the roll could be or in general an event is any subset of sample space including the possibility of an the empty set see also probability
+that is the roll could be or in general an event is any subset of sample space including the possibility of an the empty set see also probability
+an event is any time you share the power of discovery with or more colleagues share an integration idea over lunch with your grade level
+an event is any time you share the power of discovery with or more colleagues share an integration idea over lunch with your grade level
+an event is any sterling connect direct message that is written to the console using scwto or dmwto each event is triggered by the sterling connect direct
+an event is any sterling connect direct message that is written to the console using scwto or dmwto each event is triggered by the sterling connect direct
+an event is any organised activity held on public land where an open area facility venue road or temporary structure is to be used by more people than are
+an event is any organised activity held on public land where an open area facility venue road or temporary structure is to be used by more people than are
+an event is any activity open to broad group of the university community examples seminars trainings conferences workshops lectures receptions concerts
+an event is any activity open to broad group of the university community examples seminars trainings conferences workshops lectures receptions concerts
+an event is any situation that can affect the success of your business event studio lets you ensure that the appropriate personnel are made aware of events
+an event is any situation that can affect the success of your business event studio lets you ensure that the appropriate personnel are made aware of events
+an event is any collection subset of outcomes contained in the sample space an event is simple if it consists of exactly one outcome and compound if it
+an event is any collection subset of outcomes contained in the sample space an event is simple if it consists of exactly one outcome and compound if it
+event details an event is any activity which utilizes the college facilities that is not registered with the registrar office event name event date
+event details an event is any activity which utilizes the college facilities that is not registered with the registrar office event name event date
+an event is any sort of activity that you want to record in dats typically this would include record some people their attendance and the associated tasks
+an event is any sort of activity that you want to record in dats typically this would include record some people their attendance and the associated tasks
+an event is any action in the vcenter server system or esx host the cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters
+an event is any action in the vcenter server system or esx host the cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters
+the first leg of the triple crown the event is characterized by wagering grand hats and mint juleps the eastern appalachian region of the state features scenic
+the first leg of the triple crown the event is characterized by wagering grand hats and mint juleps the eastern appalachian region of the state features scenic
+the event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the
+the event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the
+in vancouver the event is characterized by music poetry and other performances around the city culminating in large banquet and party this unique event
+in vancouver the event is characterized by music poetry and other performances around the city culminating in large banquet and party this unique event
+the event is characterized by the absence of both awards and selection jury there are however placement or hanging committees in contrast to the salon
+the event is characterized by the absence of both awards and selection jury there are however placement or hanging committees in contrast to the salon
+the event is characterized by actual or threatened death serious injury or threat to physical integrity symptom clusters may include re experiencing the
+the event is characterized by actual or threatened death serious injury or threat to physical integrity symptom clusters may include re experiencing the
+the event is characterized by the department of defense as broken arrow the term for the second most severe accident involving nuclear weapon the
+the event is characterized by the department of defense as broken arrow the term for the second most severe accident involving nuclear weapon the
+the event is characterized by the release of the latest news research and global trends benchmark for innovation technology and knowledge for professionals
+the event is characterized by the release of the latest news research and global trends benchmark for innovation technology and knowledge for professionals
+just as the famous american nascar the event is characterized by equal performance and bumper to bumper duels although formula is considered as the
+just as the famous american nascar the event is characterized by equal performance and bumper to bumper duels although formula is considered as the
+the event is characterized by rapid onset and more gradual demise and th data as well as annual lamina counting support rapid
+the event is characterized by rapid onset and more gradual demise and th data as well as annual lamina counting support rapid
+the event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and
+the event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and
+in st lucia the event is characterized by extravagant light displays that honor the island namesake and her work in recent years the event has focused more
+in st lucia the event is characterized by extravagant light displays that honor the island namesake and her work in recent years the event has focused more
+the event is characterized by students wearing the gown and the graduation cap and commendable achievement which until this day was
+the event is characterized by students wearing the gown and the graduation cap and commendable achievement which until this day was
+the event is characterized by an inability to speak or to move the limbs trunk and head breathing and consciousness are unaffected and the
+the event is characterized by an inability to speak or to move the limbs trunk and head breathing and consciousness are unaffected and the
+the event is characterized by an overlapping condition in which floating window partially or totally overlaps an active window on the computer screen
+the event is characterized by an overlapping condition in which floating window partially or totally overlaps an active window on the computer screen
+an event is characterized by position and time the interval between two events is x2 t2 time like intervals are imaginary we adopt an
+an event is characterized by position and time the interval between two events is x2 t2 time like intervals are imaginary we adopt an
+the event is characterized by the neighborhood to express the warm welcome of the harvest express religious dedication or honor historic event it is among
+the event is characterized by the neighborhood to express the warm welcome of the harvest express religious dedication or honor historic event it is among
+the event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with board of directors
+the event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with board of directors
+the event is characterized by family and friends gathering for great feast the exchanging of gifts the wearing of new clothes and of course attending mosque
+the event is characterized by family and friends gathering for great feast the exchanging of gifts the wearing of new clothes and of course attending mosque
+the event is characterized by persistent along coast winds in the marine layer and this pattern justifies lagrangian approach to the study slab of marine
+the event is characterized by persistent along coast winds in the marine layer and this pattern justifies lagrangian approach to the study slab of marine
+the mukojima bicycle art and net project an event conceived as way of turning this negative image into positive one aimed to beautify this part of the
+the mukojima bicycle art and net project an event conceived as way of turning this negative image into positive one aimed to beautify this part of the
+es experience program an event conceived as special showcase of local catalan talent offered free of charge to the public the daytime
+es experience program an event conceived as special showcase of local catalan talent offered free of charge to the public the daytime
+an event conceived as part of jonathan inauguration week has become controversial bribe fest in lagos with about 400 participants
+an event conceived as part of jonathan inauguration week has become controversial bribe fest in lagos with about 400 participants
+100 works of art will be offered for 000 or less an event conceived as way to bring artists and collectors together for the holidays
+100 works of art will be offered for 000 or less an event conceived as way to bring artists and collectors together for the holidays
+brazil in january 2001 an event conceived as an ideological counterblast to the world economic forum of the rich and powerful in davos
+brazil in january 2001 an event conceived as an ideological counterblast to the world economic forum of the rich and powerful in davos
+the dead an event conceived as belonging to climactic future when the risen and glorified christ will destroy the last enemy death what can be our access to
+the dead an event conceived as belonging to climactic future when the risen and glorified christ will destroy the last enemy death what can be our access to
+here some rare footage of chrissie winning her 4th virginia slims championships final in years an event considered as big as the grand slams back then
+here some rare footage of chrissie winning her 4th virginia slims championships final in years an event considered as big as the grand slams back then
+this will be the 14th fiumanka an event considered as unmissable among lovers of sailing and sailing boats from croatia and abroad
+this will be the 14th fiumanka an event considered as unmissable among lovers of sailing and sailing boats from croatia and abroad
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+ny an event described as mix between business conference and an artist open studio companies will open their doors to us plebes
+ny an event described as mix between business conference and an artist open studio companies will open their doors to us plebes
+of its kind to have occurred in kenya since the 1980s an event described as an unimaginable heinous crime by the kenya wildlife service
+of its kind to have occurred in kenya since the 1980s an event described as an unimaginable heinous crime by the kenya wildlife service
+an event described as career showcase for proposed gaming resort in toronto didn draw whole lot of public enthusiasm according to
+an event described as career showcase for proposed gaming resort in toronto didn draw whole lot of public enthusiasm according to
+filterforward optional by default true if false the event defined as the forward event won be filtered when fired when an event is forwarded to child module
+filterforward optional by default true if false the event defined as the forward event won be filtered when fired when an event is forwarded to child module
+in 2010 an event known as flash crash saw the dow jones industrial average enlarge image in 2010 an event known as flash crash
+in 2010 an event known as flash crash saw the dow jones industrial average enlarge image in 2010 an event known as flash crash
+earliest fossils which suggest that complex animals first appeared in the oceans around 500 million years ago an event known as the cambrian explosion
+earliest fossils which suggest that complex animals first appeared in the oceans around 500 million years ago an event known as the cambrian explosion
+to 30 days an event known as blocking section 12 blocking highs were first studied by rex in 1950 and later by austin to be called blocking
+to 30 days an event known as blocking section 12 blocking highs were first studied by rex in 1950 and later by austin to be called blocking
+this finding is consistent with scmas being released from lysosomes an event known as lysosomal membrane permeability lmp
+this finding is consistent with scmas being released from lysosomes an event known as lysosomal membrane permeability lmp
+the midway point coincides with the first world war an event identified as pivotal to the rise of national feeling but which also determined the extent and nature
+the midway point coincides with the first world war an event identified as pivotal to the rise of national feeling but which also determined the extent and nature
+the event identified as tertiary appears to originate slightly above the or marker zone identified in the tests in the area the contour interpretation shows
+the event identified as tertiary appears to originate slightly above the or marker zone identified in the tests in the area the contour interpretation shows
+an event identified as deferred by state that does not fire any trigger is not dispatched and is therefore never consumed event may potentially trigger some
+an event identified as deferred by state that does not fire any trigger is not dispatched and is therefore never consumed event may potentially trigger some
+agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka
+agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka
+lake agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka cold event
+lake agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka cold event
+the event identified as ion of charge 252 energy of the ion iron when it enters to the pet is 150 mev track length in cr 39 is determined 24 51 75
+the event identified as ion of charge 252 energy of the ion iron when it enters to the pet is 150 mev track length in cr 39 is determined 24 51 75
+which inspired the anthropological exhibition of 1882 an event understood as necessary complement to the exposio de histria do brasil held in 1881 in
+which inspired the anthropological exhibition of 1882 an event understood as necessary complement to the exposio de histria do brasil held in 1881 in
+model provides no definition of the underlying conceptualization of real world events an event understood as information object has relations only to other in
+model provides no definition of the underlying conceptualization of real world events an event understood as information object has relations only to other in
+in probability theory an event is set of outcomes of an experiment subset of the sample space to which probability is assigned single outcome may be
+an event is message sent by an object to signal the occurrence of an action the action could be caused by user interaction such as button click or it could
+the event is 2003 drama film directed by thom fitzgerald it tells the story of matt shapiro don mckellar who has died in manhattan resulting in an aborted
+an event is way for class to allow clients to give it delegates to methods that should be called when the event occurs when the event occurs the delegate
+an event is signal that informs an application that something important has occurred for example when user clicks control on form the form can raise
+an event is subset of the sample space that is an event is subset of all possible outcomes we refer to this subset of outcomes as favourable outcomes
+the event is partnership between the shanghai airport authority and the national business aviation association nbaa and co hosted by
+an event is notification by the net framework that an action has occurred each event contains information about the specific event mouse click would
+an event is time of celebration posted january 2012 if that sacred aztec calendar called the eagle bowl is to be followed this year makes great excuse
+an event is subset of all of the possible outcomes of an experiment for example if an experiment consists of flipping coin two times the possible outcomes
+an event is set of outcomes it is subset of the sample space for an activity or experiment event drawing black card from deck of standard cards
+an event is member that enables an object or class to provide notifications clients can attach executable code for events by supplying event handlers
+an event is defined as any outcome that can occur there are two main categories of events deterministic and probabilistic deterministic event always has
+an event is defined as series of motion images taken within short timeframe recommended value is 60 seconds default the value is allowed but not
+an event is defined as possibly related to the research when it may have been caused by the research but there is insufficient information to determine the
+for popo the event is defined as occurring if the metar record observation at the hour reports precipitation for the popo3 the event is
+an event is defined as festival if one or more of the following activities occur an admission fee is charged vendors sell products wares carnival
+an event is defined as single action in the game that can be attributed to player it can be everything from tutorial step to the firing of weapon we group
+an event is defined as any significant deviation from the normal expected functioning of plant when an event occurs the affected plant management and staff
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+such events are called alerting events an event is defined as alerting if at the time of the event generation it was matched by an alerting rule meaning rule
+the event is defined as when the actual close of the stock price drops below 00 more specifically when price price
+an event is defined as each line item that contains an asc service 35 ptb_drug_mdcr_pmt ptb_drug_mdcr_pmt part drug medicare payments
+an event is defined as an occurrence especially one that is particularly significant interesting exciting or unusual events are once in lifetime experiences
+an event is defined as the rising edge of an input pulse that all there is to it one pulse in one time stamp out the picpet works equally well
+an event is defined as the occurrence of downtime damages and near misses dirt provides industry stakeholders with way to anonymously submit data
+an event is defined as birth adoption death marriage divorce dependent gaining or losing dependency status and in some cases relocation you must
+ae grades are determined based on the pass fail rate based on the most current 14 events in the plan review system an event is defined as plan review cycle
+an event is defined as anything that is not regularly scheduled academic class including film screenings tutoring sessions meetings public concerts or
+in the aix event infrastructure an event is defined as any change of state or value that can be detected by the kernel or kernel extension at the time the
+movement and mobility is detected using low cost infra red ir sensors an event is defined as series of interruptions of the ir beam terminated by silent
+in computing an event is an action or occurrence detected by the program that may be handled by the program typically events are handled synchronously
+an event is an activity that lasts 24 hours or longer examples of an event include trade show seminar or vacation in this article more information about
+an event is an action or occurrence such as mouse click or credit limit exceeded that is recognized by some program component and for which you can
+the event is an emotional high octane conspiracy thriller with sci fi elements that follows sean walker jason ritter the class
+an event is an association between delegate and member function event handler that responds to the triggering of the event and allows clients from any
+an event is an occasion like meeting or lunch which doesn require responsible party or deliverable events are good markers for meetings or travel plans
+the event synopsis the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an
+the event is an emotional high octane conspiracy thriller that follows sean walker jason ritter the class an everyman who investigates the mysterious
+the event is an early glimpse of what the 12 supercommittee members could face after they try to slice trillion in spending this fall they ll
+an event is an activity that happens at given place and time they are listed in the zoho crm home page of the user activities home page calendar and in
+set up like public forum the event is an opportunity for the community to see the fascinating high level work sdsu students and faculty are
+an event is an important time and place in the story usually something to keep in mind later on in the story forshadowing the event of story are the important
+community building event benefitting youth services in west los angeles santa monica ca description the event is an all day cultural arts festival
+an event is an occasion where you gather people together to create discuss dance decide build you name it examples of events range from workshop on
+an event is an action initiated either by user action or by other vba code an event procedure is sub procedure that you write according to
+an event is any activity that requires you to make arrangements before the program can actually take place it may be anything from an introductory meeting or
+in windows xp an event is any significant occurrence in the system or in program that requires users to be notified or an entry added to log the event log
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any set of outcomes of random experiment that is any subset of the sample space of the experiment the probability of given event is the sum of
+where represents heads and represents tails an event is any collection subset of outcomes contained in the sample space we sometimes use the word
+an event is any collection of outcomes examples of events for tossing number cube are that the number tossed is even that the number is or or that the
+in computing context an event is any identifiable occurrence that has significance for system hardware or software as such events include both
+an event is any subset of the possible outcomes of trial for example when we roll pair of dice there are 36 possible outcomes see problem 21 an event
+an event is any collection of outcomes ex the last flips of the coin had two heads up and one tails up two events are said to be independent if the outcome
+an event is any collection of outcomes from probability experiment an event may consist of one outcome or more than one outcome we will denote events
+an event is any collection of possible out comes of an experiment sample point is called an elementary or simple event we can think of simple event as
+an event is any collection of outcomes of an experiment formally any subset of the sample space is an event any event which consists of single outcome in
+an event is any observable occurrence in system or network events include user connecting to file share server receiving request for web page
+in their perspective an event is any type of action that brings the brand into the reality of the target group developing ideas and conce pts for events brands
+an event is any action in the vcenter server system or esx esxi host you can filter retrieved events by specifying arguments for the cmdlet parameters
+an event is any indoor or outdoor hockey match tournament or competition or other event at whatever level played and at whatever age group played including
+that is the roll could be or in general an event is any subset of sample space including the possibility of an the empty set see also probability
+an event is any time you share the power of discovery with or more colleagues share an integration idea over lunch with your grade level
+an event is any sterling connect direct message that is written to the console using scwto or dmwto each event is triggered by the sterling connect direct
+an event is any organised activity held on public land where an open area facility venue road or temporary structure is to be used by more people than are
+an event is any activity open to broad group of the university community examples seminars trainings conferences workshops lectures receptions concerts
+an event is any situation that can affect the success of your business event studio lets you ensure that the appropriate personnel are made aware of events
+an event is any collection subset of outcomes contained in the sample space an event is simple if it consists of exactly one outcome and compound if it
+event details an event is any activity which utilizes the college facilities that is not registered with the registrar office event name event date
+an event is any sort of activity that you want to record in dats typically this would include record some people their attendance and the associated tasks
+an event is any action in the vcenter server system or esx host the cmdlet collects events that correspond to the filter criteria defined by the cmdlet parameters
+the first leg of the triple crown the event is characterized by wagering grand hats and mint juleps the eastern appalachian region of the state features scenic
+the event is characterized by strongly delayed energetic particle onsets with respect to the flare and only small or no anisotropies in the
+in vancouver the event is characterized by music poetry and other performances around the city culminating in large banquet and party this unique event
+the event is characterized by the absence of both awards and selection jury there are however placement or hanging committees in contrast to the salon
+the event is characterized by actual or threatened death serious injury or threat to physical integrity symptom clusters may include re experiencing the
+the event is characterized by the department of defense as broken arrow the term for the second most severe accident involving nuclear weapon the
+the event is characterized by the release of the latest news research and global trends benchmark for innovation technology and knowledge for professionals
+just as the famous american nascar the event is characterized by equal performance and bumper to bumper duels although formula is considered as the
+the event is characterized by rapid onset and more gradual demise and th data as well as annual lamina counting support rapid
+the event is characterized by having top international creative directors join their local counterparts live and via the internet on large screens to analyze and
+in st lucia the event is characterized by extravagant light displays that honor the island namesake and her work in recent years the event has focused more
+the event is characterized by students wearing the gown and the graduation cap and commendable achievement which until this day was
+the event is characterized by an inability to speak or to move the limbs trunk and head breathing and consciousness are unaffected and the
+the event is characterized by an overlapping condition in which floating window partially or totally overlaps an active window on the computer screen
+an event is characterized by position and time the interval between two events is x2 t2 time like intervals are imaginary we adopt an
+the event is characterized by the neighborhood to express the warm welcome of the harvest express religious dedication or honor historic event it is among
+the event is characterized by spirit of love and intimacy between the company and its distributors who have held friendly conversations with board of directors
+the event is characterized by family and friends gathering for great feast the exchanging of gifts the wearing of new clothes and of course attending mosque
+the event is characterized by persistent along coast winds in the marine layer and this pattern justifies lagrangian approach to the study slab of marine
+the mukojima bicycle art and net project an event conceived as way of turning this negative image into positive one aimed to beautify this part of the
+es experience program an event conceived as special showcase of local catalan talent offered free of charge to the public the daytime
+an event conceived as part of jonathan inauguration week has become controversial bribe fest in lagos with about 400 participants
+100 works of art will be offered for 000 or less an event conceived as way to bring artists and collectors together for the holidays
+brazil in january 2001 an event conceived as an ideological counterblast to the world economic forum of the rich and powerful in davos
+the dead an event conceived as belonging to climactic future when the risen and glorified christ will destroy the last enemy death what can be our access to
+here some rare footage of chrissie winning her 4th virginia slims championships final in years an event considered as big as the grand slams back then
+this will be the 14th fiumanka an event considered as unmissable among lovers of sailing and sailing boats from croatia and abroad
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+strongbow henchman of henry ii arrive in waterford at the behest of dermot mcmurrough an event described as the beginning of the woes of ireland
+ny an event described as mix between business conference and an artist open studio companies will open their doors to us plebes
+of its kind to have occurred in kenya since the 1980s an event described as an unimaginable heinous crime by the kenya wildlife service
+an event described as career showcase for proposed gaming resort in toronto didn draw whole lot of public enthusiasm according to
+filterforward optional by default true if false the event defined as the forward event won be filtered when fired when an event is forwarded to child module
+in 2010 an event known as flash crash saw the dow jones industrial average enlarge image in 2010 an event known as flash crash
+earliest fossils which suggest that complex animals first appeared in the oceans around 500 million years ago an event known as the cambrian explosion
+to 30 days an event known as blocking section 12 blocking highs were first studied by rex in 1950 and later by austin to be called blocking
+this finding is consistent with scmas being released from lysosomes an event known as lysosomal membrane permeability lmp
+the midway point coincides with the first world war an event identified as pivotal to the rise of national feeling but which also determined the extent and nature
+the event identified as tertiary appears to originate slightly above the or marker zone identified in the tests in the area the contour interpretation shows
+an event identified as deferred by state that does not fire any trigger is not dispatched and is therefore never consumed event may potentially trigger some
+agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka
+lake agassiz into the labrador sea an event identified as causing reduction in atlantic meridional overturning circulation amoc and the ka cold event
+the event identified as ion of charge 252 energy of the ion iron when it enters to the pet is 150 mev track length in cr 39 is determined 24 51 75
+which inspired the anthropological exhibition of 1882 an event understood as necessary complement to the exposio de histria do brasil held in 1881 in
+model provides no definition of the underlying conceptualization of real world events an event understood as information object has relations only to other in

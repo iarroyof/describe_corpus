@@ -1,106 +1,106 @@
-,"GuildFTPd (GuildFTPd.exe). The application is a free and easy to use FTP (File Transfer Protocol) Server. The Group creation is a very simple task, following the..."
-,"This wallpaper is available on Google Play. The application is a trial version. After 24 hours, you will be prompted to buy the full version for $ 0..."
-,"The application is a kind of presentation of the possibility and user manual for DS Multi-8 watches. Built for mobile devices (iPad, iPhone, Android, Nokia..."
-,"IconUtility. The application is a convenient icon generation tool can help you quickly generate application icons, including various sizes for iOS application icon..."
-,An application is a method of requesting payment for work carried out to a specific date. If the client agrees he will certify the amount he intends...
-,... Administration Building and pick one up. The application is a set of forms that you will need to complete and deliver or mail to LISD. Professional Application...
-,The application is a key marketing tool for the applicant in the job-......... process. (a) advertising (b) gathering (c) seeking (d) wanted. Business...
-,"The application is a national phase application of the corresponding international application (see Diagrams A, A', and A'' in Annex A), ii. The application is a..."
-,"The application is a one-stop solution for readers to catch up with the latest and unrivalled coverage of national and international news, business, politics, city,..."
-,"The application is a slide puzzle game of pictures of Luigi where a picture is cut into pieces and the pieces are disarranged randomly for you to arrange,make a..."
-,"The application is a very simple process, said Samm Haillay, producer at Third Films. The Creative Skillset team guided me through the..."
-,"The application is a Java-J2EE, Spring, Webservice based Application. Developed batch jobs using quartz for data purging in accordance with the business..."
-,"... but does not contain additional fields or data that must be migrated, the application is a Quadrant 1 or 2 application. Continue to question 3."
-,The application is a chart building tool that allows visualizing any statistical data into charts and graphs. It is focused on creating financial charts that reflect price...
-,The application is a free version with limited functionality. Free scanning for drivers updates. Type your e-mail to receive news and discounts (Optional).
-,"Introduction to Applications in Hyperic. In Hyperic, an application is a collection of services that together fulfill a single business purpose. This concept reflects..."
-,"windows, The application is a Windows GUI application. console, app template only: the application is a Windows console application."
-,An application is defined as a downloadable game or tool for computers and some handheld devices. An example of an application is the game Angry Birds.
-,"For static testing, an application is defined as a deployable unit of code that can be configured to run on an application server. ex: a WAR (Web..."
-,"An application is defined as software that uses a browser (such as Internet Explorer, Google Chrome, or Firefox) to interact with the user. This allows most..."
-,"... scientific knowledge, and technology. an application is defined as: innovative uses of mission data products in decision-making activities for societal benefit."
-,An application is defined as one of the following: A. An application for a zoning map amendment as part of a piecemeal or floating zone rezoning proceeding;. B.
-,"For purposes of this document, an application is defined as software that runs on an operating system and performs tasks on behalf of the user..."
-,"An application is defined as a product for a particular customer (i.e. ABC Bank has an Escrow statement, a mortgage bill and a late notice these are three..."
-,An application is defined as a process created using a QW Software Product to meet a specific customer need. Examples of these definitions are Quality Window...
-,. An application is defined as set of dialog blocks. A typical dialog block involves: Prompt user for input; Listen for a response; Determine what to do next.
-,"An application is defined as a single web site, service or web application. An application is not intended to mean a server or CPU running multiple applications."
-,Control Chart (ECC) (see Figure 2) to decide which algorithms are called depending on input events. An application is defined as a network of function blocks.
-,An application is defined as a computer program designed to help people perform a certain type of work (or recreation!). Examples of applications include word...
-,"An application is defined as a related set of processing functions and supporting database objects (tables, indices, etc.) implemented as an integrated unit."
-,"In the context of Oracle CEP deployment, an application is defined as an OSGi bundle JAR file that contains the following artifacts: The compiled Java class files..."
-,an application is defined as: three (3) standard runs followed by one (1) sample run. 3. instruction on the use of the system with that particular application.
-,"According to dictionary.com, an application is defined as the act of putting something to a special use or purpose. The Office of Student Life at Little Rock..."
-,An application is defined as a scope so a single bundle will not get its own log file unless it is a Web application Bundle or is included in a...
-,"An application is defined as a hierarchy of widgets. Some of these widgets are generic and provided by the library (like push buttons, line edits,..."
-,"An application is defined as the submission of six pieces of information: (1) the consumer's name, (2) the consumer's income, (3) the..."
-,"This is expressed through two datatypes: Request and Response. Then, an Application is defined as type Application = Request -> ResourceT IO Response ."
-,"An application is defined as a single named executable. A fully qualified domain is defined as the complete domain, including subdomains. In addition to saving..."
-,"An application is an original court proceeding. 2. An application, on notice, requires notification of the application by the applicant on the Respondent. 3."
-,(a) The application is an original nonprovisional utility application filed under 35 U.S.C. 111(a). This certification and request is being filed with the utility...
-,"The application is an alternative to other similar applications to automate tasks, handle profiles, etc.: Tasker, AutomateIt, Llama, Locale, Profiles,..."
-,The application is an educational and informational tool that will assist the clinician by citing contextually relevant references from the medical literature...
-,"In Hyperic, an application is an inventory type that is a collection of other inventory resources. This page describes the purpose of applications in Hyperic, and..."
-,The application is an alteration to a watercourse and it will not negatively affect the watercourse. Other: No instream work will occur between...
-,"No, the application is an application so therefor the answers to the application are just that. Once a policy is issued it is not a warranty but a contract. If you pay..."
-,Policy Application: The application is an alteration to a watercourse and it will not negatively affect the watercourse. The application is within the...
-,"If the application is an online magazine, for example, the user sees only the ... In this model, an application is an XAML interface with a backend API giving direct..."
-,"""The application is an invitation to an encounter. Encounter of the child with himself, his parents and care givers and an encounter with the world..."""
-,"The application is an interactive PDF, meaning you may type on it, rather than hand-write in the fields. We do not accept applications through e-mail. Please print..."
-,"=20 > The application is an ASP.NET app and, unfortunately, asp.net=20 > places all assemblies into separate ""Temporary ASP.NET""=20 > folders indexed by..."
-,"The application is an Excel Add-In Toolkit for Fund-wide use in the Global Financial Stability Report (GFSR), regional surveillance, spillover reporting, and stress..."
-,"The application is an affidavit where you and your prospective spouse must list your name; current address; city, state, ZIP code and country; country of birth;..."
-,The application is an extension for a Multiple Entry Work Permit. The job has changed from the previous application. The employer has changed from the...
-,... spas are required to be reviewed by our Department. There is a $150.00 permit fee required for each new facility. The application is an available download.
-,"The application is an Adobe Acrobat file, and you will need the free Acrobat Reader to open this file. Click the Adobe icon to download Adobe reader."
-,The application is an online submission. Applicants must complete all sections of the grant application. Incomplete applications will be rejected. Please do not...
-,"The application is an online form. You must be logged in to the Middlebury site to use this form. If you are unable to log in to access the form, please contact..."
-,This output indicates the result of adding tags to a resource. Application. An application is any Amazon or third-party software that you can add to the cluster.
-,"An application is any directory that contains your files, and optionally a torquebox.yml to wire it all up. An a-la-carte application is deployed with..."
-,"An application is any file that is executable by Microsoft Windows operating systems, either directly or through file associations, excluding any .ps1 files or..."
-,"An application is any program that a computer runs that enables you to get things done. This includes things like word processors for creating text, graphics..."
-,An application is any program that has a main() method. This new main() does what a browser does. The main method should do the following: Create a window...
-,"An application is any program, utility, or other software package that you run on your desktop. Applications comprise the following standard user interface..."
-,"An application is any piece or code, collection of files or other entity that you wish to deploy. An application need not be code with a running process and can..."
-,The application is any In-Situ. Resource Utilization (ISRU) process that desires to extract or produce water from lunar or planetary regolith. The present work is...
-,"... or improvement that can be developed as function libraries, etc. An application is any software that does not enhance/extend/augment XBasic programming."
-,"Under the BizTalk application model, an application is any system that fits all three of the following criteria. First, it stores and executes..."
-,"A: An application is any request from a borrower, however communicated, for an offer. (or in response to a solicitation of an offer) of residential mortgage loan..."
-,An application is any sort of program that has a clear function. Though most will not define something with limited to no GUI (Graphical User Interface) as an...
-,An application is any process that occurs above the Transport Layer. This includes all of the processes that involve user interaction. The application determines...
-,The application is characterized by an essential design in order to optimize the lighting performance with a polymer window which is connected with a wide...
-,The application is characterized by groups of users acquiring popular video programs over a fading channel. To accommodate various bandwidth requirements...
-,"The application is characterized by a web-based architecture, and it works with a web-accessible console. This console allows the Responsible of the..."
-,"In addition, the application is characterized by a strong correlation of successive events. Strong correlation between successive events. The ViSAGE platform's..."
-,"The application is characterized by a highly irregular tree-structured computation. No estimation is available for task workloads, which show a..."
-,"The application is characterized by its ease-of-use and comprehensive functionality, including automatic variant characterization based on the..."
-,The application is characterized by an inconsistent strategy that is hard to unravel. 3. Business Centered - Control and coordination placed in objects modeling...
-,"The application is characterized by a high scalability which enables customers to choose, among the available modules, which functions are to be implemented..."
-,"The application is characterized by extreme directness and usability: a series of reports, customizable and available in real time immediately after uploading..."
-,"The application is characterized by a highly irregular tree-structured computation. No estimation is available for task workloads, which show a power-law..."
-,The application is characterized by a given communication task graph (CTG). Traffic information (communication pairs and volume) are obtained through.
-,the application is characterized by: transparency and clarity because many structured information can be displayed visually in diagram form (e.g. balance of...
-,"patients. The application is characterized by convenient handling, a reliable bond and a wide range of indications. This has been documented with a certificate."
-,The application is characterized by a module design which allows its development. Stowarzyszenie Emitentw Giedowych (Association of Stock Exchange...
-,The application is characterized by a duty profile. It specifies the different power demands and respective runtime fractions. Part -1. General requirements for.
-,"The application is characterized by a friendly user interface where the ability of viewing all the resources of the time-table is provided, such as appearance per..."
-,"The application is characterized by identifying the relevant objects that are handled, their properties, and the requirements for handling them correctly. Work flow..."
-,"The application is characterized by small size and ease of use . AdwCleaner is possible to start from any storage medium , including portable..."
-,"Once the development of an application is finished, we can proceed to its deploy- ment. An application is characterized by the description file of the component."
-,"The application is characterized by strong redundancy requirements due to the fact, that con-tinuous pipeline operation is strictly required. KLDS E-RTTM based..."
-,"The application is characterized by A = {G, , max}. P. Kumar, L. Thiele (TIK, ETH Zrich). Thermally Optimal Stop-Go Scheduling. ASP-DAC..."
-,"Popcorn Time, an application described as a sort of Netflix for streaming pirated content via torrent-sharing sites, has been removed by its..."
-,"The application described as a new, lightweight, cross-platform integrated development environment (IDE) designed to make development with..."
-,"BulbTrip, an application described as a ""Zappos for residential lighting,"" took home a $6000 grand prize this past weekend at the Second..."
-,The application described as one under Section 151 CPC does not mention any good cause within Order IX Rule 7 save and except repeatedly harping on the...
-,"An application defined as the start of a new use of the premises, the re-establishment on the premises of a use that has been abandoned or a..."
-,"... corresponding to 0.6 metric tonnes, was virgin halon 1211 for use in the aviation industry, an application defined as critical in its submission."
-,The application known as eSPO (electronic Senior Performance Official) communicated assessment progress visually through a cross tabular matrix which...
-,"Regardless, the application known as HealthKit is geared primarily to take medical data that users have stored and share that with doctors and..."
-,"... genetic information, an application known as pharmacogenomics. OBJECTIVE: To evaluate the potential role of pharmacogenomics in reducing the incidence..."
-,"An application known as ""Sendori"" apparently makes some changes to Internet Explorer 10 that affect browsing in General. Most people do not even know they..."
-,"The application known as Procurement Desktop Defense (PD2) is used by over 23,000 procurement officers (as of June 2005) for buying everything from office..."
-,The application identified as LUC 2009 1555 in respect of a Comprehensive Development. Plan (CDP) over an area of 25.15 ha incorporating...
-,... incites violence; or; Community Objection - i.e. an application identified as representing a specific community is not representative of the specified community.
-,The application identified as places to be searched only the defendant's apartment and the two automobiles; warrants ultimately issued listing...
-,The application identified as places to be searched only the defendant's apartment and the two automobiles; warrants ultimately issued listing...
+guildftpd guildftpd exe the application is free and easy to use ftp file transfer protocol server the group creation is very simple task following the
+this wallpaper is available on google play the application is trial version after 24 hours you will be prompted to buy the full version for
+the application is kind of presentation of the possibility and user manual for ds multi watches built for mobile devices ipad iphone android nokia
+iconutility the application is convenient icon generation tool can help you quickly generate application icons including various sizes for ios application icon
+an application is method of requesting payment for work carried out to specific date if the client agrees he will certify the amount he intends
+administration building and pick one up the application is set of forms that you will need to complete and deliver or mail to lisd professional application
+the application is key marketing tool for the applicant in the job process advertising gathering seeking wanted business
+the application is national phase application of the corresponding international application see diagrams and in annex ii the application is
+the application is one stop solution for readers to catch up with the latest and unrivalled coverage of national and international news business politics city
+the application is slide puzzle game of pictures of luigi where picture is cut into pieces and the pieces are disarranged randomly for you to arrange make
+the application is very simple process said samm haillay producer at third films the creative skillset team guided me through the
+the application is java j2ee spring webservice based application developed batch jobs using quartz for data purging in accordance with the business
+but does not contain additional fields or data that must be migrated the application is quadrant or application continue to question
+the application is chart building tool that allows visualizing any statistical data into charts and graphs it is focused on creating financial charts that reflect price
+the application is free version with limited functionality free scanning for drivers updates type your mail to receive news and discounts optional
+introduction to applications in hyperic in hyperic an application is collection of services that together fulfill single business purpose this concept reflects
+windows the application is windows gui application console app template only the application is windows console application
+an application is defined as downloadable game or tool for computers and some handheld devices an example of an application is the game angry birds
+for static testing an application is defined as deployable unit of code that can be configured to run on an application server ex war web
+an application is defined as software that uses browser such as internet explorer google chrome or firefox to interact with the user this allows most
+scientific knowledge and technology an application is defined as innovative uses of mission data products in decision making activities for societal benefit
+an application is defined as one of the following an application for zoning map amendment as part of piecemeal or floating zone rezoning proceeding
+for purposes of this document an application is defined as software that runs on an operating system and performs tasks on behalf of the user
+an application is defined as product for particular customer abc bank has an escrow statement mortgage bill and late notice these are three
+an application is defined as process created using qw software product to meet specific customer need examples of these definitions are quality window
+an application is defined as set of dialog blocks typical dialog block involves prompt user for input listen for response determine what to do next
+an application is defined as single web site service or web application an application is not intended to mean server or cpu running multiple applications
+control chart ecc see figure to decide which algorithms are called depending on input events an application is defined as network of function blocks
+an application is defined as computer program designed to help people perform certain type of work or recreation examples of applications include word
+an application is defined as related set of processing functions and supporting database objects tables indices etc implemented as an integrated unit
+in the context of oracle cep deployment an application is defined as an osgi bundle jar file that contains the following artifacts the compiled java class files
+an application is defined as three standard runs followed by one sample run instruction on the use of the system with that particular application
+according to dictionary com an application is defined as the act of putting something to special use or purpose the office of student life at little rock
+an application is defined as scope so single bundle will not get its own log file unless it is web application bundle or is included in
+an application is defined as hierarchy of widgets some of these widgets are generic and provided by the library like push buttons line edits
+an application is defined as the submission of six pieces of information the consumer name the consumer income the
+this is expressed through two datatypes request and response then an application is defined as type application request resourcet io response
+an application is defined as single named executable fully qualified domain is defined as the complete domain including subdomains in addition to saving
+an application is an original court proceeding an application on notice requires notification of the application by the applicant on the respondent
+the application is an original nonprovisional utility application filed under 35 111 this certification and request is being filed with the utility
+the application is an alternative to other similar applications to automate tasks handle profiles etc tasker automateit llama locale profiles
+the application is an educational and informational tool that will assist the clinician by citing contextually relevant references from the medical literature
+in hyperic an application is an inventory type that is collection of other inventory resources this page describes the purpose of applications in hyperic and
+the application is an alteration to watercourse and it will not negatively affect the watercourse other no instream work will occur between
+no the application is an application so therefor the answers to the application are just that once policy is issued it is not warranty but contract if you pay
+policy application the application is an alteration to watercourse and it will not negatively affect the watercourse the application is within the
+if the application is an online magazine for example the user sees only the in this model an application is an xaml interface with backend api giving direct
+the application is an invitation to an encounter encounter of the child with himself his parents and care givers and an encounter with the world
+the application is an interactive pdf meaning you may type on it rather than hand write in the fields we do not accept applications through mail please print
+20 the application is an asp net app and unfortunately asp net 20 places all assemblies into separate temporary asp net 20 folders indexed by
+the application is an excel add in toolkit for fund wide use in the global financial stability report gfsr regional surveillance spillover reporting and stress
+the application is an affidavit where you and your prospective spouse must list your name current address city state zip code and country country of birth
+the application is an extension for multiple entry work permit the job has changed from the previous application the employer has changed from the
+spas are required to be reviewed by our department there is 150 00 permit fee required for each new facility the application is an available download
+the application is an adobe acrobat file and you will need the free acrobat reader to open this file click the adobe icon to download adobe reader
+the application is an online submission applicants must complete all sections of the grant application incomplete applications will be rejected please do not
+the application is an online form you must be logged in to the middlebury site to use this form if you are unable to log in to access the form please contact
+this output indicates the result of adding tags to resource application an application is any amazon or third party software that you can add to the cluster
+an application is any directory that contains your files and optionally torquebox yml to wire it all up an la carte application is deployed with
+an application is any file that is executable by microsoft windows operating systems either directly or through file associations excluding any ps1 files or
+an application is any program that computer runs that enables you to get things done this includes things like word processors for creating text graphics
+an application is any program that has main method this new main does what browser does the main method should do the following create window
+an application is any program utility or other software package that you run on your desktop applications comprise the following standard user interface
+an application is any piece or code collection of files or other entity that you wish to deploy an application need not be code with running process and can
+the application is any in situ resource utilization isru process that desires to extract or produce water from lunar or planetary regolith the present work is
+or improvement that can be developed as function libraries etc an application is any software that does not enhance extend augment xbasic programming
+under the biztalk application model an application is any system that fits all three of the following criteria first it stores and executes
+an application is any request from borrower however communicated for an offer or in response to solicitation of an offer of residential mortgage loan
+an application is any sort of program that has clear function though most will not define something with limited to no gui graphical user interface as an
+an application is any process that occurs above the transport layer this includes all of the processes that involve user interaction the application determines
+the application is characterized by an essential design in order to optimize the lighting performance with polymer window which is connected with wide
+the application is characterized by groups of users acquiring popular video programs over fading channel to accommodate various bandwidth requirements
+the application is characterized by web based architecture and it works with web accessible console this console allows the responsible of the
+in addition the application is characterized by strong correlation of successive events strong correlation between successive events the visage platform
+the application is characterized by highly irregular tree structured computation no estimation is available for task workloads which show
+the application is characterized by its ease of use and comprehensive functionality including automatic variant characterization based on the
+the application is characterized by an inconsistent strategy that is hard to unravel business centered control and coordination placed in objects modeling
+the application is characterized by high scalability which enables customers to choose among the available modules which functions are to be implemented
+the application is characterized by extreme directness and usability series of reports customizable and available in real time immediately after uploading
+the application is characterized by highly irregular tree structured computation no estimation is available for task workloads which show power law
+the application is characterized by given communication task graph ctg traffic information communication pairs and volume are obtained through
+the application is characterized by transparency and clarity because many structured information can be displayed visually in diagram form balance of
+patients the application is characterized by convenient handling reliable bond and wide range of indications this has been documented with certificate
+the application is characterized by module design which allows its development stowarzyszenie emitentw giedowych association of stock exchange
+the application is characterized by duty profile it specifies the different power demands and respective runtime fractions part general requirements for
+the application is characterized by friendly user interface where the ability of viewing all the resources of the time table is provided such as appearance per
+the application is characterized by identifying the relevant objects that are handled their properties and the requirements for handling them correctly work flow
+the application is characterized by small size and ease of use adwcleaner is possible to start from any storage medium including portable
+once the development of an application is finished we can proceed to its deploy ment an application is characterized by the description file of the component
+the application is characterized by strong redundancy requirements due to the fact that con tinuous pipeline operation is strictly required klds rttm based
+the application is characterized by max kumar thiele tik eth zrich thermally optimal stop go scheduling asp dac
+popcorn time an application described as sort of netflix for streaming pirated content via torrent sharing sites has been removed by its
+the application described as new lightweight cross platform integrated development environment ide designed to make development with
+bulbtrip an application described as zappos for residential lighting took home 6000 grand prize this past weekend at the second
+the application described as one under section 151 cpc does not mention any good cause within order ix rule save and except repeatedly harping on the
+an application defined as the start of new use of the premises the re establishment on the premises of use that has been abandoned or
+corresponding to metric tonnes was virgin halon 1211 for use in the aviation industry an application defined as critical in its submission
+the application known as espo electronic senior performance official communicated assessment progress visually through cross tabular matrix which
+regardless the application known as healthkit is geared primarily to take medical data that users have stored and share that with doctors and
+genetic information an application known as pharmacogenomics objective to evaluate the potential role of pharmacogenomics in reducing the incidence
+an application known as sendori apparently makes some changes to internet explorer 10 that affect browsing in general most people do not even know they
+the application known as procurement desktop defense pd2 is used by over 23 000 procurement officers as of june 2005 for buying everything from office
+the application identified as luc 2009 1555 in respect of comprehensive development plan cdp over an area of 25 15 ha incorporating
+incites violence or community objection an application identified as representing specific community is not representative of the specified community
+the application identified as places to be searched only the defendant apartment and the two automobiles warrants ultimately issued listing
+the application identified as places to be searched only the defendant apartment and the two automobiles warrants ultimately issued listing

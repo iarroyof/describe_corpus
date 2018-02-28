@@ -1,93 +1,93 @@
-,"Basically, a taxonomy is a way to group things together. For example, I might have a bunch of different types of animals. I can group them together according to ..."
-,"A taxonomy is a 'knowledge organization system,' a set of words that have been organized to control the use of terms used in a subject field..."
-,"A taxonomy is a classification system that allows you to distinguish concepts, name concepts and put those concepts in order. It is used to index and access..."
-,A taxonomy is a collection of controlled vocabulary terms organized into a hierarchical structure. Each term in a taxonomy is in one or more...
-,The taxonomy is a useful way to characterize different levels of questions in exams and the corresponding responses expected from students. It originates from...
-,"A taxonomy is a ""subject map"" to an organization's content. A taxonomy reflects the organization's purpose or industry, the functions and responsibilities of the..."
-,"""A taxonomy is a system for naming and organizing things into groups that share similar characteristics."" In our view, the ""things"" (objects) to be organized can be..."
-,"Basically, a taxonomy is a way to group things together. In WordPress, a taxonomy is a grouping mechanism for some posts (or links or..."
-,"The taxonomy is a thorough classification, enumeration, and discussion of usability issues in VEs that can be used by VE researchers and developers for..."
-,"Essentially, a taxonomy is a way of classifying data. Typically a taxonomy will have a set of characteristics that is unique to it. To be obvious, if a taxonomy had ..."
-,"A taxonomy is a top-down, controlled vocabulary. We often refer to the process of applying a taxonomy term to an article as ""tagging,"" but this..."
-,"The taxonomy is a separate deliverable, in Word if it's short, Excel if it's more extensive. We also incorporate the taxonomy into the CMS so that..."
-,The taxonomy is a balance between typing ontologically-motivated relations useful for conceptual modelling up to the minimum level of distinctions to gain...
-,"hierarchy. In the context of ECM, a taxonomy is a structure for classifying documents and records; it focuses on the relationships of how information is used within..."
-,The taxonomy is a final version and covers regulations published upto 2009-09- 01. It covers the main reporting requirements for ordinary commercial and...
-,"A taxonomy is a hierarchical classification of words, labels, or terms that are organized into groups based on similarities. A taxonomy may be defined and..."
-,"Taxonomy: A taxonomy is a way of classifying things. Bloom's taxonomy is one man's way of classifying educational objectives. As you read, you will see that..."
-,"A taxonomy is a valuable tool for a corporate Intranet. Corporate Intranets are often based on a content management system, and content management systems..."
-,A taxonomy is a description and classification system for concepts; an XBRL taxonomy is a particular way to describe and classify reporting concepts. XBRL...
-,"A taxonomy is a classification system. Normally, the aim of a taxonomy is to group things according to similarities in some respect such as similarities in structure,..."
-,"""A taxonomy is a controlled vocabulary consisting of preferred terms, all of which are connected in a hierarchy or polyhierarchy"". From section..."
-,A taxonomy is a scheme that partitions a body of knowledge and defines the relationships among the pieces. It is used for classifying and understanding the...
-,"The taxonomy is a list of computer-readable financial reporting labels coded in XBRL, a computer language that allows companies to tag the pieces of financial ..."
-,"So, the taxonomy is a subset of TOC. I will not hesitate to say the taxonomy guides the technical writers to develop and complete the manual..."
-,"A taxonomy is a classification system that is used to index and access information about a subject in a systematic, unambiguous way. In a human service context..."
-,A taxonomy is a classification tool that allows different examples of some generic type to be described. The taxonomy presented here is a hierarchy of questions...
-,routing protocols. It is so because it tries to reveal the main design and implementation principles behind protocols. The taxonomy is a little bit complicated and it.
-,"In WordPress, a taxonomy is a means of classifying content. Taxonomies enable you to group things together in specific ways. This makes them extremely useful..."
-,"(""The taxonomy is a 'mess' so we don't have a firm name for it"") (green) and cf. Gyractis sp. (""The larger brown polyp is another anemone. I'm not quite sure of..."
-,"In the semantic web, a taxonomy is a kind of dictionary of terms and their precise definitions. When a dictionary is ordered logically, in a hierarchy, it's called a..."
-,"In other words, a taxonomy is a system by which you identify and organize things, be they blog posts, animals, or currency. When you create a custom post type..."
-,"Basically, a taxonomy is a way to group things together. ... In WordPress, a taxonomy is a grouping mechanism for some posts (or links or..."
-,A taxonomy is a system for classifying tasks. 3. Poulton's (1957) conceptualization of motor skills was based upon the predictability of the environment.
-,"A taxonomy is defined as a specific form of an ontology, which is a formal, explicit specification of a shared conceptualization [5] that provides users with insight."
-,A taxonomy is defined as a set of laws or principles for classification. The idea of taxonomy is derived from biology where organisms are classified by shared...
-,"The taxonomy is defined as a categorization of concepts based on certain criteria , it lists for each concept it's most specific sub- concepts and super-concepts."
-,"In terms of ontology, a taxonomy is defined as an ontology built on a single type a term. and a relationship of a single type inheritance [TM2]. A thesaurus is..."
-,"2) Domain taxonomy: A taxonomy is defined as a collection of entities, organized in a hierarchical structure ('is-a' hierarchy), in order to describe objects of a..."
-,"A taxonomy is defined as the set of all elementary changes. By this definition, every CS can be transformed into any other CS by a chain of elementary changes..."
-,"skills (Figure 2). A taxonomy is defined as a set of categories or terms organized into a hierarchy with parent-child relationships and implied inheritance, mean-."
-,"The taxonomy is defined as a directed acyclic graph, with a single root, whose nodes are called categories. One says A is a sub-category of B if..."
-,"of this review, a taxonomy is defined as a classification system that organizes data into meaningful categories. (Kirwan, 1992). In contrast to a taxonomy, a model..."
-,A taxonomy is defined as a mechanism used to categorize things according to their relationships to one another. The cognitive domain relates...
-,A taxonomy is defined as a Classification: especially orderly classification of plants and animals according to their presumed natural relationships ; the word is.
-,A taxonomy is defined as an XML Schema and the set of directly referenced extended links and any extended links that are nested within the...
-,"in the root node (see Figure 3.1(c)). A taxonomy is defined as a set of generalization hierarchies on the at- tributes of a structured dataset. For instance, the set of..."
-,A taxonomy is defined as a Classification: especially orderly classification of plants and animals according to their presumed natural relationships; the word is...
-,"a taxonomy is defined as: the science of classification according to a pre- determined system, with the resulting catalog used to provide a..."
-,"The taxonomy is an elaboration and extension of the results of a working group. ( consisting of the authors of this paper, Salah Sadou, and Stefan Van Baelen)..."
-,"The taxonomy is an epistemological rather than psychological hierarchy, but it also has a basic chronological element: you achieve certain levels before others."
-,"First and foremost, a taxonomy is an information access tool, and will be implemented in a manual or automated system. Secondarily, a taxonomy is a..."
-,"A taxonomy is an organizational hierarchy. Bloom's Taxonomy categorizes thinking skills ranging from recalling information, the most basic skill, to evaluation,..."
-,The taxonomy is an extension to the core taxonomy for IFRS regulations published by the International Accounting Standards Board. The UK extension adapts...
-,"A taxonomy is an orderly classification. In this case, Bloom and associates classified thinking skills into learning objectives. They appear in six levels, from."
-,The taxonomy is an outcome of an investigation of the widespread problem of spreadsheet errors and an analysis of specific types of these...
-,A taxonomy is an XML schema and the set of XBRL linkbases that it references using linkbaseRef elements and the linkbases that are nested...
-,A taxonomy is an ordered and systematic classification terms whose components are ranked into level of subordination according to specific rules. This search...
-,"The taxonomy is an electronic dictionary of all accounting concepts that may be used by a company to prepare and present its financial statements, and hence it ..."
-,The taxonomy is an electronic dictionary of all cost accounting concepts that may be used by a company to prepare and present its Cost Audit and Compliance...
-,A taxonomy is an organizational structure for your analysis results. Taxonomies allow you to view the results of your build analysis in unlimited ways. By default...
-,"A taxonomy is an ordered classification system. In error reduction analysis, an examination of the human failures that lead to an event often uses a taxonomy to ..."
-,"A taxonomy is an ordered classification system. In error reduction analysis, an examination of the human failures that lead to an event often uses a taxonomy to ..."
-,A taxonomy is an ordering of things within a particular field. THEE reveals an implicit order in our minds at work. It silently governs you when you are genuinely ...
-,CONCLUSION: The taxonomy is an early attempt to understand and recognize how patients may err and what clinicians should aim to influence so they can...
-,"A taxonomy is an organizational hierarchy that is used to classify information. In biology, for instance, a taxonomy can organize different..."
-,"The taxonomy is an extension to the UK GAAP taxonomy, containing additions and amendments reflecting charity reporting requirements, particularly those set ..."
-,The taxonomy is an absolute translation of the International Financial Reporting Standard (IFRS) for Small and Medium-sized Entities (IFRS for SMEs) into XBRL ...
-,"A taxonomy is an index--a method of filing information in a logical, commonsense manner. The Center's taxonomy helps the individual organize his/her needs in..."
-,The taxonomy is an intrinsic structure of categories and documents. Each node in a class hierarchy represents a subclass of the father node. The leaf nodes...
-,A taxonomy is an 'ordered list of things'. A taxonomy can exist without a custom post type. A taxonomy can be associated with one or many post...
-,A taxonomy is an ordered classification system. Information is grouped according to presumed natural relationships. Ordered resources are...
-,Using the Engineering Taxonomy for Course Design. A taxonomy is an artifact used in the science of classification [taxis (order) & nomos (science)]. Taxonomies...
-,A taxonomy is an important step in understanding the nature of stack oriented computers. A good taxonomy allows making observations about global design...
-,"Even without answering these questions, the taxonomy is an interesting one I believe. I think that instead of categorising learning theories what it might actually ..."
-,"The taxonomy is an outline of sentence characteristics incorporating all of these concepts, and is designed to be applied to both single utterances and..."
-,"Broadly speaking, a taxonomy is any system of organization that divides and orders concepts into groups or categories. In the corporate setting, a taxonomy..."
-,"A taxonomy is any classification system that hierarchically groups enti- ties by their similarities. Thus, taxonomic and shape- based classifications (or one based ..."
-,"Broadly speaking, a taxonomy is any system of organization that divides and orders concepts into groups or categories. In the corporate setting, a taxonomy..."
-,"According to the World Book Dictionary (1990), a taxonomy is any classification or arrangement. Taxonomies are used to ensure that examinations contain a mix ..."
-,"According to the World Book Dictionary (1990), a taxonomy is any classification or arrangement. Taxonomies are used to ensure that examinations contain a."
-,"To describe component functionality, a taxonomy known as the functional basis is used. The functional basis was formulated to address the need for a clear..."
-,"Taxonomy is the practice and science of classification. The word is also used as a count noun: a taxonomy, or taxonomic scheme, is a particular classification."
-,"Taxonomy is the science of classification according to a pre-determined system, whose resulting catalogue is used to provide a conceptual framework for..."
-,"Taxonomy is the science of classifying organisms into groups by structure, origin, common ancestor, etc. One goal is to recognize the inherent order in nature."
-,"Taxonomy is the formal hierarchical naming system applied to biological organisms. In this database, each taxon that might be used in a determination is stored..."
-,Taxonomy is the part of classification that is concerned primarily with relationships. Classifications are contrivances made by humans to suit their purposes. They.
-,"Taxonomy is the grouping or categorizing of things into an outline or tree structure. In the scientific classification system, biologists group and categorize every..."
-,Taxonomy is the aspect of systematics that deals with the correct application of scientific names. Nomenclature is the system of scientific names applied to...
-,Taxonomy is the field of research devoted to naming and describing living organisms - everything from bacteria and viruses to whales and...
-,"Taxonomy is the science of classification of organisms. Biologists classify organisms based on their evolutionary relationships, using a hierarchical system of..."
-,"Taxonomy is the science dealing with description, identification, nomenclature, and classification of living things. A dichotomous key is a tool that allows users to ..."
-,"Taxonomy is a narrower term than classification. Classification includes taxonomy, but it also includes the grouping of soils according to limitations that affect..."
-,"Taxonomy is a hierarchical structure based on the Nice Classification terms, with broader terms on top and more specific terms below."
+basically taxonomy is way to group things together for example might have bunch of different types of animals can group them together according to
+taxonomy is knowledge organization system set of words that have been organized to control the use of terms used in subject field
+taxonomy is classification system that allows you to distinguish concepts name concepts and put those concepts in order it is used to index and access
+taxonomy is collection of controlled vocabulary terms organized into hierarchical structure each term in taxonomy is in one or more
+the taxonomy is useful way to characterize different levels of questions in exams and the corresponding responses expected from students it originates from
+taxonomy is subject map to an organization content taxonomy reflects the organization purpose or industry the functions and responsibilities of the
+taxonomy is system for naming and organizing things into groups that share similar characteristics in our view the things objects to be organized can be
+basically taxonomy is way to group things together in wordpress taxonomy is grouping mechanism for some posts or links or
+the taxonomy is thorough classification enumeration and discussion of usability issues in ves that can be used by ve researchers and developers for
+essentially taxonomy is way of classifying data typically taxonomy will have set of characteristics that is unique to it to be obvious if taxonomy had
+taxonomy is top down controlled vocabulary we often refer to the process of applying taxonomy term to an article as tagging but this
+the taxonomy is separate deliverable in word if it short excel if it more extensive we also incorporate the taxonomy into the cms so that
+the taxonomy is balance between typing ontologically motivated relations useful for conceptual modelling up to the minimum level of distinctions to gain
+hierarchy in the context of ecm taxonomy is structure for classifying documents and records it focuses on the relationships of how information is used within
+the taxonomy is final version and covers regulations published upto 2009 09 01 it covers the main reporting requirements for ordinary commercial and
+taxonomy is hierarchical classification of words labels or terms that are organized into groups based on similarities taxonomy may be defined and
+taxonomy taxonomy is way of classifying things bloom taxonomy is one man way of classifying educational objectives as you read you will see that
+taxonomy is valuable tool for corporate intranet corporate intranets are often based on content management system and content management systems
+taxonomy is description and classification system for concepts an xbrl taxonomy is particular way to describe and classify reporting concepts xbrl
+taxonomy is classification system normally the aim of taxonomy is to group things according to similarities in some respect such as similarities in structure
+taxonomy is controlled vocabulary consisting of preferred terms all of which are connected in hierarchy or polyhierarchy from section
+taxonomy is scheme that partitions body of knowledge and defines the relationships among the pieces it is used for classifying and understanding the
+the taxonomy is list of computer readable financial reporting labels coded in xbrl computer language that allows companies to tag the pieces of financial
+so the taxonomy is subset of toc will not hesitate to say the taxonomy guides the technical writers to develop and complete the manual
+taxonomy is classification system that is used to index and access information about subject in systematic unambiguous way in human service context
+taxonomy is classification tool that allows different examples of some generic type to be described the taxonomy presented here is hierarchy of questions
+routing protocols it is so because it tries to reveal the main design and implementation principles behind protocols the taxonomy is little bit complicated and it
+in wordpress taxonomy is means of classifying content taxonomies enable you to group things together in specific ways this makes them extremely useful
+the taxonomy is mess so we don have firm name for it green and cf gyractis sp the larger brown polyp is another anemone not quite sure of
+in the semantic web taxonomy is kind of dictionary of terms and their precise definitions when dictionary is ordered logically in hierarchy it called
+in other words taxonomy is system by which you identify and organize things be they blog posts animals or currency when you create custom post type
+basically taxonomy is way to group things together in wordpress taxonomy is grouping mechanism for some posts or links or
+taxonomy is system for classifying tasks poulton 1957 conceptualization of motor skills was based upon the predictability of the environment
+taxonomy is defined as specific form of an ontology which is formal explicit specification of shared conceptualization that provides users with insight
+taxonomy is defined as set of laws or principles for classification the idea of taxonomy is derived from biology where organisms are classified by shared
+the taxonomy is defined as categorization of concepts based on certain criteria it lists for each concept it most specific sub concepts and super concepts
+in terms of ontology taxonomy is defined as an ontology built on single type term and relationship of single type inheritance tm2 thesaurus is
+domain taxonomy taxonomy is defined as collection of entities organized in hierarchical structure is hierarchy in order to describe objects of
+taxonomy is defined as the set of all elementary changes by this definition every cs can be transformed into any other cs by chain of elementary changes
+skills figure taxonomy is defined as set of categories or terms organized into hierarchy with parent child relationships and implied inheritance mean
+the taxonomy is defined as directed acyclic graph with single root whose nodes are called categories one says is sub category of if
+of this review taxonomy is defined as classification system that organizes data into meaningful categories kirwan 1992 in contrast to taxonomy model
+taxonomy is defined as mechanism used to categorize things according to their relationships to one another the cognitive domain relates
+taxonomy is defined as classification especially orderly classification of plants and animals according to their presumed natural relationships the word is
+taxonomy is defined as an xml schema and the set of directly referenced extended links and any extended links that are nested within the
+in the root node see figure taxonomy is defined as set of generalization hierarchies on the at tributes of structured dataset for instance the set of
+taxonomy is defined as classification especially orderly classification of plants and animals according to their presumed natural relationships the word is
+taxonomy is defined as the science of classification according to pre determined system with the resulting catalog used to provide
+the taxonomy is an elaboration and extension of the results of working group consisting of the authors of this paper salah sadou and stefan van baelen
+the taxonomy is an epistemological rather than psychological hierarchy but it also has basic chronological element you achieve certain levels before others
+first and foremost taxonomy is an information access tool and will be implemented in manual or automated system secondarily taxonomy is
+taxonomy is an organizational hierarchy bloom taxonomy categorizes thinking skills ranging from recalling information the most basic skill to evaluation
+the taxonomy is an extension to the core taxonomy for ifrs regulations published by the international accounting standards board the uk extension adapts
+taxonomy is an orderly classification in this case bloom and associates classified thinking skills into learning objectives they appear in six levels from
+the taxonomy is an outcome of an investigation of the widespread problem of spreadsheet errors and an analysis of specific types of these
+taxonomy is an xml schema and the set of xbrl linkbases that it references using linkbaseref elements and the linkbases that are nested
+taxonomy is an ordered and systematic classification terms whose components are ranked into level of subordination according to specific rules this search
+the taxonomy is an electronic dictionary of all accounting concepts that may be used by company to prepare and present its financial statements and hence it
+the taxonomy is an electronic dictionary of all cost accounting concepts that may be used by company to prepare and present its cost audit and compliance
+taxonomy is an organizational structure for your analysis results taxonomies allow you to view the results of your build analysis in unlimited ways by default
+taxonomy is an ordered classification system in error reduction analysis an examination of the human failures that lead to an event often uses taxonomy to
+taxonomy is an ordered classification system in error reduction analysis an examination of the human failures that lead to an event often uses taxonomy to
+taxonomy is an ordering of things within particular field thee reveals an implicit order in our minds at work it silently governs you when you are genuinely
+conclusion the taxonomy is an early attempt to understand and recognize how patients may err and what clinicians should aim to influence so they can
+taxonomy is an organizational hierarchy that is used to classify information in biology for instance taxonomy can organize different
+the taxonomy is an extension to the uk gaap taxonomy containing additions and amendments reflecting charity reporting requirements particularly those set
+the taxonomy is an absolute translation of the international financial reporting standard ifrs for small and medium sized entities ifrs for smes into xbrl
+taxonomy is an index method of filing information in logical commonsense manner the center taxonomy helps the individual organize his her needs in
+the taxonomy is an intrinsic structure of categories and documents each node in class hierarchy represents subclass of the father node the leaf nodes
+taxonomy is an ordered list of things taxonomy can exist without custom post type taxonomy can be associated with one or many post
+taxonomy is an ordered classification system information is grouped according to presumed natural relationships ordered resources are
+using the engineering taxonomy for course design taxonomy is an artifact used in the science of classification taxis order nomos science taxonomies
+taxonomy is an important step in understanding the nature of stack oriented computers good taxonomy allows making observations about global design
+even without answering these questions the taxonomy is an interesting one believe think that instead of categorising learning theories what it might actually
+the taxonomy is an outline of sentence characteristics incorporating all of these concepts and is designed to be applied to both single utterances and
+broadly speaking taxonomy is any system of organization that divides and orders concepts into groups or categories in the corporate setting taxonomy
+taxonomy is any classification system that hierarchically groups enti ties by their similarities thus taxonomic and shape based classifications or one based
+broadly speaking taxonomy is any system of organization that divides and orders concepts into groups or categories in the corporate setting taxonomy
+according to the world book dictionary 1990 taxonomy is any classification or arrangement taxonomies are used to ensure that examinations contain mix
+according to the world book dictionary 1990 taxonomy is any classification or arrangement taxonomies are used to ensure that examinations contain
+to describe component functionality taxonomy known as the functional basis is used the functional basis was formulated to address the need for clear
+taxonomy is the practice and science of classification the word is also used as count noun taxonomy or taxonomic scheme is particular classification
+taxonomy is the science of classification according to pre determined system whose resulting catalogue is used to provide conceptual framework for
+taxonomy is the science of classifying organisms into groups by structure origin common ancestor etc one goal is to recognize the inherent order in nature
+taxonomy is the formal hierarchical naming system applied to biological organisms in this database each taxon that might be used in determination is stored
+taxonomy is the part of classification that is concerned primarily with relationships classifications are contrivances made by humans to suit their purposes they
+taxonomy is the grouping or categorizing of things into an outline or tree structure in the scientific classification system biologists group and categorize every
+taxonomy is the aspect of systematics that deals with the correct application of scientific names nomenclature is the system of scientific names applied to
+taxonomy is the field of research devoted to naming and describing living organisms everything from bacteria and viruses to whales and
+taxonomy is the science of classification of organisms biologists classify organisms based on their evolutionary relationships using hierarchical system of
+taxonomy is the science dealing with description identification nomenclature and classification of living things dichotomous key is tool that allows users to
+taxonomy is narrower term than classification classification includes taxonomy but it also includes the grouping of soils according to limitations that affect
+taxonomy is hierarchical structure based on the nice classification terms with broader terms on top and more specific terms below

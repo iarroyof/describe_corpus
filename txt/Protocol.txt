@@ -1,109 +1,109 @@
-,"The Protocol is a protocol to shorten the transfer timing in CSAs (NY CSA, UK. Annex, Japanese Annex (1995 and 2008 versions)) from T+3* to T+2 following."
-,Networking midterm. 1. A protocol is a set of conventionally agreed rules that specify how data is to be exchanged between pairs of programs or devices. a. true.
-,"The Protocol is a collaborative process developed by a diverse stakeholder group made up of police, forensic personnel, and prosecutors."
-,"Sometimes referred to as an access method, a protocol is a standard used to define a method of exchanging data over a computer network such as local area..."
-,A protocol is a journal of the MEDINA commands used interactively. A protocol is a journal of the MEDINA commands used interactively.
-,What is a Network Protocol. A protocol is a set of rules that governs the communications between computers on a network. These rules include guidelines that...
-,What is a Protocol? A protocol is a set of rules that governs the communications between computers on a network. In order for two computers to talk to each other...
-,"(countable) A protocol is a rule, guideline, or document about how certain ... (countable) A protocol is a set of rules that describes how data is transmitted."
-,"In computing, a protocol is a set of rules which is used by computers to communicate with each other across a network. A protocol is a convention or standard..."
-,A protocol is a Byzantine Agreement (BA) protocol tolerating t traitors if the following conditions hold for any adversary controlling at most t traitors: All loyal...
-,OBI Definition: a protocol is a plan specification that has sufficient level of detail and quantitative information to communicate it between domain...
-,"In the most basic sense of the term, a protocol is a method for accomplishing ... Although the protocol is a requisite for network communication, this is a role that..."
-,"In tech circles, a protocol is a set of standards that programmers follow so that their work can be decoded by other computers. The p in the http of a web address..."
-,"A protocol is a set of ""rules"" that govern the form, format, data content and information flow sent over communication links that connect different devices."
-,"a protocol is a public notion independent of any mental state of the agents, a ... A protocol is a set of rules that govern the construction of dialogues between."
-,A protocol is a document that explicitly states the reasoning behind and structure of a research project. The preparation of a protocol is a most important stage.
-,What is a protocol? A protocol is a treaty. Same nature and same legal scope. Term used when the text is linked to a framework convention.
-,"A protocol is a plan that describes the trial in detail, including: The schedule of visits Tests and procedures to be conducted Expected outcomes of the trial"
-,"The protocol is a document describing the authors' intentions as regards topic and the methods. Any preferences and choices by selection, literature search,"
-,"The protocol is a strong statement of the standards from the sector to employers, employees, (existing and prospective) customers and industry partners."
-,"A protocol is a written plan that describes the goal of a research study and how the study will be conducted. For example, it describes the type of people needed..."
-,"The protocol is a strong statement of the standards from the sector to employers, employees, (existing and prospective,) customers and industry partners."
-,"A protocol is a set of rules that governs data communication; the key elements of a protocol are syntax, semantics, and timing. * Standards are necessary to..."
-,"The protocol is a level 2 protocol, which bypasses the ARPANET HOST-HOST protocol. (This is implemented on TENEX using special privileged system calls..."
-,The protocol is a filing treaty and not a substantive harmonization treaty. It provides a cost-effective and efficient way for trademark holders...
-,The protocol is defined as a state machine. The data sent over a channel can be optionally restricted to conform to a certain pre-defined schema. The compiler...
-,"The protocol is defined as a metabolic therapy, one that is based on the theory that disease is caused by the body's accumulation of toxic..."
-,"... no prior knowledge of each other i.e., no public keys. A and B trust S. A and B have established secret keys with S kas, kbs. The protocol is defined as follows:."
-,a protocol is defined as: a detailed plan of the implementation of a totally new technology through an on-site trial in a federally registered...
-,"The protocol is defined as either the IP protocol number of the packet, or if that indicates TCP or UDP, the protocol number plus the well-known port number from..."
-,"communication protocol using this model typically proceeds as follows: I First, the protocol is defined as a network of communicating finite state machines:."
-,The protocol is defined as the beginning part of the URL schema. Currently SVNKit supports only svn:// (svn+ssh://) and http:// (https://) schemas. The created...
-,"The protocol is defined as follows, A task runs at its original (sometimes called its base) priority when it is outside a critical section. A task can..."
-,"In this model, a protocol is defined as a network of n 2. processes that exchange messages over error-free simplex. channels; each process is a finite state..."
-,A protocol is defined as a comprehensive set of measures for the regulation of human activities and the preservation of the environment. On the basis of...
-,"The protocol is defined as follows: (1) Alice chooses a random2 a {1,...,|G| 1}, and sends ga to Bob. (2) Bob chooses a random b {1,...,|G| 1}, and."
-,"communication protocol using this model typically proceeds as follows: 0 First, the protocol is defined as a network of communicating finite state machines."
-,"A protocol is defined as 'a document that describes the objective(s), design, methodology, statistical considerations and the organisation of a..."
-,A protocol is defined as a written plan that specifies procedures to be followed in defined situations; a protocol represents a standard of care.
-,The protocol is defined as a set of REST APIs on top of HTTP. The data carried by the protocol is encoded as JSON. Queries can be performed...
-,A protocol is defined as a set of instructions or a standard design that can enable two devices to share information with minimal chances of...
-,... Board of Medical Examiners Rules and Regulations); A protocol is defined as a written guideline for the medical management of a patient's condition.
-,A protocol is defined as a set of incoming and outgoing data types and the data exchange sequence [8]. An example connector is a. UNIX pipe. Configuration.
-,The protocol is defined as where first byte is header and remaining 7 bytes is the data. They are trying to pass a particular ID string but the ID...
-,"The protocol is an improvement over the BB84 QKD protocol. BB84, in conjunction with the one-time pad algorithm, has been shown to be..."
-,"The protocol is an answer to a problem of identity fragmentation, prevalent on the Internet in the early 21st Century. It improves on protocols, such as OAuth and..."
-,The protocol is an answer to a recent security problem: all the aspects of the problem may already not be known. . The protocol is an answer to a time critical...
-,The protocol is an answer to a recent security problem: all the aspects of the problem may not be known already. The protocol is an answer to a critical...
-,... implementation of these services from the higher layers. a protocol is an agreement between two communication parties on how communication is to proceed.
-,"A protocol is an algorithm two (or more) parties have to follow to perform a ... The outcome of the protocol is an element from the set {0, 1, reject}; If both parties..."
-,"The protocol is an agreement about how people in different agencies will share information about the children that they work with. In practice, practitioners must..."
-,A protocol is an outline of the clinical trial. A specific protocol defines what topic is being researched. This document will specify the types of patients that will be...
-,"... agreed upon set of rules for communicating in diplomatic settings. On the Internet, a protocol is an agreed upon method for sending and receiving information."
-,The protocol is an improved version of that of Damm and Willmitzer (1988).The main changes in original procedure are as follows: (1) A mixture of Cellulase Y-C...
-,"The protocol is an important tool to ensure that agency social workers are both supported and productive. In particular, it addresses the..."
-,"The protocol is an agreement between the Department of the Environment, the Ministry of Agriculture and Supply and Industry Union Cane sugar - UNICA ( in..."
-,The protocol is an agreement between housing and support providers. It relies on accurate information being provided by both parties and ongoing support...
-,This protocol is the result of that research and is built on established practice elsewhere. The protocol is an extension of normal community relations practices.
-,"protocols, created by Jon Postel in 1982. The protocol is an Internet standard and is documented at http://www.faqs.org/rfcs/rfc821.html."
-,A protocol is an action plan based on strict scientific and ethical principles that describes how the study will be conducted and how the patients' safe- ty will be...
-,The protocol is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances believed to be...
-,... the principles outlined in the document and to make demonstrable progress towards achieving its vision. A protocol is an agreement and has no force in law.
-,"The protocol is any stones not from your property is stealing; however, just like spotting an apple tree in a yard, just knocking on the door and..."
-,"ODF Protocols are now commonly found in many Sub-. Saharan Africa countries. A protocol is any sort of guideline, strategy or commonly agreed upon mode of."
-,"In Image Lab software, a protocol is any combination of imaging, analysis, and report settings that has been saved to run as a single workflow. Researchers can..."
-,A protocol is any semi-protocol that has at least one run. The set of all runs of a protocol P is denoted by R(P). We conclude this section with the...
-,"In Image Lab software, a protocol is any combination of imaging, analysis and report settings which has been saved to run as a single workflow. Researchers."
-,"A protocol is any semi-protocol that has at least one run. The set of all runs of a protocol P is denoted by R(P). Definition 4. A protocol P = V,L..."
-,"Remember, for the sake of Blackmamba programming, a protocol is any function that uses the ""yield syscall()"" syntax. The run() method is what performs all the..."
-,@Samba: A protocol is any set of rules which govern some action or communication; a networking protocol doesn't necessarily have to exist as...
-,A protocol is any kind of communication between 2 or more computers. What is SMTP? SMTP is the 'standards' protocol that is used to send...
-,"A protocol is any semi-protocol that has at least one run. The set of all runs of a protocol P is denoted by R(P). Definition 8. A protocol P = V al, Loc is called..."
-,"A protocol is any set of operational procedures, which enable data such as identifiers, settings and frames and any data comprised in a frame..."
-,"A protocol is any means for communication; for example, a process for send ing a message which could include data format. As used herein."
-,"The protocol is characterized by a high efficiency, reduced exposure to an attack by an eavesdropper, and higher sensitivity to such an attack..."
-,The protocol is characterized by state traces and formally verified by a theorem proving system PVS. Relevant properties are specified and...
-,The protocol is characterized by the simplicity of sample preparation and the lack of amplification-related sequencing bias. Page %P. Loading... Close Plain text.
-,... electrophysiological properties expected for fully functional MSNs.The protocol is characterized by its replicability in at least three human pluripotent cell lines.
-,The protocol is characterized by the simplicity of sample preparation and the lack of amplification-related sequencing bias. PMID: 21431759; [PubMed - indexed...
-,The protocol is characterized by the possibility to supplement it with new features when new services appear. Integration into the existing...
-,"The protocol is characterized by high analytical performances (accuracy better than 1%, excellent linearity), even if it is affected by relatively..."
-,"... is reported. The protocol is characterized by the use of inexpensive reagents, mild conditions, exceptional functional group tolerance, and good to high yields."
-,"The protocol is characterized by the following features: (i) it is designed based on IPv6, (ii) relying on a DNS server, it allows bootstrapping a MANET with little..."
-,The neighbor discovery and domain name registration in IPv6 are incorporated and enhanced with se- curity functions. The protocol is characterized by the fol-.
-,The neighbor discovery and domain name registration in IPv6 are incorporated and enhanced with se- curity functions. The protocol is characterized by the fol-.
-,The protocol is characterized by a staggering dosing regimen with MMF starting at 1 month preoperatively and continued for at least 1 year; while CsA and...
-,"A protocol is characterized by a set of rules and a set of strategies (see, e.g., [4]), which have to be followed by all players for them to be guaranteed a fair portion..."
-,"The protocol is characterized by zero overhearing costs and minimal idle listening. The paper shows a proof of concept, evaluates potential of our algorithm and..."
-,"The protocol is characterized by zero overhearing costs and minimal idle listening. The paper shows a proof of concept, evaluates potential of our algorithm."
-,"The protocol is characterized by the following features: (i) it is designed based on IPv6, (ii) relying on a DNS server, it allows bootstrapping a MANET with little..."
-,A protocol is characterized by temporal strategies and by the nature of data exchanged [Coutaz 91]. A temporal strategy defines the coordinating rules for...
-,The protocol is characterized by the use of small diameter nichel-titanium wires (size .010 or .012) during the orthodontic alignment phase and...
-,The protocol is characterized by state traces and formally verified by a theorem proving system PVS. Relevant properties are specified and...
-,"The protocol is characterized by employing an efficient updating strategy for the stochastic information at each node. It can achieve minimum delay, high delivery..."
-,"The protocol is characterized by early and repeated administration of high to myeloablative doses of cyclophosphamide, doxorubicin, and etoposidedrugs that..."
-,"The protocol is characterized by three distinguished features: first, it is designed at the application layer to... more. Abstract In our previous work we introduced a..."
-,The protocol is characterized by state traces and formally verified by a theorem proving system PVS. Relevant ... The paper presents a formal modeling and...
-,"a verifier V . The protocol is characterized by the unitary operators V1,V2 the verifier applies in each round, the initial state projection init and..."
-,... electrophysiological properties expected for fully functional MSNs.The protocol is characterized by its replicability in at least three human pluripotent cell lines.
-,"The protocol is characterized by the following parameters: maximum window size (Wmax ),. maximum segment size (MSS), ack segment size,. loss detection..."
-,The protocol considered as the optimization threshold was just above the setting that resulted in a significant reduction in CR and noise but not affecting SR at...
-,The protocol considered as the optimization threshold was just above the setting that resulted in a significant reduction in CR and noise but not affecting SR at...
-,"Definition: A protocol described as a CSP system P provides anonymity if an arbitrary permutation of the events in A, applied to all the traces of P, does not alter..."
-,The protocol described as follows was used to prepare the lens for AFM measurements. A custom-made circular black plastic ring was...
-,"a lO-month culture period including in vitro culture, multiplication and ex vitro rooting. The protocol described as above is reproducible. It."
-,"A protocol defined as above, is not guaranteed to be well behaved, and we must impose some constraints on its structure. In particular, we will assume that the..."
-,"one should be aware of, and attempt to follow, a protocol known as Net Etiquette (Netiquette), which is nothing more than ""good manners"" for the benefit of all."""
-,"... the protocol known as RFC 2821 protected void sendEmail() throws Exception { System.out.println(""Sending message now: Debug below"");..."
-,The protocol identified as EMD-003 described a laboratory study of efficacy of the test formulations against ticks. The protocol identified as...
+the protocol is protocol to shorten the transfer timing in csas ny csa uk annex japanese annex 1995 and 2008 versions from to following
+networking midterm protocol is set of conventionally agreed rules that specify how data is to be exchanged between pairs of programs or devices true
+the protocol is collaborative process developed by diverse stakeholder group made up of police forensic personnel and prosecutors
+sometimes referred to as an access method protocol is standard used to define method of exchanging data over computer network such as local area
+protocol is journal of the medina commands used interactively protocol is journal of the medina commands used interactively
+what is network protocol protocol is set of rules that governs the communications between computers on network these rules include guidelines that
+what is protocol protocol is set of rules that governs the communications between computers on network in order for two computers to talk to each other
+countable protocol is rule guideline or document about how certain countable protocol is set of rules that describes how data is transmitted
+in computing protocol is set of rules which is used by computers to communicate with each other across network protocol is convention or standard
+protocol is byzantine agreement ba protocol tolerating traitors if the following conditions hold for any adversary controlling at most traitors all loyal
+obi definition protocol is plan specification that has sufficient level of detail and quantitative information to communicate it between domain
+in the most basic sense of the term protocol is method for accomplishing although the protocol is requisite for network communication this is role that
+in tech circles protocol is set of standards that programmers follow so that their work can be decoded by other computers the in the http of web address
+protocol is set of rules that govern the form format data content and information flow sent over communication links that connect different devices
+protocol is public notion independent of any mental state of the agents protocol is set of rules that govern the construction of dialogues between
+protocol is document that explicitly states the reasoning behind and structure of research project the preparation of protocol is most important stage
+what is protocol protocol is treaty same nature and same legal scope term used when the text is linked to framework convention
+protocol is plan that describes the trial in detail including the schedule of visits tests and procedures to be conducted expected outcomes of the trial
+the protocol is document describing the authors intentions as regards topic and the methods any preferences and choices by selection literature search
+the protocol is strong statement of the standards from the sector to employers employees existing and prospective customers and industry partners
+protocol is written plan that describes the goal of research study and how the study will be conducted for example it describes the type of people needed
+the protocol is strong statement of the standards from the sector to employers employees existing and prospective customers and industry partners
+protocol is set of rules that governs data communication the key elements of protocol are syntax semantics and timing standards are necessary to
+the protocol is level protocol which bypasses the arpanet host host protocol this is implemented on tenex using special privileged system calls
+the protocol is filing treaty and not substantive harmonization treaty it provides cost effective and efficient way for trademark holders
+the protocol is defined as state machine the data sent over channel can be optionally restricted to conform to certain pre defined schema the compiler
+the protocol is defined as metabolic therapy one that is based on the theory that disease is caused by the body accumulation of toxic
+no prior knowledge of each other no public keys and trust and have established secret keys with kas kbs the protocol is defined as follows
+protocol is defined as detailed plan of the implementation of totally new technology through an on site trial in federally registered
+the protocol is defined as either the ip protocol number of the packet or if that indicates tcp or udp the protocol number plus the well known port number from
+communication protocol using this model typically proceeds as follows first the protocol is defined as network of communicating finite state machines
+the protocol is defined as the beginning part of the url schema currently svnkit supports only svn svn ssh and http https schemas the created
+the protocol is defined as follows task runs at its original sometimes called its base priority when it is outside critical section task can
+in this model protocol is defined as network of processes that exchange messages over error free simplex channels each process is finite state
+protocol is defined as comprehensive set of measures for the regulation of human activities and the preservation of the environment on the basis of
+the protocol is defined as follows alice chooses random2 and sends ga to bob bob chooses random and
+communication protocol using this model typically proceeds as follows first the protocol is defined as network of communicating finite state machines
+protocol is defined as document that describes the objective design methodology statistical considerations and the organisation of
+protocol is defined as written plan that specifies procedures to be followed in defined situations protocol represents standard of care
+the protocol is defined as set of rest apis on top of http the data carried by the protocol is encoded as json queries can be performed
+protocol is defined as set of instructions or standard design that can enable two devices to share information with minimal chances of
+board of medical examiners rules and regulations protocol is defined as written guideline for the medical management of patient condition
+protocol is defined as set of incoming and outgoing data types and the data exchange sequence an example connector is unix pipe configuration
+the protocol is defined as where first byte is header and remaining bytes is the data they are trying to pass particular id string but the id
+the protocol is an improvement over the bb84 qkd protocol bb84 in conjunction with the one time pad algorithm has been shown to be
+the protocol is an answer to problem of identity fragmentation prevalent on the internet in the early 21st century it improves on protocols such as oauth and
+the protocol is an answer to recent security problem all the aspects of the problem may already not be known the protocol is an answer to time critical
+the protocol is an answer to recent security problem all the aspects of the problem may not be known already the protocol is an answer to critical
+implementation of these services from the higher layers protocol is an agreement between two communication parties on how communication is to proceed
+protocol is an algorithm two or more parties have to follow to perform the outcome of the protocol is an element from the set reject if both parties
+the protocol is an agreement about how people in different agencies will share information about the children that they work with in practice practitioners must
+protocol is an outline of the clinical trial specific protocol defines what topic is being researched this document will specify the types of patients that will be
+agreed upon set of rules for communicating in diplomatic settings on the internet protocol is an agreed upon method for sending and receiving information
+the protocol is an improved version of that of damm and willmitzer 1988 the main changes in original procedure are as follows mixture of cellulase
+the protocol is an important tool to ensure that agency social workers are both supported and productive in particular it addresses the
+the protocol is an agreement between the department of the environment the ministry of agriculture and supply and industry union cane sugar unica in
+the protocol is an agreement between housing and support providers it relies on accurate information being provided by both parties and ongoing support
+this protocol is the result of that research and is built on established practice elsewhere the protocol is an extension of normal community relations practices
+protocols created by jon postel in 1982 the protocol is an internet standard and is documented at http www faqs org rfcs rfc821 html
+protocol is an action plan based on strict scientific and ethical principles that describes how the study will be conducted and how the patients safe ty will be
+the protocol is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances believed to be
+the principles outlined in the document and to make demonstrable progress towards achieving its vision protocol is an agreement and has no force in law
+the protocol is any stones not from your property is stealing however just like spotting an apple tree in yard just knocking on the door and
+odf protocols are now commonly found in many sub saharan africa countries protocol is any sort of guideline strategy or commonly agreed upon mode of
+in image lab software protocol is any combination of imaging analysis and report settings that has been saved to run as single workflow researchers can
+protocol is any semi protocol that has at least one run the set of all runs of protocol is denoted by we conclude this section with the
+in image lab software protocol is any combination of imaging analysis and report settings which has been saved to run as single workflow researchers
+protocol is any semi protocol that has at least one run the set of all runs of protocol is denoted by definition protocol
+remember for the sake of blackmamba programming protocol is any function that uses the yield syscall syntax the run method is what performs all the
+samba protocol is any set of rules which govern some action or communication networking protocol doesn necessarily have to exist as
+protocol is any kind of communication between or more computers what is smtp smtp is the standards protocol that is used to send
+protocol is any semi protocol that has at least one run the set of all runs of protocol is denoted by definition protocol al loc is called
+protocol is any set of operational procedures which enable data such as identifiers settings and frames and any data comprised in frame
+protocol is any means for communication for example process for send ing message which could include data format as used herein
+the protocol is characterized by high efficiency reduced exposure to an attack by an eavesdropper and higher sensitivity to such an attack
+the protocol is characterized by state traces and formally verified by theorem proving system pvs relevant properties are specified and
+the protocol is characterized by the simplicity of sample preparation and the lack of amplification related sequencing bias page loading close plain text
+electrophysiological properties expected for fully functional msns the protocol is characterized by its replicability in at least three human pluripotent cell lines
+the protocol is characterized by the simplicity of sample preparation and the lack of amplification related sequencing bias pmid 21431759 pubmed indexed
+the protocol is characterized by the possibility to supplement it with new features when new services appear integration into the existing
+the protocol is characterized by high analytical performances accuracy better than excellent linearity even if it is affected by relatively
+is reported the protocol is characterized by the use of inexpensive reagents mild conditions exceptional functional group tolerance and good to high yields
+the protocol is characterized by the following features it is designed based on ipv6 ii relying on dns server it allows bootstrapping manet with little
+the neighbor discovery and domain name registration in ipv6 are incorporated and enhanced with se curity functions the protocol is characterized by the fol
+the neighbor discovery and domain name registration in ipv6 are incorporated and enhanced with se curity functions the protocol is characterized by the fol
+the protocol is characterized by staggering dosing regimen with mmf starting at month preoperatively and continued for at least year while csa and
+protocol is characterized by set of rules and set of strategies see which have to be followed by all players for them to be guaranteed fair portion
+the protocol is characterized by zero overhearing costs and minimal idle listening the paper shows proof of concept evaluates potential of our algorithm and
+the protocol is characterized by zero overhearing costs and minimal idle listening the paper shows proof of concept evaluates potential of our algorithm
+the protocol is characterized by the following features it is designed based on ipv6 ii relying on dns server it allows bootstrapping manet with little
+protocol is characterized by temporal strategies and by the nature of data exchanged coutaz 91 temporal strategy defines the coordinating rules for
+the protocol is characterized by the use of small diameter nichel titanium wires size 010 or 012 during the orthodontic alignment phase and
+the protocol is characterized by state traces and formally verified by theorem proving system pvs relevant properties are specified and
+the protocol is characterized by employing an efficient updating strategy for the stochastic information at each node it can achieve minimum delay high delivery
+the protocol is characterized by early and repeated administration of high to myeloablative doses of cyclophosphamide doxorubicin and etoposidedrugs that
+the protocol is characterized by three distinguished features first it is designed at the application layer to more abstract in our previous work we introduced
+the protocol is characterized by state traces and formally verified by theorem proving system pvs relevant the paper presents formal modeling and
+verifier the protocol is characterized by the unitary operators v1 v2 the verifier applies in each round the initial state projection init and
+electrophysiological properties expected for fully functional msns the protocol is characterized by its replicability in at least three human pluripotent cell lines
+the protocol is characterized by the following parameters maximum window size wmax maximum segment size mss ack segment size loss detection
+the protocol considered as the optimization threshold was just above the setting that resulted in significant reduction in cr and noise but not affecting sr at
+the protocol considered as the optimization threshold was just above the setting that resulted in significant reduction in cr and noise but not affecting sr at
+definition protocol described as csp system provides anonymity if an arbitrary permutation of the events in applied to all the traces of does not alter
+the protocol described as follows was used to prepare the lens for afm measurements custom made circular black plastic ring was
+lo month culture period including in vitro culture multiplication and ex vitro rooting the protocol described as above is reproducible it
+protocol defined as above is not guaranteed to be well behaved and we must impose some constraints on its structure in particular we will assume that the
+one should be aware of and attempt to follow protocol known as net etiquette netiquette which is nothing more than good manners for the benefit of all
+the protocol known as rfc 2821 protected void sendemail throws exception system out println sending message now debug below
+the protocol identified as emd 003 described laboratory study of efficacy of the test formulations against ticks the protocol identified as

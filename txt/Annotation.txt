@@ -1,89 +1,89 @@
-,"An annotation is a critical examination, or commentary of a book, article , or other publication. It includes important aspects of content not evident in the title.",,,,,"critical examitation, commentary of a book, publication, content"
-,"An annotation is a note, summary, or commentary on some section of a book or a statute that is intended to explain or illustrate its meaning. An annotation is a...",,,,,"note, summary, section of a book, statute, meaning"
-,What is GO annotation? An annotation is a statement that a gene product has a particular molecular function. is involved in a particular biological.,,,,,"statement, product, molecular function, "
-,What is an annotation? An annotation is a short description of an item. Annotations describe (summarize important content) and evaluate (critically analyze) the...,,,,,"short description, item, describe, evaluate, "
-,"capitalization, indentation, and punctuation. The annotation is a short critical review of the work. The annotation should include: a brief summary of the content...",,,,,"short critical, brief summary, content"
-,"m/tag), keeping its morphological information. The analytical layer corresponds to the surface syntax of the sentence; the annotation is a rooted dependency tree.",,,,,"analytical, dependency treem rooted"
-,"An annotation is a brief description of a book, article, or other publication, including audio-visual materials. Its purpose is to characterize the publication in such a...",,,,,"brief description, book, article, publication, audio visual materials"
-,"An annotation is a summary and/or evaluation. Therefore, an annotated bibliography includes a summary and/or evaluation of each of the sources. Depending...",,,,,"summary, evaluation, sources, annotated bibliography"
-,"An annotation is a summary or evaluation. Therefore, an annotated bibliography consists of a list of sources in which each source is accompanied by a summary...",,,,,"summary, evaluation, sources, annotated bibliography"
-,"In common parlance, the annotation is a critical or explanatory note, which is writ- ten on a ... In computing, the annotation is a concept (predefined) attached to a.",,,,,"critical, explanatory note, concept"
-,"The annotation is a brief description or explanation of material, intended as a ... ""An annotation is a short statement that tells what is important or",,,,,"brief description, short statement, important"
-,"An annotation is a declarative programming model where comments, ... The annotation is a @Select , it takes the SQL statement as a parameter and maps the...",,,,,"declarative, programming model, select"
-,"What is annotation? An annotation is a note, summary, or commentary on some section of a book or a statute that is intended to explain or illustrate its meaning.",,,,,"note, summary, commentary, section of a book, statute, meaning"
-,"m/tag), keeping its morphological information. The analytical layer corresponds to the surface syntax of the sentence; the annotation is a rooted dependency tree.",,,,,"analytical, dependency treem rooted"
-,The annotation is a brief paragraph following the citation. Purpose of the Annotation: The annotation of a source can serve several different purposes; your...,,,,,"brief paragraph, source, different purposes"
-,"An annotation is a note, explanation, or commentary added to a text, image, or other data. An annotated bibliography is similar to a bibliography...",,,,,"note, explanation, commentary, added to text, data, bibliography"
-,An annotation is a secondary authority that provides commenatary on a range of legal topics and is published on a periodic basis? A. True,,,,,"secondary authority, legal topics, commenatary, periodic"
-,An annotation is a JSON document that contains a number of fields describing the position and content of an annotation within a specified document:.,,,,,"document, fields, content, specified document"
-,An annotation is a note that you can associate with any step or route in a workflow map. Annotations are displayed on the workflow map that is displayed in...,,,,,"note, step, route, workflow map"
-,"An annotation is a graphical representation within the geometric (and spatial) context of a project, that adds a note or meaning to the objects which constitutes...",,,,,"graphical representation, context, geometric, adds, note,meaning "
-,"An annotation is a commentary a reader makes after critically reading an information source. It can include a summary of the reading, the reader's response to...",,,,,"commentary, reader, source, summary, "
-,Set-CustomAttribute. Detailed Description. This cmdlet retrieves annotations. An annotation is a user-defined description field of one or more vSphere objects.,,,,,"user-defined, field, objects, one, more"
-,"An annotation is a summary and/or evaluation. Therefore, an annotated bibliography includes a summary and/or evaluation of each of the sources. For purposes...",,,,,"summary, evaluation, sources, annotated bibliography"
-,"An annotation is a user-defined piece of information, declared with the following syntax.",,,,,"piece, user-defined, information, declared"
-,"The annotation is a concise description of a particular source, including important aspects of content not evident in the title. It enables the researcher to establish...",,,,,"concise description, particular source, aspects, content"
-,"An annotation is a summary and/or evaluation; a bibliography is a list of sources (books, journals, web sites, newspapers, etc.) one has used to research a topic.",,,,,"summary, evaluation, sources, topic"
-,"An annotation is a brief summary or description (usually 100 to 200 words) of a publication (article, book, Web site, movie, etc.). Its purpose is to...",,,,,"brief summary, description, publication, article, book"
-,The annotation is defined as @Target(ElementType.PARAMETER) @Retention(RetentionPolicy.RUNTIME) @Documented public @interface...,,,,,
-,An annotation is defined as a substantial piece of writing which may include diagrams and/or sections of notation that will accurately describe the process of...,,,,,"substancial, piece, notation, process"
-,"An annotation is defined as a document, identified by an URI, which describes the association created between two resources, a body and a...",,,,,"document, two resources......."
-,"An annotation is defined as a triple, or tripartite relationship be- tween a user, a tag, and a resource. In the remainder of this paper we will also...",,,,,
-,The @MessageDriven annotation in our example represents what you'll typically use most of the time. The annotation is defined as follows: tmp24111_thumb.,,,,,
-,An annotation is defined as any piece of information that is added to the database in order to enhance and complement the existing in-.,,,,,"piece of information, added to, database, "
-,"An annotation is defined as ""a statement added to the application by the Copyright. Office to amplify the record of facts affecting the copyright claim."" Annotations...",,,,,"statement added, application, copyright claim"
-,"An annotation is defined as a critical or explanatory note or body of notes added to a text, diagram, document, image or video (Khurana & Chandack, 2013).",,,,,"critical, explanatory, note, body of notes, added, document"
-,An annotation is defined as a label and a feature structure that is associated with a node or an edge in the graph. A feature structure is a list of features or nested...,,,,,"label, feature, structure, graph, "
-,"More formally, an annotation is defined as follows: Definition 7 (Annotation) An annotation for a query q is a three-tuple (I, M, C), where I is an...",,,,,"definition, query, tuple----"
-,"following definition: in general, an annotation is defined as an object associated with another through a relationship. The annotation object and the relationship...",,,,,"object associated, relationship,"
-,"more concisely, an annotation is defined as: annotation::= @annotation(about, annotation). |@annotation(about, tree) about::= @role(lcc-role-name).",,,,,
-,"more concisely, an annotation is defined as: annotation::= @annotation(about, annotation). |@annotation(about, tree) about::= @role(lcc-role-name).",,,,,
-,"Annotation, An Annotation is an arc in an AnnotationSet. AnnotationGraph, NOT IN USE AT PRESENT. AnnotationSet, A set of annotations on a document.",,,,,
-,An annotation is an article that summarizes the evolution of a very specific legal concept in a concise and precise fashion. (As read by Brandon Tran) The article...,,,,,"article, summarizes, legal concept, "
-,"An Annotation is an arc in an AnnotationGraph. It is immutable, to avoid the situation where each annotation has to point to its parent graph in order to tell it to...",,,,,"arc, immutable, point to, graphic, order"
-,An annotation is an action that a user performs during a recording session. Annotations are used to document or structure the test generated from the recording.,,,,,"action, user, performs,document, recording session"
-,The annotation is an element in the http://www.zkoss.org/2005/zk/annotation namespace. The element name and attributes can be anything...,,,,,"element, namespace, attributes"
-,"An annotation is an artifact that allows you to attach notes to individual elements in the process model, such as flow objects, swim lanes and data objects.",,,,,"artifact, notes, individual elements, process model, data objects"
-,An annotation is an additional piece of information that accompanies a document which might exist as either a text comment or a graphic. Annotations are...,,,,,"additional piece, information, document, comment, graphic"
-,"An annotation is an ordinary Java class itself. It can't see the members of an annotated class unless they are visible to it, using normal Java...",,,,,"Java class, members, visible"
-,words. Remember: the annotation is an overview. Be thorough but concise. 6. Write the appropriate bibliographic entry form. 7. Type final draft and proofread.,,,,,"overwiew, concise, bibliographic, ---"
-,An annotation is an interface type prefixed with @. @Readonly. @Unit(meter/second). Annotation ::= @ InterfaceType. InterfaceType ::= Name | Name...,,,,,"interface, type, prefixed"
-,"An annotation is an initialized note or comment attached to your document in a separate Annotations pane. As the author, you can choose whether to...",,,,,"innitialized, note, comment, document, separate, attached, author"
-,"An annotation is an event at a moment in time, initiated by an agent, with a source of content and a target. There is an implicit or explicit relationship between the...",,,,,"event, source, contenr, target, implicit, explicit, relationship"
-,An annotation is an explanatory note added to a process diagram or a structure diagram. Notifications Notifications are occurrences within a process that can...,,,,,"explanatory, comment, added, process diagram, structure "
-,"An annotation is an abstraction over string tokens. Conceptually, string tokens covered by annotations of the same type are considered to represent the same...",,,,,"abstraction, string tokens, same type"
-,"An annotation is an explanatory comment added to a document or diagram. Though more specifically it is a commentary that may detail,...",,,,,"explanatory, comment, added, document, diagram, commentary"
-,The annotation is an optional text to be included in any email message automatically. The super-process field references a super-process of...,,,,,"optional text, included, email message, automatically, super process"
-,"psychiatry), an annotation is an article-length document. (often commissioned) that provides a review or synthesis of research about a particular topic (see, e.g.,.",,,,,"article-length, document, review, synthesis, particular topic"
-,"According to Wikipedia, an annotation is an addition made to information in a book, document, online record, video, or other information.",,,,,"addition, information, book, document, online record, video"
-,An Annotation is an opinion by the Board of Equalization's legal staff on certain transactions. They consist of a brief summary of facts followed...,,,,,"opinion, transactions, brief summary, facts"
-,"Annotation struct holds properties shared by all annotations. An Annotation is an object (text note, highlight, sound, popup window, ..) contained by a Page in the...",,,,,"object, text note, highlight, sound, popud window, contained, page"
-,"Annotation - In PDF, an annotation is an item separate from the page content which is located in a layer above the page content. For example, like a Post-It...",,,,,"PDF, item, separate, post-it, page content, layer"
-,"An annotation is an explanation, or a summary of each of the books that you used to write you individual research paper. You will need to hold on to each of your...",,,,,"explanation, summary, each, books, individual research, "
-,An annotation is an instance of an annotation type. An annotation type has a name and members. The information contained in an annotation takes the form of...,,,,,"instance, type, information, contained, form"
-,"The annotation is an ""AnalyzerBusinessGroup"" on a Level: .",,,,,"AnalyzerBusinessGroup, Level "
-,An annotation is any '<' '>' delimited section of text(1). annotation: '<' tag-name tag-modifier-list ':' annotated-text '>' tag-name: identifier...,,,,,"delimited section, text, name tag, identifier"
-,"An annotation is any feature that can be tied to genomic sequence, such as an exon, transcript, promoter, or transposable element. As biological knowledge...",,,,,"feature, tied, genomic sequence, exon, transcript, element, biological"
-,"An annotation is any feature that can be tied to sequence, such as an exon, promoter, or transposable element. The Apollo tool (Lewis et al.,...",,,,,"feature, tied, genomic sequence, exon, transcript, element, tool"
-,An annotation is any note or mark you make while reading a text. Scholars in both the humanities and the sciences annotate texts whenever they underline key...,,,,,"note, mark, text, reading, underline key"
-,"An annotation is any feature that can be tied to genomic sequence, such as an exon, transcript, promoter, or transposable element.",,,,,"feature, tied, genomic sequence, exon, trasposable element"
-,"In the lexicon of genomics, an annotation is any feature tied to the genomic DNA sequence, for example a protein-coding gene model, a transposon, or a...",,,,,"genomics, feature, sequence, transposon"
-,An annotation is any arbitrary field that you wish to label in some way. The label should be a string. Annotations are useful in connection with...,,,,,"arbitrary field, label, connection---"
-,"An annotation is any feature that can be tied to genomic sequence, such as an exon, transcript, promoter, or transposable element. As biological knowledge",,,,,"feature, tied, genomic sequence, exon"
-,"An annotation is any type of text (e.g. a transcription, a translation, coding, etc.) that you enter on a tier. It is assigned to a selected time interval...",,,,,"type of text, transcription, translation, select time interval"
-,"An annotation is any type of text (e.g. a transcription, a translation, coding, etc.) that you enter on a tier. It is assigned to a selected time interval...",,,,,"type of text, transcription, translation, select time interval"
-,"Annotations. An annotation is any named markup on a text. It consists of a qualified name and a range. content types: application/json, text/html...",,,,,"named, markup, text, qualified, name, range"
-,event. An annotation is any kind of structured linguistic information that is explicitly aligned to some spatial and/or temporal extent of a linguistic record (such as a...,,,,,"kind, structured linguistic, information, extent, linguistic record"
-,[10]: An annotation is any additional content that is directly attached to a resource and that adds some implicit or explicit information in many different forms.,,,,,"additional, content, attached, resource, adds, information"
-,[10]: An annotation is any additional content that is directly attached to a resource and that adds some implicit or explicit information in many different forms.,,,,,"additional, content, attached, resource, adds, information"
-,[10]: An annotation is any additional content that is directly attached to a resource and that adds some implicit or explicit information in many different forms.,,,,,"additional, content, attached, resource, adds, information"
-,"In the lexicon of genomics, an annotation is any feature tied to the genomic DNA sequence, for example, a protein-coding gene model,...",,,,,"genomics, feature, tied, sequence, model"
-,"An annotation is any type of text (e.g. a transcription, a translation, coding, etc.) that is entered on a tier. It is assigned to a selected time interval...",,,,,"type of text, transcription, translation, select time interval"
-,An annotation is any type of information that is added to a video/audio recording. That can be an orthographic or a phonetic transcription of the speaker's...,,,,,"type information, added, audio recording, orthographic, phonetic"
-,"Preferably, the annotation is any one of char- acters or a symbol for showing an absolute direction in three-dimensional model space or a...",,,,,"characters, symbol, model space---"
-,"annotation. an annotation is characterized by: its author;. the addressees of the annotation;. the form of the annotation (text, graphical, video format, rdf,.",,,,,"author, addressees, form, text, graphical, video, format, "
-,"The annotation considered as OFFICIAL is CRIBI V1, availabe here. Below, all the websites with vitis annotation and corresponding versions are shown.",,,,,"OFFICIAL is CRIBI V1, websites, shown"
-,"Annotation is the practice of capturing the activities and localization of a gene product with GO terms, providing references and indicating what kind of evidence...",,,,,"practice, capturing, activities, localization,--"
-,"Annotation is the act of talking to the text as you read it. Though you may not be speaking out loud, you will be writing/taking notes about what you are reading...",,,,,"act, talking, text, read it, speaking, writing, "
-,"Annotation is the process of assigning GO terms to gene products. The annotation data in the GO database is contributed by members of the GO Consortium,...",,,,,"process, assigning, terms, gene products, data, GO database"
-,Annotating Text to Deepen Understanding. Doug Fisher. and. Nancy Frey. Annotation is a note of any form made while reading text. Reading with a pencil..,,,,,"text, understanding, note, form, reading text, pencil"
+an annotation is critical examination or commentary of book article or other publication it includes important aspects of content not evident in the title
+an annotation is note summary or commentary on some section of book or statute that is intended to explain or illustrate its meaning an annotation is
+what is go annotation an annotation is statement that gene product has particular molecular function is involved in particular biological
+what is an annotation an annotation is short description of an item annotations describe summarize important content and evaluate critically analyze the
+capitalization indentation and punctuation the annotation is short critical review of the work the annotation should include brief summary of the content
+tag keeping its morphological information the analytical layer corresponds to the surface syntax of the sentence the annotation is rooted dependency tree
+an annotation is brief description of book article or other publication including audio visual materials its purpose is to characterize the publication in such
+an annotation is summary and or evaluation therefore an annotated bibliography includes summary and or evaluation of each of the sources depending
+an annotation is summary or evaluation therefore an annotated bibliography consists of list of sources in which each source is accompanied by summary
+in common parlance the annotation is critical or explanatory note which is writ ten on in computing the annotation is concept predefined attached to
+the annotation is brief description or explanation of material intended as an annotation is short statement that tells what is important or
+an annotation is declarative programming model where comments the annotation is select it takes the sql statement as parameter and maps the
+what is annotation an annotation is note summary or commentary on some section of book or statute that is intended to explain or illustrate its meaning
+tag keeping its morphological information the analytical layer corresponds to the surface syntax of the sentence the annotation is rooted dependency tree
+the annotation is brief paragraph following the citation purpose of the annotation the annotation of source can serve several different purposes your
+an annotation is note explanation or commentary added to text image or other data an annotated bibliography is similar to bibliography
+an annotation is secondary authority that provides commenatary on range of legal topics and is published on periodic basis true
+an annotation is json document that contains number of fields describing the position and content of an annotation within specified document
+an annotation is note that you can associate with any step or route in workflow map annotations are displayed on the workflow map that is displayed in
+an annotation is graphical representation within the geometric and spatial context of project that adds note or meaning to the objects which constitutes
+an annotation is commentary reader makes after critically reading an information source it can include summary of the reading the reader response to
+set customattribute detailed description this cmdlet retrieves annotations an annotation is user defined description field of one or more vsphere objects
+an annotation is summary and or evaluation therefore an annotated bibliography includes summary and or evaluation of each of the sources for purposes
+an annotation is user defined piece of information declared with the following syntax
+the annotation is concise description of particular source including important aspects of content not evident in the title it enables the researcher to establish
+an annotation is summary and or evaluation bibliography is list of sources books journals web sites newspapers etc one has used to research topic
+an annotation is brief summary or description usually 100 to 200 words of publication article book web site movie etc its purpose is to
+the annotation is defined as target elementtype parameter retention retentionpolicy runtime documented public interface
+an annotation is defined as substantial piece of writing which may include diagrams and or sections of notation that will accurately describe the process of
+an annotation is defined as document identified by an uri which describes the association created between two resources body and
+an annotation is defined as triple or tripartite relationship be tween user tag and resource in the remainder of this paper we will also
+the messagedriven annotation in our example represents what you ll typically use most of the time the annotation is defined as follows tmp24111_thumb
+an annotation is defined as any piece of information that is added to the database in order to enhance and complement the existing in
+an annotation is defined as statement added to the application by the copyright office to amplify the record of facts affecting the copyright claim annotations
+an annotation is defined as critical or explanatory note or body of notes added to text diagram document image or video khurana chandack 2013
+an annotation is defined as label and feature structure that is associated with node or an edge in the graph feature structure is list of features or nested
+more formally an annotation is defined as follows definition annotation an annotation for query is three tuple where is an
+following definition in general an annotation is defined as an object associated with another through relationship the annotation object and the relationship
+more concisely an annotation is defined as annotation annotation about annotation annotation about tree about role lcc role name
+more concisely an annotation is defined as annotation annotation about annotation annotation about tree about role lcc role name
+annotation an annotation is an arc in an annotationset annotationgraph not in use at present annotationset set of annotations on document
+an annotation is an article that summarizes the evolution of very specific legal concept in concise and precise fashion as read by brandon tran the article
+an annotation is an arc in an annotationgraph it is immutable to avoid the situation where each annotation has to point to its parent graph in order to tell it to
+an annotation is an action that user performs during recording session annotations are used to document or structure the test generated from the recording
+the annotation is an element in the http www zkoss org 2005 zk annotation namespace the element name and attributes can be anything
+an annotation is an artifact that allows you to attach notes to individual elements in the process model such as flow objects swim lanes and data objects
+an annotation is an additional piece of information that accompanies document which might exist as either text comment or graphic annotations are
+an annotation is an ordinary java class itself it can see the members of an annotated class unless they are visible to it using normal java
+words remember the annotation is an overview be thorough but concise write the appropriate bibliographic entry form type final draft and proofread
+an annotation is an interface type prefixed with readonly unit meter second annotation interfacetype interfacetype name name
+an annotation is an initialized note or comment attached to your document in separate annotations pane as the author you can choose whether to
+an annotation is an event at moment in time initiated by an agent with source of content and target there is an implicit or explicit relationship between the
+an annotation is an explanatory note added to process diagram or structure diagram notifications notifications are occurrences within process that can
+an annotation is an abstraction over string tokens conceptually string tokens covered by annotations of the same type are considered to represent the same
+an annotation is an explanatory comment added to document or diagram though more specifically it is commentary that may detail
+the annotation is an optional text to be included in any email message automatically the super process field references super process of
+psychiatry an annotation is an article length document often commissioned that provides review or synthesis of research about particular topic see
+according to wikipedia an annotation is an addition made to information in book document online record video or other information
+an annotation is an opinion by the board of equalization legal staff on certain transactions they consist of brief summary of facts followed
+annotation struct holds properties shared by all annotations an annotation is an object text note highlight sound popup window contained by page in the
+annotation in pdf an annotation is an item separate from the page content which is located in layer above the page content for example like post it
+an annotation is an explanation or summary of each of the books that you used to write you individual research paper you will need to hold on to each of your
+an annotation is an instance of an annotation type an annotation type has name and members the information contained in an annotation takes the form of
+the annotation is an analyzerbusinessgroup on level
+an annotation is any delimited section of text annotation tag name tag modifier list annotated text tag name identifier
+an annotation is any feature that can be tied to genomic sequence such as an exon transcript promoter or transposable element as biological knowledge
+an annotation is any feature that can be tied to sequence such as an exon promoter or transposable element the apollo tool lewis et al
+an annotation is any note or mark you make while reading text scholars in both the humanities and the sciences annotate texts whenever they underline key
+an annotation is any feature that can be tied to genomic sequence such as an exon transcript promoter or transposable element
+in the lexicon of genomics an annotation is any feature tied to the genomic dna sequence for example protein coding gene model transposon or
+an annotation is any arbitrary field that you wish to label in some way the label should be string annotations are useful in connection with
+an annotation is any feature that can be tied to genomic sequence such as an exon transcript promoter or transposable element as biological knowledge
+an annotation is any type of text transcription translation coding etc that you enter on tier it is assigned to selected time interval
+an annotation is any type of text transcription translation coding etc that you enter on tier it is assigned to selected time interval
+annotations an annotation is any named markup on text it consists of qualified name and range content types application json text html
+event an annotation is any kind of structured linguistic information that is explicitly aligned to some spatial and or temporal extent of linguistic record such as
+10 an annotation is any additional content that is directly attached to resource and that adds some implicit or explicit information in many different forms
+10 an annotation is any additional content that is directly attached to resource and that adds some implicit or explicit information in many different forms
+10 an annotation is any additional content that is directly attached to resource and that adds some implicit or explicit information in many different forms
+in the lexicon of genomics an annotation is any feature tied to the genomic dna sequence for example protein coding gene model
+an annotation is any type of text transcription translation coding etc that is entered on tier it is assigned to selected time interval
+an annotation is any type of information that is added to video audio recording that can be an orthographic or phonetic transcription of the speaker
+preferably the annotation is any one of char acters or symbol for showing an absolute direction in three dimensional model space or
+annotation an annotation is characterized by its author the addressees of the annotation the form of the annotation text graphical video format rdf
+the annotation considered as official is cribi v1 availabe here below all the websites with vitis annotation and corresponding versions are shown
+annotation is the practice of capturing the activities and localization of gene product with go terms providing references and indicating what kind of evidence
+annotation is the act of talking to the text as you read it though you may not be speaking out loud you will be writing taking notes about what you are reading
+annotation is the process of assigning go terms to gene products the annotation data in the go database is contributed by members of the go consortium
+annotating text to deepen understanding doug fisher and nancy frey annotation is note of any form made while reading text reading with pencil
