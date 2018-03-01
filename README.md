@@ -5,13 +5,13 @@ We have a total amount of 5911 snippets. This number is limited by the number of
 
 # Vector representations
 
-Each text snippet was embedded into a document vector representation computed with the Doc2Vec distributional semantics method. Different dimensions for these vectors were computed: 10, 20, 30, 40, 50, 100 and 300. Vectors are in plain text format at `~/vectors_Hxxx` directories.
+Each text snippet was embedded into a sentence vector representation computed with the [WISSE](https://github.com/iarroyof/sentence_embedding) method. We used FastText word embeddings of 300d. Vectors are in plain text format at `~/vectors/vectors*.mtx` files.
 
-For all dimensions, the Doc2vec model was trained with the Wikipedia dump (year 2012). The training was performed in such a way the vocabulary of the model considers 2e6 articles for a first training. Afterwards the model was re-trained with 1.6e6 additional articles with no new vocabulary (3.6e6 articles in total).
+FastText model was trained with the Wikipedia dump (year 2012).
 
 ## Work in progress 
 
-It is pending adding semantic similarity labeling among snippets. This similarity is planned to be measured with respect to different semantic domains for each snippet (similarly to the SemEval datasets). Such a labeling is thought to be provided by using our semantic similarity annotation tool: https://github.com/iarroyof/define-semantic-annotation (any contribution is welcome.)
+Semantic textual similarity annotation tool: https://github.com/iarroyof/define-semantic-annotation (any contribution is welcome.)
 
 ## Remark
 
@@ -24,9 +24,9 @@ Please do not forget citing this repository in the case you use all/part materia
 ```
 @misc{arroyo2016,
     author = {Arroyo-Fern\'andez, Ignacio},
-    keywords = {text snippets containing definitions of terms},
+    keywords = {sense definitions},
     note = {Grupo de ingenir\'ia ling\"u\'istica -- Universidad Nacional Aut\'onoma de M\'exico},
-    title = {The Describe Corpus: A Recopilation of Text Snippets Containing Definitions of Terms from The Web},
+    title = {The Describe Corpus: A Recopilation of Text Snippets Containing Sense Definitions Retrieved from The Web and their Emebddings},
     url = {http://github.com/iarroyof/describe_corpus}
     year = {2016}
 }
